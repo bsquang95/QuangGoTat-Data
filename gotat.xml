@@ -1,14 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-07T10:44:33.7014037+07:00" note="publish" publishId="20261107034433701-8D5568FF" publishedAt="2026-11-07T03:44:33.7014037Z" publishedFrom="QUAYTRUCT8">
+<QuangGoTat version="1" savedAt="2026-11-07T10:47:32.7206601+07:00" note="publish" publishId="20261107034732720-A6FC27DA" publishedAt="2026-11-07T03:47:32.7206601Z" publishedFrom="QUAYTRUCT8">
   <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="191" updRepo="" updPath="gotat.xml" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
-    <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Ngày hiện tại" tags="nay, ngay, gio">
+    <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
       <content>{ngay}
 08h00</content>
-    </snippet>
-    <snippet id="9b8a7972501b445aa67b7bb77d376164" name="Ngày giờ hiện tại" tags="nay, ngay, gio">
-      <content>{ngay}
-{gio}</content>
     </snippet>
     <snippet id="8b39525d07b04d4297b455617082bb14" name="Mai" tags="mai">
       <content>{ngay+1}
@@ -99,6 +95,10 @@ Uống 03 viên/ngày chia 3 lần</content>
       <folder id="5dc4914e80854b5eaa0951b972eb2f6e" name="Thuốc đặt">
         <snippet id="90dea1c7a7e64bf79829167645b18ff8" name="Cyclogest" tags="cyclo, cyclogest">
           <content>(TT) Cyclogest 400 mg x 01 viên
+Đặt hậu môn 01 viên/lần vào buổi tối</content>
+        </snippet>
+        <snippet id="9eb6f6a25c7545ffa4881a99aa871c1f" name="Perfeclly" tags="per, p">
+          <content>(TT) Perfeclly 400 mg x 01 viên
 Đặt hậu môn 01 viên/lần vào buổi tối</content>
         </snippet>
         <snippet id="d46b365ff66f4048b10fe53671b454ad" name="Utrogestan" tags="utro, utrogestan">
