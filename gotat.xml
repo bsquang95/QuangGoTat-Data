@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-07T14:17:04.2997581+07:00" note="publish" publishId="20261107071704299-09800316" publishedAt="2026-11-07T07:17:04.3014332Z" publishedFrom="QUAYTRUCT8">
-  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="191" updRepo="" updPath="gotat.xml" />
+<QuangGoTat version="1" savedAt="2026-11-07T14:37:27.1065107+07:00" note="publish" publishId="20261107073727105-78131C0C" publishedAt="2026-11-07T07:37:27.1075080Z" publishedFrom="QUAYTRUCT8">
+  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hk2v="2" updRepo="" updPath="gotat.xml" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
       <content>{ngay}
@@ -11,25 +11,102 @@
 08h00</content>
     </snippet>
   </folder>
-  <folder id="afb93482775a416ba1b0dea307f5bdcc" name="BAĐT">
-    <folder id="0dd5f2029c9b462bb65df96f3148f624" name="Giảm co">
-      <snippet id="7a4889f9f82846b595a9a9bf796f4743" name="Truyền No-spa" tags="gc, nospa, truyền no-spa">
-        <content>NaCl 0.9% x 500ml
+  <folder id="9d1b592f8b0f49dfad96f903f3855d09" name="Diễn biến">
+    <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Thai" tags="nxt, nhận xét thai, dbt, diễn biến thai, db, nx">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định, không sốt
+Da niêm mạc hồng
+Tim phổi bình thường
+Bụng mềm không chướng
+Âm đạo không ra máu
+Ối còn, Thai máy +</content>
+    </snippet>
+    <snippet id="e8d19d4748f843dc8ae65d24f4ace739" name="PT không NSOB" tags="nxpt, nhận xét phẫu thuật, pt, db">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định, không sốt
+Da niêm mạc hồng
+Tim phổi bình thường
+Bụng mềm không chướng
+Phản ứng thành bụng âm tính
+Âm đạo không ra máu</content>
+    </snippet>
+    <snippet id="414eeca69e6f435f880ada974d6bcd05" name="PT có NSOB" tags="nxns, nhận xét nội soi, db, nx">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định, không sốt
+Da niêm mạc hồng
+Tim phổi bình thường
+Bụng mềm không chướng
+Phản ứng thành bụng âm tính
+Âm đạo không ra máu
+Vết mổ có ít dịch thấm băng</content>
+    </snippet>
+  </folder>
+  <folder id="5c4fc28a63594d70b6962d938c8ada6f" name="KS">
+    <snippet id="a69aafb7275343deb9a4b1ec4a79bce1" name="Metro 500 + Unasyl" tags="ks, kháng sinh">
+      <content>1. Metronidazole 500 mg x 02 chai
+Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h
+1. Unasyl 1.5 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
+    </snippet>
+    <snippet id="b05d232d63244064a8cc87c9322a8e84" name="Metro 400 + Unasyl" tags="ks, kháng sinh">
+      <content>1. Unasyl 1.5 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h
+1. Metronidazole 400 mg x 02 viên
+Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
+    </snippet>
+    <snippet id="7c967904c9454ad49ce5380c866de213" name="Metronidazole truyền" tags="metro, ks">
+      <content>1. Metronidazole 500 mg x 02 chai
+Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h</content>
+    </snippet>
+    <snippet id="d3deb980d71a436e93b9b2985269d723" name="Metronidazole uống" tags="metro, ks">
+      <content>1. Metronidazole 400 mg x 02 viên
+Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
+    </snippet>
+    <snippet id="cf1c4a8146f64c08911c2b8c54763b4a" name="Unasyl" tags="u, ks">
+      <content>1. Unasyl 1.5 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
+    </snippet>
+    <snippet id="2816bafb036d4cb1b8bcf1871e03af2c" name="Rocephin" tags="r, ro, ks">
+      <content>1. Rocephin 1 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
+    </snippet>
+    <snippet id="9f906172ab914c778e2436d56470450a" name="Zitromax" tags="z, zi, ks">
+      <content>1. Zitromax 500mg x 02 viên
+Uống 02 viên/lần sau ăn </content>
+    </snippet>
+  </folder>
+  <folder id="0dd5f2029c9b462bb65df96f3148f624" name="Giảm co">
+    <snippet id="7a4889f9f82846b595a9a9bf796f4743" name="Truyền No-spa" tags="gc, nospa, truyền no-spa">
+      <content>NaCl 0.9% x 500ml
 No-spa 40mg x 02 ống
    Pha với dung dịch NaCl 0.9% truyền tĩnh mạch XL giọt/phút</content>
-      </snippet>
-      <snippet id="8e5829941c67415d809166a7f98bc8b6" name="Nifedipine" tags="nife, nifedipine">
-        <content>Nifedipine 10mg x 08 viên
+    </snippet>
+    <snippet id="8e5829941c67415d809166a7f98bc8b6" name="Nifedipine" tags="nife, nifedipine">
+      <content>Nifedipine 10mg x 08 viên
 Ngậm dưới lưỡi 02 viên/lần cách nhau 06 giờ, đo huyết áp trước ngậm &gt; 90/60mmHg</content>
-      </snippet>
-      <snippet id="647f88cb18704b5c8350692c0fb94f4d" name="Yspuripax" tags="ysp, yspuripax">
-        <content>Yspuripax x 03 viên
+    </snippet>
+    <snippet id="647f88cb18704b5c8350692c0fb94f4d" name="Yspuripax" tags="ysp, yspuripax">
+      <content>Yspuripax x 03 viên
 Uống 03 viên/ngày chia 3 lần</content>
-      </snippet>
-    </folder>
-    <folder id="97cb7f5471494dc097f0185a619ccd12" name="Bệnh">
-      <snippet id="68ba84ad60794273a46f9e02f34245dd" name="Thai nhỏ dọa sảy (có truyền No-spa)" tags="ds, dọa sảy có nospa">
-        <content>Glucose 5% x 500ml
+    </snippet>
+  </folder>
+  <folder id="5dc4914e80854b5eaa0951b972eb2f6e" name="Thuốc đặt">
+    <snippet id="90dea1c7a7e64bf79829167645b18ff8" name="Cyclogest" tags="cyclo, cyclogest">
+      <content>(TT) Cyclogest 400 mg x 01 viên
+Đặt hậu môn 01 viên/lần vào buổi tối</content>
+    </snippet>
+    <snippet id="9eb6f6a25c7545ffa4881a99aa871c1f" name="Perfeclly" tags="per, p">
+      <content>(TT) Perfeclly 400 mg x 01 viên
+Đặt hậu môn 01 viên/lần vào buổi tối</content>
+    </snippet>
+    <snippet id="d46b365ff66f4048b10fe53671b454ad" name="Utrogestan" tags="utro, utrogestan">
+      <content>(TT) Utrogestan 200mg x 02 viên
+Đặt âm đạo 02 viên/lần vào buổi tối</content>
+    </snippet>
+  </folder>
+  <folder id="97cb7f5471494dc097f0185a619ccd12" name="Bệnh">
+    <snippet id="68ba84ad60794273a46f9e02f34245dd" name="Thai nhỏ dọa sảy (có truyền No-spa)" tags="ds, dọa sảy có nospa">
+      <content>Glucose 5% x 500ml
 No-spa 40mg x 02 ống
    Truyền tĩnh mạch XL giọt/phút
 Transamin 250mg x 02 ống
@@ -48,9 +125,9 @@ Aspirin 81 mg
     Dừng thuốc
  Theo dõi toàn trạng , đau bụng, ra máu âm đạo
 Cơm, CSIII</content>
-      </snippet>
-      <snippet id="333c2fd71ca74c4c8cf3f0a252eb7c64" name="Thai nhỏ dọa sảy (không truyền No-spa)" tags="ds, dọa sảy không nospa">
-        <content>Transamin 250mg x 02 ống
+    </snippet>
+    <snippet id="333c2fd71ca74c4c8cf3f0a252eb7c64" name="Thai nhỏ dọa sảy (không truyền No-spa)" tags="ds, dọa sảy không nospa, dtds">
+      <content>Transamin 250mg x 02 ống
    Tiêm tĩnh mạch chậm 02 ống/lần 9h
 Progesteron 25mg x 02 ống
   Tiêm bắp sâu 02 ống/ lần 9h
@@ -68,29 +145,29 @@ Aspirin 81 mg
     Dừng thuốc
  Theo dõi toàn trạng , đau bụng, ra máu âm đạo
 Cơm, CSIII</content>
-      </snippet>
-    </folder>
-    <folder id="e11d9b89643947f0b6baad38b95df301" name="Ra viện">
-      <snippet id="db0e43005f6444c0809b717b31e01d9c" name="Thai" tags="rvt, ra viện thai">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
+    </snippet>
+  </folder>
+  <folder id="e11d9b89643947f0b6baad38b95df301" name="Ra viện">
+    <snippet id="db0e43005f6444c0809b717b31e01d9c" name="Thai" tags="rvt, ra viện thai">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định
 Da niêm mạc hồng
 Tim phổi bình thường
 Không đau bụng
 Âm đạo không ra máu
 Bệnh nhân ổn định &gt; ra viện</content>
-      </snippet>
-      <snippet id="38ace456590f4783848f178579258ac1" name="PT không NSOB" tags="rvpt, ra viện phẫu thuật">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
+    </snippet>
+    <snippet id="38ace456590f4783848f178579258ac1" name="PT không NSOB" tags="rvpt, ra viện phẫu thuật">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định
 Da niêm mạc hồng
 Tim phổi bình thường
 Không đau bụng
 Âm đạo không ra máu
 Bệnh nhân ổn định &gt; ra viện</content>
-      </snippet>
-      <snippet id="9a7733d01f264215bf730c3e56a7ab7f" name="PT có NSOB" tags="rvns, ra viện nội soi ổ bụng">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
+    </snippet>
+    <snippet id="9a7733d01f264215bf730c3e56a7ab7f" name="PT có NSOB" tags="rvns, ra viện nội soi ổ bụng">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định
 Da niêm mạc hồng
 Tim phổi bình thường
@@ -98,96 +175,17 @@ Không đau bụng
 Âm đạo không ra máu
 Vết mổ khô
 Bệnh nhân ổn định &gt; ra viện</content>
-      </snippet>
-    </folder>
-    <folder id="9b18c72dce0d4c38b5464cc219d18183" name="TKBA">
-      <snippet id="9bca22fcca344ccc9dd1e1e3ee3f3c45" name="Sau" tags="sau">
-        <content>Sau     ngày điều trị, bệnh nhân ổn định &gt; ra viện.</content>
-      </snippet>
-      <snippet id="a6f5782b7e3c4928b8687ee927b30b6e" name="PP điều trị – nội khoa" tags="ppdt, phương pháp điều trị">
-        <content>Kháng sinh, nội tiết, giảm co, cầm máu</content>
-      </snippet>
-      <snippet id="2e4eed77d253408585905bf5d043d64a" name="PP điều trị – khâu eo CTC" tags="ppctc, pp khâu ctc">
-        <content>Kháng sinh + khâu eo cổ tử cung</content>
-      </snippet>
-    </folder>
-    <folder id="9d1b592f8b0f49dfad96f903f3855d09" name="Diễn biến">
-      <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Thai" tags="nxt, nhận xét thai, dbt, diễn biến thai, db, nx">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
-Huyết động ổn định, không sốt
-Da niêm mạc hồng
-Tim phổi bình thường
-Bụng mềm không chướng
-Âm đạo không ra máu
-Ối còn, Thai máy +</content>
-      </snippet>
-      <snippet id="e8d19d4748f843dc8ae65d24f4ace739" name="PT không NSOB" tags="nxpt, nhận xét phẫu thuật, pt, db">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
-Huyết động ổn định, không sốt
-Da niêm mạc hồng
-Tim phổi bình thường
-Bụng mềm không chướng
-Phản ứng thành bụng âm tính
-Âm đạo không ra máu</content>
-      </snippet>
-      <snippet id="414eeca69e6f435f880ada974d6bcd05" name="PT có NSOB" tags="nxns, nhận xét nội soi, db, nx">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
-Huyết động ổn định, không sốt
-Da niêm mạc hồng
-Tim phổi bình thường
-Bụng mềm không chướng
-Phản ứng thành bụng âm tính
-Âm đạo không ra máu
-Vết mổ có ít dịch thấm băng</content>
-      </snippet>
-    </folder>
-    <folder id="5c4fc28a63594d70b6962d938c8ada6f" name="KS">
-      <snippet id="a69aafb7275343deb9a4b1ec4a79bce1" name="Metro 500 + Unasyl" tags="ks, kháng sinh">
-        <content>1. Metronidazole 500 mg x 02 chai
-Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h
-1. Unasyl 1.5 g x 02 lọ
-Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
-      </snippet>
-      <snippet id="b05d232d63244064a8cc87c9322a8e84" name="Metro 400 + Unasyl" tags="ks, kháng sinh">
-        <content>1. Unasyl 1.5 g x 02 lọ
-Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h
-1. Metronidazole 400 mg x 02 viên
-Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
-      </snippet>
-      <snippet id="7c967904c9454ad49ce5380c866de213" name="Metronidazole truyền" tags="metro, ks">
-        <content>1. Metronidazole 500 mg x 02 chai
-Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h</content>
-      </snippet>
-      <snippet id="d3deb980d71a436e93b9b2985269d723" name="Metronidazole uống" tags="metro, ks">
-        <content>1. Metronidazole 400 mg x 02 viên
-Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
-      </snippet>
-      <snippet id="cf1c4a8146f64c08911c2b8c54763b4a" name="Unasyl" tags="u, ks">
-        <content>1. Unasyl 1.5 g x 02 lọ
-Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
-      </snippet>
-      <snippet id="2816bafb036d4cb1b8bcf1871e03af2c" name="Rocephin" tags="r, ro, ks">
-        <content>1. Rocephin 1 g x 02 lọ
-Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
-      </snippet>
-      <snippet id="9f906172ab914c778e2436d56470450a" name="Zitromax" tags="z, zi, ks">
-        <content>1. Zitromax 500mg x 02 viên
-Uống 02 viên/lần sau ăn </content>
-      </snippet>
-    </folder>
-    <folder id="5dc4914e80854b5eaa0951b972eb2f6e" name="Thuốc đặt">
-      <snippet id="90dea1c7a7e64bf79829167645b18ff8" name="Cyclogest" tags="cyclo, cyclogest">
-        <content>(TT) Cyclogest 400 mg x 01 viên
-Đặt hậu môn 01 viên/lần vào buổi tối</content>
-      </snippet>
-      <snippet id="9eb6f6a25c7545ffa4881a99aa871c1f" name="Perfeclly" tags="per, p">
-        <content>(TT) Perfeclly 400 mg x 01 viên
-Đặt hậu môn 01 viên/lần vào buổi tối</content>
-      </snippet>
-      <snippet id="d46b365ff66f4048b10fe53671b454ad" name="Utrogestan" tags="utro, utrogestan">
-        <content>(TT) Utrogestan 200mg x 02 viên
-Đặt âm đạo 02 viên/lần vào buổi tối</content>
-      </snippet>
-    </folder>
+    </snippet>
+  </folder>
+  <folder id="9b18c72dce0d4c38b5464cc219d18183" name="TKBA">
+    <snippet id="9bca22fcca344ccc9dd1e1e3ee3f3c45" name="Sau" tags="sau">
+      <content>Sau     ngày điều trị, bệnh nhân ổn định &gt; ra viện.</content>
+    </snippet>
+    <snippet id="a6f5782b7e3c4928b8687ee927b30b6e" name="PP điều trị – nội khoa" tags="ppdt, phương pháp điều trị">
+      <content>Kháng sinh, nội tiết, giảm co, cầm máu</content>
+    </snippet>
+    <snippet id="2e4eed77d253408585905bf5d043d64a" name="PP điều trị – khâu eo CTC" tags="ppctc, pp khâu ctc">
+      <content>Kháng sinh + khâu eo cổ tử cung</content>
+    </snippet>
   </folder>
 </QuangGoTat>
