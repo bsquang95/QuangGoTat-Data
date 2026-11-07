@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-07T14:50:44.6865124+07:00" note="publish" publishId="20261107075044686-1C83599E" publishedAt="2026-11-07T07:50:44.6865124Z" publishedFrom="QUAYTRUCT8">
+<QuangGoTat version="1" savedAt="2026-11-07T14:59:41.9981285+07:00" note="publish" publishId="20261107075941998-DF5D063B" publishedAt="2026-11-07T07:59:42.0135467Z" publishedFrom="QUAYTRUCT8">
   <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hk2v="2" updRepo="" updPath="gotat.xml" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
@@ -200,9 +200,298 @@ Bệnh nhân ổn định &gt; ra viện</content>
     </snippet>
   </folder>
   <folder id="366b13943f31493695ab70f3fd7adc72" name="Bệnh án">
-    <snippet id="04bedc803da54bf0b8b103cf3bcd3f5c" name="Gõ tắt mới">
+    <snippet id="04bedc803da54bf0b8b103cf3bcd3f5c" name="BA dọa sảy" tags="bads, ds">
       <content>
       </content>
     </snippet>
+  </folder>
+  <folder id="deef83ef8efc4da192a3e950999661c9" name="Mẫu phẫu thuật – thủ thuật">
+    <folder id="f25979b19010489e9709cf5f04e0f9e1" name="Phẫu thuật">
+      <snippet id="94863460878c47118988cb1e2e68257b" name="PTNS tách dính buồng tử cung" tags="tachdinh, dính btc, ptns">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung dính từ thành trước ra thành sau bởi 1 cột cơ dày, không nhìn rõ 2 lỗ vòi tử cung. AFS score
+Nong cổ tử cung đến số 9,5. Dùng dao điện đơn cực cắt dính. Sau cắt dính, buồng tử cung rộng, nhìn rõ hai lỗ vòi tử cung.
+Thì 2: Soi ổ bụng
+Chọc trocart dưới rốn, bơm CO2
+Chọc 02 trocart 2 bên hố chậu.
+Quan sát gan bình thường, không dính.
+Tử cung kích thước bình thường, vòi tử cung hai bên mềm mại, loa vòi tự do, buồng trứng hai bên bình thường, có sẹo phóng noãn bên phải.
+Bơm Xanhmethylen 2 vòi tử cung thông.
+Rửa sạch ổ bụng
+Xả CO2. Rút trocart.
+Bơm gel chống dính buồng tử cung
+Đặt bóng buồng tử cung
+Dùng chu kỳ kinh nhân tạo</content>
+      </snippet>
+      <snippet id="8eb4a67fb0c64cbd953aacd1f20a8c97" name="PTNS cắt polyp buồng tử cung" tags="ptpolyp, polyp btc, ptns">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung có nhiều polyp ở thành trước và thành sau kích thước 0,7 x 1 cm, nhìn rõ lỗ vòi tử cung phải, không nhìn rõ lỗ vòi tử cung trái. không nhìn rõ 2 lỗ vòi tử cung.
+Nong cổ tử cung đến số 9,5. Dùng dao điện đơn cực cắt polyp. Sau cắt polyp, buồng tử cung rộng, nhìn rõ hai lỗ vòi tử cung.
+Thì 2: Soi ổ bụng
+Chọc trocart dưới rốn, bơm CO2
+Chọc 02 trocart 2 bên hố chậu.
+Quan sát gan bình thường, không dính.
+Tử cung kích thước bình thường, vòi tử cung hai bên mềm mại, loa vòi tự do, buồng trứng hai bên bình thường, có sẹo phóng noãn bên phải.
+Bơm Xanhmethylen 2 vòi tử cung thông.
+Rửa sạch ổ bụng
+Xả CO2. Rút trocart.
+Bơm gel chống dính.
+Dùng chu kỳ kinh nhân tạo</content>
+      </snippet>
+      <snippet id="e06ed35b3a854ebfb3cb0c5fb0f4780d" name="PTNS kẹp cắt vòi tử cung" tags="catvoi, cắt vòi, ứ dịch vòi, ptns">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy ống cổ tử cung bình thường, Buồng tử cung bình thường, nhìn rõ 2 lỗ vòi tử cung
+Thì 2: Soi ổ bụng
+Chọc trocart dưới rốn, bơm CO2
+Chọc 02 trocart 2 bên hố chậu.
+Quan sát gan bình thường, không dính.
+Tử cung kích thước bình thường. Vòi tử cung 2 bên viêm dày, ứ dịch, loa vòi tạo thành túi bịt. Buồng trứng 2 bên bình thường, có sẹo phóng noãn. Tiến hành gỡ dính, cắt 2 vòi tử cung sát sừng.
+Lấy bệnh phẩm gửi giải phẫu bệnh
+Rửa sạch ổ bụng
+Xả CO2, rút trocar.</content>
+      </snippet>
+      <snippet id="ca1f0bf9c93e41c79a8c2cedae4ce604" name="Chửa ngoài tử cung (nội soi)" tags="cntc, chửa ngoài, ptns">
+        <content>Chọc trocar 5 sát ngay dưới rốn vào ổ bụng, bơm CO2.
+Chọc 2 trocar 5 hai bên hố chậu.
+Quan sát gan bình thường không dính, ổ bụng có khoảng 200ml máu loãng, không đông.
+Tử cung kích thước bình thường. Khối chửa đoạn bóng vòi tử cung trái kích thước 2x3 cm đang rỉ máu. Vòi tử cung phải mềm mại, loa vòi tự do. Buồng trứng 2 bên bình thường. Tiến hành cắt vòi tử cung trái sát sừng.
+Lấy bệnh phẩm qua Trocar 10 gửi giải phẫu bệnh.
+Rửa sạch ổ bụng
+Khâu vết mổ.</content>
+      </snippet>
+      <snippet id="f2fe1a24268646319f3cf74e91e9ba89" name="Khuyết sẹo mổ lấy thai" tags="khuyetseo, isthmocele, sẹo mổ">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung bình thường, nhìn rõ 2 lỗ vòi tử cung.
+Đoạn eo thành trước tử cung có khuyết sẹo mổ lấy thai dài 1,5cm, rộng 3,5 cm, sâu 1cm
+Thì 2: Mổ mở sửa khuyết sẹo mổ lấy thai
+Rạch da đường ngang trên vệ, cắt bỏ sẹo mổ cũ vào ổ bụng
+Bộc lộ tử cung và 2 phần phụ
+Tử cung kích thước bình thường, vòi tử cung hai bên mềm mại, loa vòi tự do, buồng trứng hai bên bình thường, có sẹo phóng noãn bên phải.
+Bơm Xanhmethylen 2 vòi tử cung thông.
+Bóc tách phúc mạc đoạn dưới tử cung bộc lộ sẹo mổ lấy thai cũ
+Cắt lọc sẹo mổ cũ
+Khâu phục hồi cơ tử cung bằng chỉ Monocryl 1.0
+Khâu phủ phúc mạc đoạn dưới tử cung
+Đóng bụng theo các lớp giải phẫu
+Khâu luồn dưới da bằng chỉ Dafilon 2.0</content>
+      </snippet>
+      <snippet id="7d7642a841424c1290e52d3032dc72ac" name="Nội soi – dị dạng tử cung, cắt vòi trái" tags="didang, dị dạng tử cung, ptns">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy một cổ tử cung,ống cổ tử cung bình thường, Buồng tử cung hình trụ dẹt,kích thước hẹp hơn bình thường,chỉ quan sát thấy một lỗ vòi tử cung trái,không có lỗ vòi tử cung phải, niêm mạc tử cung viêm mạn tính đỏ sậm,lòng tử cung có nhiều dịch nâu từ lỗ vòi trái chảy ra.
+Thì 2: Soi ổ bụng
+Chọc trocart dưới rốn, bơm CO2
+Chọc 02 trocart 2 bên hố chậu.
+Quan sát gan bình thường, không dính.
+Tử cung trái kích thước nhỏ hơn bình thường. Vòi tử cung bên trái viêm dày, ứ dịch, loa vòi tạo thành túi bịt,dính vào quai đại tràng ngang và buồng trứng trái.
+Tử cung bên phải kích thước 1 x 2 cm,không có cấu trúc cổ tử cung,vòi tử cung phải mềm mại,loa vòi tự do,buồng trứng phải bình thường.
+Hai tử cung dính với nhau bởi một dải cơ mảnh,dẹt,hai buồng tử cung không thông sang nhau.
+Tiến hành gỡ dính, cắt vòi tử cung trái sát sừng.
+Lấy bệnh phẩm gửi giải phẫu bệnh
+Rửa sạch ổ bụng
+Xả CO2, rút trocar.</content>
+      </snippet>
+      <snippet id="e59af6cf72a64b1b8652477db81812f4" name="Vi phẫu tinh hoàn tìm tinh trùng (micro-TESE)" tags="tese, microtese, tinh hoàn">
+        <content>Bệnh nhân nằm ngửa, sát khuẩn bộ phận sinh dục
+Rạch đường giữa bìu 4cm, tách các lớp da bìu
+Bộc lộ tinh hoàn và thừng tinh 2 bên, quan sát thấy tinh hoàn kích thước khoảng 5-6ml, mềm nhẽo, mào tinh mềm, ống dẫn tinh sờ thấy.
+Tiến hành rạch ngang bao trắng tinh hoàn Trái, quan sát thấy mô tinh hoàn mềm nhẽo dạng thoái hóa nước.
+Đưa kính vi phẫu vào tìm các ống sinh tinh giãn.
+Lấy 04 mẫu mô tinh hoàn chứa các ống sinh tinh giãn đưa labo tìm tinh trùng.
+Tiến hành mở tinh hoàn Phải tương tự bên Trái
+Trên mẫu soi quan sát thấy một vài tinh trùng bất động.
+Gửi 08 mẫu mô tinh hoàn cho Labo hỗ trợ sinh sản tìm tinh trùng làm IVF- ICSI.
+Khâu đóng bao trắng tinh hoàn
+Kiểm tra cầm máu vết mổ, đưa tinh hoàn về vị trí giải phẫu</content>
+      </snippet>
+      <snippet id="f3c8fb1cd20f45bfb227a248ed042451" name="Tạo hình âm đạo" tags="taohinh, tạo hình âm đạo">
+        <content>- Bn nằm ngửa, sát khuẩn bộ phận sinh dục
+- Bộc lộ âm đạo bằng van âm đạo
+- Dùng chaput kẹp 2 thành bên âm đạo, dùng dạo rạch dọc theo hình tam giác, bóc tách và cắt bỏ niêm mạc thành sau âm đạo
+- Dùng chỉ Vicryl 1.0 khâu 2 mép thành sau âm đạo đã cắt bỏ
+- Kiểm tra không chảy máu
+- Dùng chỉ vicryl 2.0 khâu mũi rời khép 2 mép vùng TSM
+- Đặt sonde tiểu BQ và 1 meche chèn âm đạo
+- Bàn giao rút sonde sau 24h</content>
+      </snippet>
+    </folder>
+    <folder id="d1f174fcb7a8409e99987706b3a73a7b" name="Soi buồng tử cung">
+      <snippet id="da1b2c498e3645d88e3d71456c3d2298" name="Soi buồng tử cung + sinh thiết CD138/NK" tags="soibtc, soi btc, cd138">
+        <content>Bệnh nhân nằm tư thế sản khoa
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung không quan sát thấy tổn thương dính, polyp và vách ngăn
+Niêm mạc đang trong pha tăng sinh, mềm mại, không xơ ,không viêm
+Nhìn rõ hai lỗ vòi tử cung.
+Sinh thiết niêm mạc làm xét nghiệm CD138 + NK tử cung
+Tháo dụng cụ
+Sát khuẩn, làm sạch âm đạo.</content>
+      </snippet>
+      <snippet id="b7d5de599bc14e41822b093ecdb71721" name="Soi buồng tử cung cắt polyp" tags="soipolyp, soi btc polyp, cd138">
+        <content>Bệnh nhân nằm tư thế sản khoa
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung có 01 polyp kích thước 0.5 x 0,5 cm, mặt sau.
+Niêm mạc đang trong pha tăng sinh, đỏ sậm, mềm mại
+Nong cổ tử cung đến số 9,5. Dùng dao điện đơn cực cắt polyp. Sau cắt polyp, buồng tử cung rộng, nhìn rõ hai lỗ vòi tử cung.
+Sinh thiết niêm mạc làm xét nghiệm CD138 + NK tử cung
+Bơm gel chống dính.
+Dùng chu kỳ kinh nhân tạo
+Sát khuẩn,làm sạch âm đạo.</content>
+      </snippet>
+    </folder>
+    <folder id="ac1222ca9d6f4bb5bfd1e2dedb86719f" name="Thủ thuật">
+      <snippet id="104ae86f1e8345e58584b28342e50fe6" name="Hút thai" tags="hutthai, hút thai">
+        <content>- Sát khuẩn âm hộ, âm đạo và cổ tử cung
+- Trải săng vô khuẩn
+- Đặt mỏ vịt bộc lộ cổ tử cung
+- Sát khuẩn lại âm đạo cổ tử cung
+- Kẹp cổ tử cung bằng kẹp Pozzi
+- Đo buồng tử cung bằng ống hút số 5
+- Hút thai dưới sự hướng dẫn của siêu âm được nhiều tổ chức thai + rau mủn nát
+- Sau thủ thuật, tử cung co chắc, huyết âm đạo ra ít
+- Tháo dụng cụ</content>
+      </snippet>
+      <snippet id="8ba7f429c94e4ac8bd218da46d11bf6a" name="Nạo buồng tử cung (polyp)" tags="nao, nạo btc">
+        <content>- Vệ sinh âm hộ, âm đạo bằng Betadin.
+- Đặt mỏ vịt bộc lộ cổ tử cung, sát khuẩn lại âm đạo – cổ tử cung.
+- Kẹp cổ tử cung bằng kẹp pozi.
+- Nong BTC bằng nến nong từ số 5 đến số 8 dưới hướng dẫn siêu âm
+- Nạo polyp buồng tử cung dưới sự hướng dẫn của siêu âm.
+- Sau thủ thuật kiểm tra không chảy máu.
+- Sát khuẩn lại bằng betadin.
+- Lấy bệnh phẩm gửi giải phẫu bệnh.</content>
+      </snippet>
+      <snippet id="677203494a9b48e1a538ec85db465a46" name="Nong buồng tử cung" tags="nongbtc, nong btc">
+        <content>- Sát khuẩn âm hộ, âm đạo và cổ tử cung
+- Trải săng vô khuẩn
+- Đặt mỏ vịt bộc lộ cổ tử cung
+- Sát khuẩn lại âm đạo cổ tử cung
+- Kẹp cổ tử cung bằng kẹp Pozzi
+- Đo buồng tử cung bằng thước đo buồng
+- Nong buồng tử cung từ số 5 đến sô 9
+- Sau thủ thuật, tử cung co chắc, huyết âm đạo ra ít
+- Tháo dụng cụ</content>
+      </snippet>
+      <snippet id="6e10c703f2b040aea0fcc12a907c9769" name="Giảm thai" tags="giamthai, giảm thai">
+        <content>- Vệ sinh âm hộ, âm đạo bằng nước muối sinh lý và Betadin.
+- Siêu âm kiểm tra: Buồng tử cung có 02 túi thai, trong đó Túi 1: có 01 thai 7 tuần 6 ngày, tim thai (+); Túi 02: có 02 thai 8 tuần, tim thai (+),2 tim thai sát cạnh nhau
+- Tiến hành giảm 01 thai trong túi có 02 thai dưới hướng dẫn siêu âm đầu dò âm đạo.
+- Siêu âm kiểm tra 02 thai còn lại tim thai bình thường.
+- Sau thủ thuật kiểm tra không chảy máu.
+- Sonde bàng quang kiểm tra nước tiểu vàng trong
+- Sát khuẩn lại bằng betadin.</content>
+      </snippet>
+      <snippet id="16023fb71601440bb1197d6438a3cb7f" name="Chọc ối" tags="chocoi, chọc ối">
+        <content>- Sát khuẩn bụng bằng Betadin.
+- Siêu âm kiểm tra: Buồng tử cung có 02 túi thai, trong đó Túi 1 bên phải thai 17 tuần 1 ngày,rau bám mặt trước, tim thai (+) .Túi 02 thai bên trái 17 tuần 1 ngày, tim thai (+), rau bám mặt sau
+- Tiến hành chọc ối 2 buồng ối, hút 6 ml nước ối mỗi buồng dưới hướng dẫn siêu âm đầu dò đường bụng
+- Gửi bệnh phẩm phòmg xét nghiệm.
+- Siêu âm kiểm tra 02 thai tim thai bình thường.
+- Sau thủ thuật kiểm tra không chảy máu.
+- Sát khuẩn lại bằng betadine.</content>
+      </snippet>
+      <snippet id="f4bf8c121f6f432fb79655e8dc7234f0" name="Chọc nang tồn dư" tags="chocnang, chọc nang, lạc nội mạc">
+        <content>- Vệ sinh âm hộ, âm đạo bằng Betadin.
+- Siêu âm kiểm tra đánh giá lại thấy buồng trứng 2 bên có 2 nang lạc nội mạc kích thước lớn.
+- Tiến hành chọc hút nang dưới hướng dẫn siêu âm đầu dò âm đạo ra nhiều dịch đục đen dạng dịch lạc nội mạc tử cung
+- Siêu âm kiểm tra lại
+- Sau thủ thuật kiểm tra không chảy máu.
+- Sonde bàng quang kiểm tra nước tiểu vàng trong
+- Sát khuẩn lại bằng betadin.</content>
+      </snippet>
+      <snippet id="9c50b0e447ae4c71a32f684659bae8b2" name="Khâu vòng cổ tử cung" tags="khauctc, khâu ctc, khâu eo">
+        <content>Sát khuẩn âm hộ, âm đạo – cổ tử cung
+Đặt mỏ vịt bộc lộ cổ tử cung, quan sát thấy cổ tử cung ngắn, kín.
+Sát khuẩn lại cổ tử cung
+Tiến hành khâu vòng cổ tử cung bằng chỉ Mersilene ở các vị trí 12h-3h-6h-9h.
+Thắt chỉ ở vị trí 12h.
+Sau thủ thuật, kiểm tra không chảy máu.
+Sát khuẩn lại âm đạo – cổ tử cung.
+Tháo dụng cụ</content>
+      </snippet>
+      <snippet id="56e5dfca56944a558e8c8d8cf7ee30a3" name="Đặt vòng nâng cổ tử cung" tags="vongnang, pessary, vòng nâng">
+        <content>Sát khuẩn âm hộ, âm đạo – cổ tử cung.
+Đặt mỏ vịt bộc lộ cổ tử cung, quan sát thấy cổ tử cung ngắn, kín.
+Sát khuẩn lại cổ tử cung.
+Tháo mỏ vịt.
+Tiến hành đặt vòng nâng cổ tử cung.
+Sau thủ thuật, kiểm tra không chảy máu.
+Đặt lại mỏ vịt kiểm tra vòng nâng đúng vị trí.
+Tháo dụng cụ.</content>
+      </snippet>
+    </folder>
+    <folder id="3f93f24c27a1451795f8febb178a4daf" name="Thủ thuật phòng khám">
+      <snippet id="f5c72df0164943f6bbd0d6ed0972d137" name="Đốt lộ tuyến cổ tử cung" tags="lotuyen, đốt lộ tuyến, laser">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Mở mỏ vịt bộc lộ âm đạo cổ tử cung, thấy cổ tử cung viêm lộ tuyến độ II
+Đốt lazer cổ tử cung
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="8da61983ac7a4e25b9af32765005006a" name="Đốt sùi mào gà" tags="suimaoga, sùi mào gà">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Kiểm tra âm hộ thấy có nốt sùi ở môi bé bên phải kt 0.5x1 cm
+(Mở mỏ vịt kiểm tra toàn bộ thành âm đạo và cổ tử cung không thấy nốt sùi)
+(Mở mỏ vịt kiểm tra thấy thành phải âm đạo có nốt sùi kt… )
+Gây tê tại chỗ
+Tiến hành dùng dao điện một cực cắt nốt sùi mào gà, đốt chân cầm máu
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="e6ef6ab7f2a644d4947bfa354a6ca54e" name="Xoắn polyp cổ tử cung" tags="polypctc, polyp ctc">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Mở mỏ vịt bộc lộ âm đạo cổ tử cung, thấy cổ tử cung có polyp tuyến kt 1x0.5 cm
+Xoắn polyp cổ tử cung
+Đốt chân cầm máu
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="a45fe63189d14aab87b8f945324ebb78" name="Tháo dụng cụ tử cung" tags="thaovong, tháo vòng, dctc">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Mở mỏ vịt bộc lộ âm đạo cổ tử cung thấy phần dây của dụng cụ tử cung đúng vị trí
+Tháo dụng cụ tử cung
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="9597ddc2f8a74bdaa3958d83624c51c8" name="Đặt dụng cụ tử cung" tags="datvong, đặt vòng, dctc">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Mở mỏ vịt bộc lộ âm đạo cổ tử cung
+Kẹp pozzi vào cổ tử cung vị trí 12 giờ
+Đặt dụng cụ tử cung
+Cắt dây của dụng cụ tử cung dài còn khoảng 2cm đẩy vào cùng đồ sau
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="90d20e3e509b44889f97d759070de8b8" name="Cấy que tránh thai" tags="cayque, cấy que">
+        <content>Xác định vị trí cấy que là điểm nằm ở 1/3 giữa trên đường nối từ mỏm trong khuỷu tay đến đường nách trong cách mỏm khuỷu khoảng 10cm, đánh dấu vị trí cấy que
+Sát khuẩn mặt trong cánh tay trái của bệnh nhân bằng Betadin
+Trải săng có lỗ bộc lộ vùng da mặt trong cánh tay trái
+Gây tê tại chỗ
+Cấy que thai vào lớp dưới da mặt trong cánh tay
+Dùng gạc vô khuẩn băng vết thương
+Cố định que cấy bằng băng chun bản to
+Thu dọn dụng cụ
+Viết phiếu theo dõi que cấy tránh thai cho bệnh nhân
+Tháo băng chun sau 48 giờ</content>
+      </snippet>
+      <snippet id="cc1246b745fb425381b84a5368cb27a6" name="Tháo que tránh thai" tags="thaoque, tháo que">
+        <content>Xác định lại vị trí que cấy tránh thai ở mặt trong 1/3 giữa cánh tay bên trái của bệnh nhân
+Sát khuẩn vị trí có que cấy bằng Betadin
+Trải săng có lỗ bộc lộ vùng da mặt trong cánh tay trái
+Gây tê tại chỗ
+Cố định vị trí đầu dưới que cấy bằng 2 ngón cái và ngón trỏ
+Dùng dao phẫu thuật số 11 rạch da một đường 0.3cm tại vị trí đầu dưới que cấy tránh thai
+Dùng mũi dao lẩy nhẹ đầu que cấy để đầu que cấy tránh thai trồi lên mặt da
+Dùng Pank cong không mấu gắp que cấy ra khỏi lớp dưới da của bệnh nhân
+Dùng gạc vô khuẩn băng vết thương
+Thu dọn dụng cụ</content>
+      </snippet>
+    </folder>
   </folder>
 </QuangGoTat>
