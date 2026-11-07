@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-07T10:47:32.7206601+07:00" note="publish" publishId="20261107034732720-A6FC27DA" publishedAt="2026-11-07T03:47:32.7206601Z" publishedFrom="QUAYTRUCT8">
+<QuangGoTat version="1" savedAt="2026-11-07T10:52:42.7164178+07:00" note="publish" publishId="20261107035242716-A645878F" publishedAt="2026-11-07T03:52:42.7164178Z" publishedFrom="QUAYTRUCT8">
   <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="191" updRepo="" updPath="gotat.xml" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
@@ -13,7 +13,7 @@
   </folder>
   <folder id="afb93482775a416ba1b0dea307f5bdcc" name="BAĐT">
     <folder id="9d1b592f8b0f49dfad96f903f3855d09" name="Diễn biến">
-      <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Thai" tags="nxt, nhận xét thai, dbt, diễn biến thai">
+      <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Thai" tags="nxt, nhận xét thai, dbt, diễn biến thai, db, nx">
         <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -22,7 +22,7 @@ Bụng mềm không chướng
 Âm đạo không ra máu
 Ối còn, Thai máy +</content>
       </snippet>
-      <snippet id="e8d19d4748f843dc8ae65d24f4ace739" name="PT không NSOB" tags="nxpt, nhận xét phẫu thuật, pt">
+      <snippet id="e8d19d4748f843dc8ae65d24f4ace739" name="PT không NSOB" tags="nxpt, nhận xét phẫu thuật, pt, db">
         <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -31,7 +31,7 @@ Bụng mềm không chướng
 Phản ứng thành bụng âm tính
 Âm đạo không ra máu</content>
       </snippet>
-      <snippet id="414eeca69e6f435f880ada974d6bcd05" name="PT có NSOB" tags="nxns, nhận xét nội soi">
+      <snippet id="414eeca69e6f435f880ada974d6bcd05" name="PT có NSOB" tags="nxns, nhận xét nội soi, db, nx">
         <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -43,7 +43,7 @@ Vết mổ có ít dịch thấm băng</content>
       </snippet>
     </folder>
     <folder id="7ce814e920714bb9b081d31552cc2971" name="Đơn thuốc">
-      <folder id="5c4fc28a63594d70b6962d938c8ada6f" name="Kháng sinh">
+      <folder id="5c4fc28a63594d70b6962d938c8ada6f" name="KS">
         <snippet id="a69aafb7275343deb9a4b1ec4a79bce1" name="Metro 500 + Unasyl" tags="ks, kháng sinh">
           <content>1. Metronidazole 500 mg x 02 chai
 Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h
