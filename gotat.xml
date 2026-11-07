@@ -1,57 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-07T10:14:02.5493594+07:00" note="publish" publishId="20261107031402549-4E8F5415" publishedAt="2026-11-07T03:14:02.5503571Z" publishedFrom="QUAYTRUCT8">
+<QuangGoTat version="1" savedAt="2026-11-07T10:37:45.6231560+07:00" note="publish" publishId="20261107033745623-C1698624" publishedAt="2026-11-07T03:37:45.6231560Z" publishedFrom="QUAYTRUCT8">
   <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="191" updRepo="" updPath="gotat.xml" />
-  <folder id="e17d15a9d1be492886aa8d280faa2a42" name="Bệnh án">
-    <snippet id="feb46dce3b9a4fff968c620eec488d9d" name="Chữ ký">
-      <content>BS. Quang
-Bác sĩ Sản phụ khoa – Hỗ trợ sinh sản
-Website: bsquang.org</content>
-    </snippet>
-  </folder>
-  <folder id="9306c49762364bfa9b0a2cead08e55a8" name="T7">
-    <snippet id="1b4b27feaa6343c5897ecfa23cd36e3f" name="Mốc khám thai quan trọng">
-      <content>Các mốc khám thai quan trọng:
-- 11–13 tuần 6 ngày: đo độ mờ da gáy, sàng lọc trước sinh
-- 20–24 tuần: siêu âm hình thái
-- 24–28 tuần: nghiệm pháp dung nạp glucose
-- 30–32 tuần: siêu âm đánh giá tăng trưởng</content>
-    </snippet>
-    <folder id="1a9db25193e04b249e15c144b72f6ed3" name="Diễn biến">
-      <snippet id="1b315dc9777c47cd990bc1724e73735d" name="Thai nhỏ" tags="thn db">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
-Huyết động ổn định, không sốt
-Da niêm mạc hồng
-Tim phổi bình thường
-Bụng mềm không chướng
-Âm đạo không ra máu
-</content>
-      </snippet>
-      <snippet id="cda0c86bfe5c4566babb0c0e5753132a" name="Thai lớn" tags="db">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
-Huyết động ổn định, không sốt
-Da niêm mạc hồng
-Tim phổi bình thường
-Bụng mềm không chướng
-Âm đạo không ra máu
-Ối còn, Thai máy +
-</content>
-      </snippet>
-      <snippet id="dd140bdba2c044e9aa325ebe2182cbc6" name="Hẹn tái khám">
-        <content>Hẹn tái khám ngày {ngay+28}. Chị đi khám ngay nếu có dấu hiệu bất thường: đau bụng, ra máu, ra nước âm đạo, thai máy ít.</content>
-      </snippet>
-    </folder>
-  </folder>
-  <folder id="b1a6f84f994f414782db933dc2c001dd" name="Hiếm muộn">
-    <snippet id="abfc3076f9df4bc5b71dc1418e65fd76" name="Chuẩn bị đi khám">
-      <content>Khi đi khám hiếm muộn, anh chị vui lòng mang theo các kết quả xét nghiệm, siêu âm, phim chụp tử cung – vòi trứng (nếu có). Người chồng kiêng xuất tinh 2–7 ngày trước khi làm tinh dịch đồ.</content>
-    </snippet>
-  </folder>
-  <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Ngày giờ hiện tại">
-    <content>{thu}, ngày {ngay} – {gio}</content>
+  <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Ngày giờ hiện tại" tags="nay, ngay, gio">
+    <content>{thu}
+{ngay}
+{gio}</content>
   </snippet>
-  <folder id="afb93482775a416ba1b0dea307f5bdcc" name="Bệnh án – Sản">
-    <folder id="9d1b592f8b0f49dfad96f903f3855d09" name="Nhận xét đang điều trị">
-      <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Thai" tags="nxt, nhận xét thai">
+  <folder id="afb93482775a416ba1b0dea307f5bdcc" name="BAĐT">
+    <folder id="9d1b592f8b0f49dfad96f903f3855d09" name="Diễn biến">
+      <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Thai" tags="nxt, nhận xét thai, dbt, diễn biến thai">
         <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -60,7 +17,7 @@ Bụng mềm không chướng
 Âm đạo không ra máu
 Ối còn, Thai máy +</content>
       </snippet>
-      <snippet id="e8d19d4748f843dc8ae65d24f4ace739" name="Phẫu thuật không NSOB" tags="nxpt, nhận xét phẫu thuật">
+      <snippet id="e8d19d4748f843dc8ae65d24f4ace739" name="PT không NSOB" tags="nxpt, nhận xét phẫu thuật, pt">
         <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -69,7 +26,7 @@ Bụng mềm không chướng
 Phản ứng thành bụng âm tính
 Âm đạo không ra máu</content>
       </snippet>
-      <snippet id="414eeca69e6f435f880ada974d6bcd05" name="Phẫu thuật có NSOB" tags="nxns, nhận xét nội soi">
+      <snippet id="414eeca69e6f435f880ada974d6bcd05" name="PT có NSOB" tags="nxns, nhận xét nội soi">
         <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -80,80 +37,61 @@ Phản ứng thành bụng âm tính
 Vết mổ có ít dịch thấm băng</content>
       </snippet>
     </folder>
-    <folder id="e11d9b89643947f0b6baad38b95df301" name="Nhận xét ra viện">
-      <snippet id="db0e43005f6444c0809b717b31e01d9c" name="Thai / Phẫu thuật không NSOB" tags="rvt, rvpt, ra viện thai">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
-Huyết động ổn định
-Da niêm mạc hồng
-Tim phổi bình thường
-Không đau bụng
-Âm đạo không ra máu
-Bệnh nhân ổn định &gt; ra viện</content>
-      </snippet>
-      <snippet id="9a7733d01f264215bf730c3e56a7ab7f" name="Phẫu thuật có NSOB" tags="rvns, ra viện nội soi">
-        <content>Bệnh nhân tỉnh, tiếp xúc tốt
-Huyết động ổn định
-Da niêm mạc hồng
-Tim phổi bình thường
-Không đau bụng
-Âm đạo không ra máu
-Vết mổ khô
-Bệnh nhân ổn định &gt; ra viện</content>
-      </snippet>
-      <snippet id="ec983370562c410b944a163a90cd2202" name="Khâu CTC" tags="rvctc, ra viện khâu ctc">
-        <content>Siêu âm hội chẩn BS Khanh
-&gt; Bệnh nhân ổn định &gt; ra viện</content>
-      </snippet>
-    </folder>
-    <folder id="9b18c72dce0d4c38b5464cc219d18183" name="Tổng kết bệnh án">
-      <snippet id="9bca22fcca344ccc9dd1e1e3ee3f3c45" name="Tóm tắt BA" tags="tt, tóm tắt">
-        <content>Sau     ngày điều trị, bệnh nhân ổn định &gt; ra viện.</content>
-      </snippet>
-      <snippet id="a6f5782b7e3c4928b8687ee927b30b6e" name="PP điều trị – nội khoa" tags="ppdt, phương pháp điều trị">
-        <content>Kháng sinh, nội tiết, giảm co, cầm máu</content>
-      </snippet>
-      <snippet id="2e4eed77d253408585905bf5d043d64a" name="PP điều trị – khâu eo CTC" tags="ppctc, pp khâu ctc">
-        <content>Kháng sinh + khâu eo cổ tử cung</content>
-      </snippet>
-    </folder>
     <folder id="7ce814e920714bb9b081d31552cc2971" name="Đơn thuốc">
-      <snippet id="a69aafb7275343deb9a4b1ec4a79bce1" name="Kháng sinh (Metronidazole + Unasyl)" tags="ks, kháng sinh">
-        <content>1. Metronidazole 500 mg x 02 chai
+      <folder id="5c4fc28a63594d70b6962d938c8ada6f" name="Kháng sinh">
+        <snippet id="a69aafb7275343deb9a4b1ec4a79bce1" name="Metro 500 + Unasyl" tags="ks, kháng sinh">
+          <content>1. Metronidazole 500 mg x 02 chai
 Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h
 1. Unasyl 1.5 g x 02 lọ
 Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
-      </snippet>
+        </snippet>
+        <snippet id="b05d232d63244064a8cc87c9322a8e84" name="Metro 400 + Unasyl" tags="ks, kháng sinh">
+          <content>1. Unasyl 1.5 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h
+1. Metronidazole 400 mg x 02 viên
+Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
+        </snippet>
+        <snippet id="cf1c4a8146f64c08911c2b8c54763b4a" name="Unasyl" tags="u, ks">
+          <content>1. Unasyl 1.5 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
+        </snippet>
+        <snippet id="2816bafb036d4cb1b8bcf1871e03af2c" name="Rocephin" tags="r, ro, ks">
+          <content>1. Rocephin 1 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
+        </snippet>
+        <snippet id="9f906172ab914c778e2436d56470450a" name="Zitromax" tags="z, zi, ks">
+          <content>1. Zitromax 500mg x 02 viên
+Uống 02 viên/lần sau ăn </content>
+        </snippet>
+      </folder>
       <folder id="0dd5f2029c9b462bb65df96f3148f624" name="Giảm co">
-        <snippet id="7a4889f9f82846b595a9a9bf796f4743" name="Truyền No-spa (NaCl 0.9%)" tags="gc, nospa, truyền no-spa">
+        <snippet id="7a4889f9f82846b595a9a9bf796f4743" name="Truyền No-spa" tags="gc, nospa, truyền no-spa">
           <content>NaCl 0.9% x 500ml
 No-spa 40mg x 02 ống
-   Truyền tĩnh mạch XL giọt/phút</content>
+   Pha với dung dịch NaCl 0.9% truyền tĩnh mạch XL giọt/phút</content>
         </snippet>
-        <snippet id="8e5829941c67415d809166a7f98bc8b6" name="Nifedipine ngậm" tags="nife, nifedipine">
+        <snippet id="8e5829941c67415d809166a7f98bc8b6" name="Nifedipine" tags="nife, nifedipine">
           <content>Nifedipine 10mg x 08 viên
 Ngậm dưới lưỡi 02 viên/lần cách nhau 06 giờ, đo huyết áp trước ngậm &gt; 90/60mmHg</content>
         </snippet>
-        <snippet id="647f88cb18704b5c8350692c0fb94f4d" name="Yspuripax uống" tags="ysp, yspuripax">
-          <content>(TT) Yspuripax x 03 viên
+        <snippet id="647f88cb18704b5c8350692c0fb94f4d" name="Yspuripax" tags="ysp, yspuripax">
+          <content>Yspuripax x 03 viên
 Uống 03 viên/ngày chia 3 lần</content>
         </snippet>
       </folder>
       <folder id="5dc4914e80854b5eaa0951b972eb2f6e" name="Thuốc đặt">
-        <snippet id="90dea1c7a7e64bf79829167645b18ff8" name="Cyclogest 400 – đặt hậu môn" tags="cyclo, cyclogest">
+        <snippet id="90dea1c7a7e64bf79829167645b18ff8" name="Cyclogest" tags="cyclo, cyclogest">
           <content>(TT) Cyclogest 400 mg x 01 viên
 Đặt hậu môn 01 viên/lần vào buổi tối</content>
         </snippet>
-        <snippet id="d46b365ff66f4048b10fe53671b454ad" name="Utrogestan 200 – đặt âm đạo" tags="utro, utrogestan">
+        <snippet id="d46b365ff66f4048b10fe53671b454ad" name="Utrogestan" tags="utro, utrogestan">
           <content>(TT) Utrogestan 200mg x 02 viên
 Đặt âm đạo 02 viên/lần vào buổi tối</content>
         </snippet>
       </folder>
-      <snippet id="1a29d7a9bad242c18f0b0d99a1a650ce" name="Theo dõi" tags="td, theo dõi">
-        <content>Theo dõi toàn trạng , đau bụng, ra máu, ra nước âm đạo
-Cơm, CSIII</content>
-      </snippet>
-      <snippet id="68ba84ad60794273a46f9e02f34245dd" name="Thai nhỏ dọa sảy (có truyền No-spa)" tags="dsco, dọa sảy có nospa">
-        <content>Glucose 5% x 500ml
+      <folder id="97cb7f5471494dc097f0185a619ccd12" name="Bệnh">
+        <snippet id="68ba84ad60794273a46f9e02f34245dd" name="Thai nhỏ dọa sảy (có truyền No-spa)" tags="ds, dọa sảy có nospa">
+          <content>Glucose 5% x 500ml
 No-spa 40mg x 02 ống
    Truyền tĩnh mạch XL giọt/phút
 Transamin 250mg x 02 ống
@@ -172,9 +110,9 @@ Aspirin 81 mg
     Dừng thuốc
  Theo dõi toàn trạng , đau bụng, ra máu âm đạo
 Cơm, CSIII</content>
-      </snippet>
-      <snippet id="333c2fd71ca74c4c8cf3f0a252eb7c64" name="Thai nhỏ dọa sảy (không truyền No-spa)" tags="dskh, dọa sảy không nospa">
-        <content>Transamin 250mg x 02 ống
+        </snippet>
+        <snippet id="333c2fd71ca74c4c8cf3f0a252eb7c64" name="Thai nhỏ dọa sảy (không truyền No-spa)" tags="ds, dọa sảy không nospa">
+          <content>Transamin 250mg x 02 ống
    Tiêm tĩnh mạch chậm 02 ống/lần 9h
 Progesteron 25mg x 02 ống
   Tiêm bắp sâu 02 ống/ lần 9h
@@ -192,6 +130,48 @@ Aspirin 81 mg
     Dừng thuốc
  Theo dõi toàn trạng , đau bụng, ra máu âm đạo
 Cơm, CSIII</content>
+        </snippet>
+      </folder>
+    </folder>
+    <folder id="e11d9b89643947f0b6baad38b95df301" name="Ra viện">
+      <snippet id="db0e43005f6444c0809b717b31e01d9c" name="Thai" tags="rvt, ra viện thai">
+        <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định
+Da niêm mạc hồng
+Tim phổi bình thường
+Không đau bụng
+Âm đạo không ra máu
+Bệnh nhân ổn định &gt; ra viện</content>
+      </snippet>
+      <snippet id="38ace456590f4783848f178579258ac1" name="PT không NSOB" tags="rvpt, ra viện phẫu thuật">
+        <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định
+Da niêm mạc hồng
+Tim phổi bình thường
+Không đau bụng
+Âm đạo không ra máu
+Bệnh nhân ổn định &gt; ra viện</content>
+      </snippet>
+      <snippet id="9a7733d01f264215bf730c3e56a7ab7f" name="PT có NSOB" tags="rvns, ra viện nội soi ổ bụng">
+        <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định
+Da niêm mạc hồng
+Tim phổi bình thường
+Không đau bụng
+Âm đạo không ra máu
+Vết mổ khô
+Bệnh nhân ổn định &gt; ra viện</content>
+      </snippet>
+    </folder>
+    <folder id="9b18c72dce0d4c38b5464cc219d18183" name="TKBA">
+      <snippet id="9bca22fcca344ccc9dd1e1e3ee3f3c45" name="Sau" tags="sau">
+        <content>Sau     ngày điều trị, bệnh nhân ổn định &gt; ra viện.</content>
+      </snippet>
+      <snippet id="a6f5782b7e3c4928b8687ee927b30b6e" name="PP điều trị – nội khoa" tags="ppdt, phương pháp điều trị">
+        <content>Kháng sinh, nội tiết, giảm co, cầm máu</content>
+      </snippet>
+      <snippet id="2e4eed77d253408585905bf5d043d64a" name="PP điều trị – khâu eo CTC" tags="ppctc, pp khâu ctc">
+        <content>Kháng sinh + khâu eo cổ tử cung</content>
       </snippet>
     </folder>
   </folder>
