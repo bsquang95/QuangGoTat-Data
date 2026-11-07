@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuangGoTat version="1" savedAt="2026-11-07T08:33:41.1748317+07:00" note="publish" publishId="20261107013341174-8EB986FD" publishedAt="2026-11-07T01:33:41.1757451Z" publishedFrom="QUAYTRUCT8">
+  <settings hotMods="2" hotKey="81" updRepo="" updPath="gotat.xml" />
+  <folder id="e17d15a9d1be492886aa8d280faa2a42" name="Bệnh án">
+    <snippet id="feb46dce3b9a4fff968c620eec488d9d" name="Chữ ký">
+      <content>BS. Quang
+Bác sĩ Sản phụ khoa – Hỗ trợ sinh sản
+Website: bsquang.org</content>
+    </snippet>
+  </folder>
+  <folder id="9306c49762364bfa9b0a2cead08e55a8" name="T7">
+    <snippet id="1b4b27feaa6343c5897ecfa23cd36e3f" name="Mốc khám thai quan trọng">
+      <content>Các mốc khám thai quan trọng:
+- 11–13 tuần 6 ngày: đo độ mờ da gáy, sàng lọc trước sinh
+- 20–24 tuần: siêu âm hình thái
+- 24–28 tuần: nghiệm pháp dung nạp glucose
+- 30–32 tuần: siêu âm đánh giá tăng trưởng</content>
+    </snippet>
+    <folder id="1a9db25193e04b249e15c144b72f6ed3" name="Diễn biến">
+      <snippet id="1b315dc9777c47cd990bc1724e73735d" name="Thai nhỏ" tags="thn db">
+        <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định, không sốt
+Da niêm mạc hồng
+Tim phổi bình thường
+Bụng mềm không chướng
+Âm đạo không ra máu
+</content>
+      </snippet>
+      <snippet id="cda0c86bfe5c4566babb0c0e5753132a" name="Thai lớn" tags="db">
+        <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định, không sốt
+Da niêm mạc hồng
+Tim phổi bình thường
+Bụng mềm không chướng
+Âm đạo không ra máu
+Ối còn, Thai máy +
+</content>
+      </snippet>
+      <snippet id="dd140bdba2c044e9aa325ebe2182cbc6" name="Hẹn tái khám">
+        <content>Hẹn tái khám ngày {ngay+28}. Chị đi khám ngay nếu có dấu hiệu bất thường: đau bụng, ra máu, ra nước âm đạo, thai máy ít.</content>
+      </snippet>
+    </folder>
+  </folder>
+  <folder id="b1a6f84f994f414782db933dc2c001dd" name="Hiếm muộn">
+    <snippet id="abfc3076f9df4bc5b71dc1418e65fd76" name="Chuẩn bị đi khám">
+      <content>Khi đi khám hiếm muộn, anh chị vui lòng mang theo các kết quả xét nghiệm, siêu âm, phim chụp tử cung – vòi trứng (nếu có). Người chồng kiêng xuất tinh 2–7 ngày trước khi làm tinh dịch đồ.</content>
+    </snippet>
+  </folder>
+  <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Ngày giờ hiện tại">
+    <content>{thu}, ngày {ngay} – {gio}</content>
+  </snippet>
+</QuangGoTat>
