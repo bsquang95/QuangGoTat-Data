@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-07T15:34:55.7267347+07:00" note="publish" publishId="20261107083455726-8C25C759" publishedAt="2026-11-07T08:34:55.7277324Z" publishedFrom="QUAYTRUCT8">
-  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hk2v="2" updRepo="" updPath="gotat.xml" />
+<QuangGoTat version="1" savedAt="2026-11-08T09:12:33.9938757+07:00" note="publish" publishId="20261108021233991-8C25C759" publishedAt="2026-11-08T02:12:33.9959039Z" publishedFrom="QUAYTRUCT8">
+  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="6" hotKeyOcr="88" ocrJoin="0" ocrAutoCopy="1" updRepo="" updPath="gotat.xml" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
       <content>{ngay}
