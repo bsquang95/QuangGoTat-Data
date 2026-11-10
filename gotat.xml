@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-10T09:21:48.9061951+07:00" note="publish" publishId="20261110022148906-F413F21E" publishedAt="2026-11-10T02:21:48.9061951Z" publishedFrom="P106B">
-  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="8" hotKeyOcr="67" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
+<QuangGoTat version="1" savedAt="2026-11-10T14:14:27.5948698+07:00" note="publish" publishId="20261110071427594-F413F21E" publishedAt="2026-11-10T07:14:27.5958672Z" publishedFrom="QUAYTRUCT8">
+  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="6" hotKeyOcr="88" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" />
   <folder id="afb93482775a416ba1b0dea307f5bdcc" name="Bệnh án – Sản">
     <folder id="9d1b592f8b0f49dfad96f903f3855d09" name="Nhận xét đang điều trị">
       <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Thai" tags="nxt, nhận xét thai">
