@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-10T14:15:32.5029187+07:00" note="publish" publishId="20261110071532502-8C25C759" publishedAt="2026-11-10T07:15:32.5039425Z" publishedFrom="QUAYTRUCT8">
-  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="6" hotKeyOcr="88" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" />
+<QuangGoTat version="1" savedAt="2026-11-10T14:54:26.9042404+07:00" note="publish" publishId="20261110075426904-313048DD" publishedAt="2026-11-10T07:54:26.9042404Z" publishedFrom="P106B">
+  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="8" hotKeyOcr="67" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" inlineTrig="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
       <content>{ngay}
@@ -42,13 +42,17 @@ Phản ứng thành bụng âm tính
 Âm đạo không ra máu</content>
     </snippet>
     <snippet id="414eeca69e6f435f880ada974d6bcd05" name="PT có NSOB" tags="nxns, nhận xét nội soi, db, nx">
-      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+      <content>⟦hộp kiểm⟧
+⟦mục✓⟧
+Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
 Tim phổi bình thường
 Bụng mềm không chướng
 Phản ứng thành bụng âm tính
+Nước tiểu trong
 Âm đạo không ra máu
+⟦mục✓⟧
 Vết mổ có ít dịch thấm băng</content>
     </snippet>
   </folder>
