@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-10T14:54:26.9042404+07:00" note="publish" publishId="20261110075426904-313048DD" publishedAt="2026-11-10T07:54:26.9042404Z" publishedFrom="P106B">
+<QuangGoTat version="1" savedAt="2026-11-10T15:07:05.6069333+07:00" note="publish" publishId="20261110080705606-564ECAD9" publishedAt="2026-11-10T08:07:05.6225269Z" publishedFrom="P106B">
   <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="8" hotKeyOcr="67" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" inlineTrig="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
@@ -39,20 +39,19 @@ Da niêm mạc hồng
 Tim phổi bình thường
 Bụng mềm không chướng
 Phản ứng thành bụng âm tính
-Âm đạo không ra máu</content>
+Nước tiểu trong
+Âm đạo không ra máu
+</content>
     </snippet>
     <snippet id="414eeca69e6f435f880ada974d6bcd05" name="PT có NSOB" tags="nxns, nhận xét nội soi, db, nx">
-      <content>⟦hộp kiểm⟧
-⟦mục✓⟧
-Bệnh nhân tỉnh, tiếp xúc tốt
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
 Tim phổi bình thường
 Bụng mềm không chướng
 Phản ứng thành bụng âm tính
-Nước tiểu trong
 Âm đạo không ra máu
-⟦mục✓⟧
+Nước tiểu trong
 Vết mổ có ít dịch thấm băng</content>
     </snippet>
   </folder>
@@ -77,7 +76,7 @@ Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h</content>
       <content>1. Metronidazole 400 mg x 02 viên
 Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
     </snippet>
-    <snippet id="cf1c4a8146f64c08911c2b8c54763b4a" name="Unasyl" tags="u, ks">
+    <snippet id="cf1c4a8146f64c08911c2b8c54763b4a" name="Unasyl" tags="una, ks">
       <content>1. Unasyl 1.5 g x 02 lọ
 Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
     </snippet>
@@ -96,11 +95,11 @@ Uống 02 viên/lần sau ăn </content>
 No-spa 40mg x 02 ống
    Pha với dung dịch NaCl 0.9% truyền tĩnh mạch XL giọt/phút</content>
     </snippet>
-    <snippet id="8e5829941c67415d809166a7f98bc8b6" name="Nifedipine" tags="nife, nifedipine">
+    <snippet id="8e5829941c67415d809166a7f98bc8b6" name="Nifedipine" tags="gc, nife, nifedipine">
       <content>Nifedipine 10mg x 08 viên
 Ngậm dưới lưỡi 02 viên/lần cách nhau 06 giờ, đo huyết áp trước ngậm &gt; 90/60mmHg</content>
     </snippet>
-    <snippet id="647f88cb18704b5c8350692c0fb94f4d" name="Yspuripax" tags="ysp, yspuripax">
+    <snippet id="647f88cb18704b5c8350692c0fb94f4d" name="Yspuripax" tags="ysp, yspuripax, ys">
       <content>Yspuripax x 03 viên
 Uống 03 viên/ngày chia 3 lần</content>
     </snippet>
@@ -182,6 +181,7 @@ Da niêm mạc hồng
 Tim phổi bình thường
 Không đau bụng
 Âm đạo không ra máu
+Nước tiểu trong
 Bệnh nhân ổn định &gt; ra viện</content>
     </snippet>
     <snippet id="9a7733d01f264215bf730c3e56a7ab7f" name="PT có NSOB" tags="rvns, ra viện nội soi ổ bụng">
@@ -191,6 +191,7 @@ Da niêm mạc hồng
 Tim phổi bình thường
 Không đau bụng
 Âm đạo không ra máu
+Nước tiểu trong
 Vết mổ khô
 Bệnh nhân ổn định &gt; ra viện</content>
     </snippet>
@@ -199,20 +200,20 @@ Bệnh nhân ổn định &gt; ra viện</content>
     <snippet id="9bca22fcca344ccc9dd1e1e3ee3f3c45" name="Sau" tags="sau">
       <content>Sau     ngày điều trị, bệnh nhân ổn định &gt; ra viện.</content>
     </snippet>
-    <snippet id="a6f5782b7e3c4928b8687ee927b30b6e" name="PP điều trị – nội khoa" tags="ppdt, phương pháp điều trị">
+    <snippet id="a6f5782b7e3c4928b8687ee927b30b6e" name="PP điều trị – nội khoa" tags="ppdt, phương pháp điều trị, pp">
       <content>Kháng sinh, nội tiết, giảm co, cầm máu</content>
     </snippet>
-    <snippet id="2e4eed77d253408585905bf5d043d64a" name="PP điều trị – khâu eo CTC" tags="ppctc, pp khâu ctc">
+    <snippet id="2e4eed77d253408585905bf5d043d64a" name="PP điều trị – khâu eo CTC" tags="ppctc, pp khâu ctc, pp">
       <content>Kháng sinh + khâu eo cổ tử cung</content>
     </snippet>
   </folder>
-  <folder id="366b13943f31493695ab70f3fd7adc72" name="Bệnh án">
+  <folder id="366b13943f31493695ab70f3fd7adc72" name="BA">
     <snippet id="04bedc803da54bf0b8b103cf3bcd3f5c" name="BA dọa sảy" tags="bads, ds">
       <content>
       </content>
     </snippet>
   </folder>
-  <folder id="deef83ef8efc4da192a3e950999661c9" name="Mẫu phẫu thuật – thủ thuật">
+  <folder id="deef83ef8efc4da192a3e950999661c9" name="Mẫu">
     <folder id="f25979b19010489e9709cf5f04e0f9e1" name="Phẫu thuật">
       <snippet id="94863460878c47118988cb1e2e68257b" name="PTNS tách dính buồng tử cung" tags="tachdinh, dính btc, ptns">
         <content>Thì 1: Soi buồng tử cung
