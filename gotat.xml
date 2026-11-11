@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-10T15:07:05.6069333+07:00" note="publish" publishId="20261110080705606-564ECAD9" publishedAt="2026-11-10T08:07:05.6225269Z" publishedFrom="P106B">
-  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="8" hotKeyOcr="67" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" inlineTrig="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
+<QuangGoTat version="1" savedAt="2026-11-11T14:53:57.4779625+07:00" note="publish" publishId="20261111075357477-AAC01EA4" publishedAt="2026-11-11T07:53:57.4779625Z" publishedFrom="P106B">
+  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="8" hotKeyOcr="67" hotModsTv="8" hotKeyTv="84" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
       <content>{ngay}
@@ -23,7 +23,7 @@
     </snippet>
   </folder>
   <folder id="9d1b592f8b0f49dfad96f903f3855d09" name="Diễn biến">
-    <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Thai" tags="nxt, nhận xét thai, dbt, diễn biến thai, db, nx">
+    <snippet id="0328b3c6e42e46cb850d600f8d2f006a" name="Diễn biến thai" tags="nxt, nhận xét thai, dbt, diễn biến thai, db, nx">
       <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -32,7 +32,7 @@ Bụng mềm không chướng
 Âm đạo không ra máu
 Ối còn, Thai máy +</content>
     </snippet>
-    <snippet id="e8d19d4748f843dc8ae65d24f4ace739" name="PT không NSOB" tags="nxpt, nhận xét phẫu thuật, pt, db">
+    <snippet id="e8d19d4748f843dc8ae65d24f4ace739" name="Diễn biến sau PT ko NSOB" tags="nxpt, nhận xét phẫu thuật, pt, db">
       <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -43,7 +43,7 @@ Nước tiểu trong
 Âm đạo không ra máu
 </content>
     </snippet>
-    <snippet id="414eeca69e6f435f880ada974d6bcd05" name="PT có NSOB" tags="nxns, nhận xét nội soi, db, nx">
+    <snippet id="414eeca69e6f435f880ada974d6bcd05" name="Diễn biến sau PT có NSOB" tags="nxns, nhận xét nội soi, db, nx">
       <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định, không sốt
 Da niêm mạc hồng
@@ -108,7 +108,7 @@ Uống 03 viên/ngày chia 3 lần</content>
     </snippet>
   </folder>
   <folder id="5dc4914e80854b5eaa0951b972eb2f6e" name="Thuốc đặt">
-    <snippet id="90dea1c7a7e64bf79829167645b18ff8" name="Cyclogest" tags="cyclo, cyclogest">
+    <snippet id="90dea1c7a7e64bf79829167645b18ff8" name="Cyclogest" tags="cyclo, cyclogest, cy">
       <content>(TT) Cyclogest 400 mg x 01 viên
 Đặt hậu môn 01 viên/lần vào buổi tối</content>
     </snippet>
@@ -116,12 +116,12 @@ Uống 03 viên/ngày chia 3 lần</content>
       <content>(TT) Perfeclly 400 mg x 01 viên
 Đặt hậu môn 01 viên/lần vào buổi tối</content>
     </snippet>
-    <snippet id="d46b365ff66f4048b10fe53671b454ad" name="Utrogestan" tags="utro, utrogestan">
+    <snippet id="d46b365ff66f4048b10fe53671b454ad" name="Utrogestan" tags="utro, utrogestan, ut">
       <content>(TT) Utrogestan 200mg x 02 viên
 Đặt âm đạo 02 viên/lần vào buổi tối</content>
     </snippet>
   </folder>
-  <folder id="97cb7f5471494dc097f0185a619ccd12" name="ĐT dọa sảy">
+  <folder id="97cb7f5471494dc097f0185a619ccd12" name="Điều trị dọa sảy">
     <snippet id="68ba84ad60794273a46f9e02f34245dd" name="Thai nhỏ dọa sảy (có truyền No-spa)" tags="ds, dọa sảy có nospa, dtds">
       <content>Glucose 5% x 500ml
 No-spa 40mg x 02 ống
@@ -143,7 +143,7 @@ Aspirin 81 mg
  Theo dõi toàn trạng , đau bụng, ra máu âm đạo
 Cơm, CSIII</content>
     </snippet>
-    <snippet id="333c2fd71ca74c4c8cf3f0a252eb7c64" name="Thai nhỏ dọa sảy (không truyền No-spa)" tags="ds, dọa sảy không nospa, dtds">
+    <snippet id="333c2fd71ca74c4c8cf3f0a252eb7c64" name="Thai nhỏ dọa sảy (ko truyền No-spa)" tags="ds, dọa sảy không nospa, dtds">
       <content>Transamin 250mg x 02 ống
    Tiêm tĩnh mạch chậm 02 ống/lần 9h
 Progesteron 25mg x 02 ống
@@ -165,7 +165,7 @@ Cơm, CSIII</content>
     </snippet>
   </folder>
   <folder id="e11d9b89643947f0b6baad38b95df301" name="Ra viện">
-    <snippet id="db0e43005f6444c0809b717b31e01d9c" name="Thai" tags="rvt, ra viện thai">
+    <snippet id="db0e43005f6444c0809b717b31e01d9c" name="Ra viện thai" tags="rvt, ra viện thai, rv">
       <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định
 Da niêm mạc hồng
@@ -174,7 +174,7 @@ Không đau bụng
 Âm đạo không ra máu
 Bệnh nhân ổn định &gt; ra viện</content>
     </snippet>
-    <snippet id="38ace456590f4783848f178579258ac1" name="PT không NSOB" tags="rvpt, ra viện phẫu thuật">
+    <snippet id="38ace456590f4783848f178579258ac1" name="Ra viện sau PT ko NSOB" tags="rv, ra viện, pt">
       <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định
 Da niêm mạc hồng
@@ -184,7 +184,7 @@ Không đau bụng
 Nước tiểu trong
 Bệnh nhân ổn định &gt; ra viện</content>
     </snippet>
-    <snippet id="9a7733d01f264215bf730c3e56a7ab7f" name="PT có NSOB" tags="rvns, ra viện nội soi ổ bụng">
+    <snippet id="9a7733d01f264215bf730c3e56a7ab7f" name="Ra viện sau PT có NSOB" tags="rvb, nsob, rv, pt">
       <content>Bệnh nhân tỉnh, tiếp xúc tốt
 Huyết động ổn định
 Da niêm mạc hồng
@@ -203,7 +203,7 @@ Bệnh nhân ổn định &gt; ra viện</content>
     <snippet id="a6f5782b7e3c4928b8687ee927b30b6e" name="PP điều trị – nội khoa" tags="ppdt, phương pháp điều trị, pp">
       <content>Kháng sinh, nội tiết, giảm co, cầm máu</content>
     </snippet>
-    <snippet id="2e4eed77d253408585905bf5d043d64a" name="PP điều trị – khâu eo CTC" tags="ppctc, pp khâu ctc, pp">
+    <snippet id="2e4eed77d253408585905bf5d043d64a" name="PP điều trị – khâu eo CTC" tags="pp, ppdt, khâu, ctc">
       <content>Kháng sinh + khâu eo cổ tử cung</content>
     </snippet>
   </folder>
@@ -231,7 +231,7 @@ Bơm gel chống dính buồng tử cung
 Đặt bóng buồng tử cung
 Dùng chu kỳ kinh nhân tạo</content>
       </snippet>
-      <snippet id="8eb4a67fb0c64cbd953aacd1f20a8c97" name="PTNS cắt polyp buồng tử cung" tags="ptpolyp, polyp btc, ptns">
+      <snippet id="8eb4a67fb0c64cbd953aacd1f20a8c97" name="PTNS cắt polyp buồng tử cung" tags="ptpolyp, polyp, ptns">
         <content>Thì 1: Soi buồng tử cung
 Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung có nhiều polyp ở thành trước và thành sau kích thước 0,7 x 1 cm, nhìn rõ lỗ vòi tử cung phải, không nhìn rõ lỗ vòi tử cung trái. không nhìn rõ 2 lỗ vòi tử cung.
 Nong cổ tử cung đến số 9,5. Dùng dao điện đơn cực cắt polyp. Sau cắt polyp, buồng tử cung rộng, nhìn rõ hai lỗ vòi tử cung.
@@ -503,16 +503,16 @@ Thu dọn dụng cụ</content>
     </folder>
   </folder>
   <folder id="12bf835a9ce8431da10b17ced0460958" name="Điều kinh sau PT">
-    <snippet id="9b64926b2f614478b4e9ef1580fa6ad7" name="valiera u2" tags="vali">
+    <snippet id="9b64926b2f614478b4e9ef1580fa6ad7" name="valiera u2 (sau phẫu thuật)" tags="vali, va2">
       <content>Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn từ ngày {ngay+1} đến ngày {ngay+24}</content>
     </snippet>
-    <snippet id="9bbf50b9847443e7abca0f9a1c8f98d0" name="valiera u3" tags="vali">
+    <snippet id="9bbf50b9847443e7abca0f9a1c8f98d0" name="valiera u3 (sau phẫu thuật)" tags="vali, va3">
       <content>Uống  ngày 3 viên, (sáng 1v, trưa 1v, tối 1v) sau ăn từ ngày {ngay+1} đến ngày {ngay+24}</content>
     </snippet>
-    <snippet id="b4720e964d4747309cd8ee2547c0fc36" name="valiera u4" tags="vali">
+    <snippet id="b4720e964d4747309cd8ee2547c0fc36" name="valiera u4 (sau phẫu thuật)" tags="vali, va4">
       <content>Uống ngày 04 viên, chia 2 lần ( sáng 02 v, tối 02 v ) sau ăn từ ngày {ngay+1} đến ngày {ngay+24}</content>
     </snippet>
-    <snippet id="64ecbc11494742d48732b917b5cb923c" name="Duphaston" tags="du">
+    <snippet id="64ecbc11494742d48732b917b5cb923c" name="Duphaston (sau phẫu thuật)" tags="du, duphaston">
       <content>Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn từ ngày {ngay+15} đến ngày {ngay+24}</content>
     </snippet>
   </folder>
