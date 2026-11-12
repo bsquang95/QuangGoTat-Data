@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-12T15:01:41.2906055+07:00" note="publish" publishId="20261112080141290-4FAF5538" publishedAt="2026-11-12T08:01:41.2917874Z" publishedFrom="P106B">
+<QuangGoTat version="1" savedAt="2026-11-12T15:59:11.9905932+07:00" note="publish" publishId="20261112085911989-7F51C0F8" publishedAt="2026-11-12T08:59:11.9918199Z" publishedFrom="P106B">
   <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="8" hotKeyOcr="67" hotModsTv="8" hotKeyTv="84" hotModsCalc="8" hotKeyCalc="77" hotModsMenu="8" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
-    <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio">
+    <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio" icon="dongho">
       <content>{ngay}
 08h00</content>
     </snippet>
-    <snippet id="8b39525d07b04d4297b455617082bb14" name="Mai" tags="mai">
+    <snippet id="8b39525d07b04d4297b455617082bb14" name="Mai" tags="mai" icon="dongho">
       <content>{ngay+1}
 08h00</content>
     </snippet>
   </folder>
   <folder id="3e7b1326e47d49a5928c53117eac15e6" name="Hẹn">
-    <snippet id="b5ec738a18b344288e6b1a92f10ac8ee" name="n2" tags="n2, có kinh">
+    <snippet id="b5ec738a18b344288e6b1a92f10ac8ee" name="n2" tags="n2, có kinh" icon="dongho">
       <content>Hẹn ngày 2 có kinh đến xem xét chuẩn bị niêm mạc chuyển phôi</content>
     </snippet>
-    <snippet id="d441040ad8cc4bfea2f850b518f18902" name="sạch kinh" tags="sk">
+    <snippet id="d441040ad8cc4bfea2f850b518f18902" name="sạch kinh" tags="sk" icon="dongho">
       <content>Hẹn sạch kinh 2-5 ngày không quan hệ tình đục đến xem xét chụp tử cung - vòi trứng</content>
     </snippet>
-    <snippet id="d191ffa3200640048e6260758999687b" name="cắt chỉ" tags="cat">
+    <snippet id="d191ffa3200640048e6260758999687b" name="cắt chỉ" tags="cat" icon="dongho">
       <content>Hẹn cắt chỉ sau phẫu thuật 7 ngày</content>
     </snippet>
   </folder>
@@ -56,7 +56,7 @@ Vết mổ có ít dịch thấm băng</content>
     </snippet>
   </folder>
   <folder id="5c4fc28a63594d70b6962d938c8ada6f" name="KS">
-    <snippet id="a69aafb7275343deb9a4b1ec4a79bce1" name="Metro 500 + Unasyl" tags="ks, kháng sinh" icon="tiem">
+    <snippet id="a69aafb7275343deb9a4b1ec4a79bce1" name="Metro 500 + Unasyl" tags="ks, kháng sinh" icon="truyen">
       <content>1. Metronidazole 500 mg x 02 chai
 Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h
 1. Unasyl 1.5 g x 02 lọ
@@ -68,7 +68,7 @@ Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h
 1. Metronidazole 400 mg x 02 viên
 Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
     </snippet>
-    <snippet id="7c967904c9454ad49ce5380c866de213" name="Metronidazole truyền" tags="metro, ks" icon="tiem">
+    <snippet id="7c967904c9454ad49ce5380c866de213" name="Metronidazole truyền" tags="metro, ks" icon="truyen">
       <content>1. Metronidazole 500 mg x 02 chai
 Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h</content>
     </snippet>
@@ -76,11 +76,11 @@ Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h</content>
       <content>1. Metronidazole 400 mg x 02 viên
 Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
     </snippet>
-    <snippet id="cf1c4a8146f64c08911c2b8c54763b4a" name="Unasyl" tags="una, ks" icon="tiem">
+    <snippet id="cf1c4a8146f64c08911c2b8c54763b4a" name="Unasyl" tags="una, ks" icon="lotiem">
       <content>1. Unasyl 1.5 g x 02 lọ
 Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
     </snippet>
-    <snippet id="2816bafb036d4cb1b8bcf1871e03af2c" name="Rocephin" tags="r, ro, ks" icon="tiem">
+    <snippet id="2816bafb036d4cb1b8bcf1871e03af2c" name="Rocephin" tags="r, ro, ks" icon="lotiem">
       <content>1. Rocephin 1 g x 02 lọ
 Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
     </snippet>
@@ -90,7 +90,7 @@ Uống 02 viên/lần sau ăn </content>
     </snippet>
   </folder>
   <folder id="0dd5f2029c9b462bb65df96f3148f624" name="Giảm co">
-    <snippet id="7a4889f9f82846b595a9a9bf796f4743" name="Truyền No-spa" tags="gc, nospa, truyền no-spa" icon="tiem">
+    <snippet id="7a4889f9f82846b595a9a9bf796f4743" name="Truyền No-spa" tags="gc, nospa, truyền no-spa" icon="truyen">
       <content>NaCl 0.9% x 500ml
 No-spa 40mg x 02 ống
    Pha với dung dịch NaCl 0.9% truyền tĩnh mạch XL giọt/phút</content>
@@ -425,7 +425,7 @@ Tháo dụng cụ.</content>
       </snippet>
     </folder>
     <folder id="3f93f24c27a1451795f8febb178a4daf" name="Thủ thuật phòng khám">
-      <snippet id="f5c72df0164943f6bbd0d6ed0972d137" name="Đốt lộ tuyến cổ tử cung" tags="lotuyen, đốt lộ tuyến, laser" icon="mo">
+      <snippet id="f5c72df0164943f6bbd0d6ed0972d137" name="Đốt lộ tuyến cổ tử cung" tags="lotuyen, đốt lộ tuyến, laser" icon="gangtay">
         <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
 Trải săng vô khuẩn
 Mở mỏ vịt bộc lộ âm đạo cổ tử cung, thấy cổ tử cung viêm lộ tuyến độ II
@@ -434,7 +434,7 @@ Sau thủ thuật kiểm tra không chảy máu
 Sát khuẩn lại âm đạo, cổ tử cung
 Tháo dụng cụ.</content>
       </snippet>
-      <snippet id="8da61983ac7a4e25b9af32765005006a" name="Đốt sùi mào gà" tags="suimaoga, sùi mào gà" icon="mo">
+      <snippet id="8da61983ac7a4e25b9af32765005006a" name="Đốt sùi mào gà" tags="suimaoga, sùi mào gà" icon="gangtay">
         <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
 Trải săng vô khuẩn
 Kiểm tra âm hộ thấy có nốt sùi ở môi bé bên phải kt 0.5x1 cm
@@ -446,7 +446,7 @@ Sau thủ thuật kiểm tra không chảy máu
 Sát khuẩn lại âm đạo, cổ tử cung
 Tháo dụng cụ.</content>
       </snippet>
-      <snippet id="e6ef6ab7f2a644d4947bfa354a6ca54e" name="Xoắn polyp cổ tử cung" tags="polypctc, polyp ctc" icon="mo">
+      <snippet id="e6ef6ab7f2a644d4947bfa354a6ca54e" name="Xoắn polyp cổ tử cung" tags="polypctc, polyp ctc" icon="gangtay">
         <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
 Trải săng vô khuẩn
 Mở mỏ vịt bộc lộ âm đạo cổ tử cung, thấy cổ tử cung có polyp tuyến kt 1x0.5 cm
@@ -456,7 +456,7 @@ Sau thủ thuật kiểm tra không chảy máu
 Sát khuẩn lại âm đạo, cổ tử cung
 Tháo dụng cụ.</content>
       </snippet>
-      <snippet id="a45fe63189d14aab87b8f945324ebb78" name="Tháo dụng cụ tử cung" tags="thaovong, tháo vòng, dctc" icon="mo">
+      <snippet id="a45fe63189d14aab87b8f945324ebb78" name="Tháo dụng cụ tử cung" tags="thaovong, tháo vòng, dctc" icon="gangtay">
         <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
 Trải săng vô khuẩn
 Mở mỏ vịt bộc lộ âm đạo cổ tử cung thấy phần dây của dụng cụ tử cung đúng vị trí
@@ -465,7 +465,7 @@ Sau thủ thuật kiểm tra không chảy máu
 Sát khuẩn lại âm đạo, cổ tử cung
 Tháo dụng cụ.</content>
       </snippet>
-      <snippet id="9597ddc2f8a74bdaa3958d83624c51c8" name="Đặt dụng cụ tử cung" tags="datvong, đặt vòng, dctc" icon="mo">
+      <snippet id="9597ddc2f8a74bdaa3958d83624c51c8" name="Đặt dụng cụ tử cung" tags="datvong, đặt vòng, dctc" icon="gangtay">
         <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
 Trải săng vô khuẩn
 Mở mỏ vịt bộc lộ âm đạo cổ tử cung
@@ -476,7 +476,7 @@ Sau thủ thuật kiểm tra không chảy máu
 Sát khuẩn lại âm đạo, cổ tử cung
 Tháo dụng cụ.</content>
       </snippet>
-      <snippet id="90d20e3e509b44889f97d759070de8b8" name="Cấy que tránh thai" tags="cayque, cấy que" icon="mo">
+      <snippet id="90d20e3e509b44889f97d759070de8b8" name="Cấy que tránh thai" tags="cayque, cấy que" icon="gangtay">
         <content>Xác định vị trí cấy que là điểm nằm ở 1/3 giữa trên đường nối từ mỏm trong khuỷu tay đến đường nách trong cách mỏm khuỷu khoảng 10cm, đánh dấu vị trí cấy que
 Sát khuẩn mặt trong cánh tay trái của bệnh nhân bằng Betadin
 Trải săng có lỗ bộc lộ vùng da mặt trong cánh tay trái
@@ -488,7 +488,7 @@ Thu dọn dụng cụ
 Viết phiếu theo dõi que cấy tránh thai cho bệnh nhân
 Tháo băng chun sau 48 giờ</content>
       </snippet>
-      <snippet id="cc1246b745fb425381b84a5368cb27a6" name="Tháo que tránh thai" tags="thaoque, tháo que" icon="mo">
+      <snippet id="cc1246b745fb425381b84a5368cb27a6" name="Tháo que tránh thai" tags="thaoque, tháo que" icon="gangtay">
         <content>Xác định lại vị trí que cấy tránh thai ở mặt trong 1/3 giữa cánh tay bên trái của bệnh nhân
 Sát khuẩn vị trí có que cấy bằng Betadin
 Trải săng có lỗ bộc lộ vùng da mặt trong cánh tay trái
