@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-12T15:59:11.9905932+07:00" note="publish" publishId="20261112085911989-7F51C0F8" publishedAt="2026-11-12T08:59:11.9918199Z" publishedFrom="P106B">
-  <settings hotMods="2" hotKey="81" hotMods2="2" hotKey2="32" hotModsOcr="8" hotKeyOcr="67" hotModsTv="8" hotKeyTv="84" hotModsCalc="8" hotKeyCalc="77" hotModsMenu="8" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
+<QuangGoTat version="1" savedAt="2026-11-14T10:43:06.5886841+07:00" note="publish" publishId="20261114034306587-A961B501" publishedAt="2026-11-14T03:43:06.5886841Z" publishedFrom="P501A-1">
+  <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan}{sau:tuần}{ngay} || Thai tự nhiên =&gt; {loai} || Ngày chuyển phôi =&gt; {cp_d}{sau:/}{cp_m}{sau:/}{cp_y} || Dự kiến sinh =&gt; {dks_d}{sau:/}{dks_m}{sau:/}{dks_y}" fillAuto="1" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio" icon="dongho">
       <content>{ngay}
@@ -12,13 +12,23 @@
     </snippet>
   </folder>
   <folder id="3e7b1326e47d49a5928c53117eac15e6" name="Hẹn">
-    <snippet id="b5ec738a18b344288e6b1a92f10ac8ee" name="n2" tags="n2, có kinh" icon="dongho">
+    <snippet id="b5ec738a18b344288e6b1a92f10ac8ee" name="N2 FET" tags="n2, có kinh" icon="dongho" code="n2f">
       <content>Hẹn ngày 2 có kinh đến xem xét chuẩn bị niêm mạc chuyển phôi</content>
     </snippet>
-    <snippet id="d441040ad8cc4bfea2f850b518f18902" name="sạch kinh" tags="sk" icon="dongho">
+    <snippet id="e4b0ae0b22c845e09545198975b9b00d" name="N2 tháo bóng" tags="n2, tháo bóng" icon="dongho" code="n2b">
+      <content>Hẹn ngày 2 có kinh đến tháo bóng.
+</content>
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}{\f1\fnil\fcharset163 Segoe UI;}{\f2\fnil\fcharset0 Segoe UI;}{\f3\fnil\fcharset238 Segoe UI;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs23 H\f1\lang1066\u7865?n ng\f2\lang1033\'e0y 2 c\'f3 kinh \f3\'f0\f1\lang1066\u7871?n \f2\lang1033 th\'e1o b\'f3ng.\f0\par
+\par
+}
+</rtf>
+    </snippet>
+    <snippet id="d441040ad8cc4bfea2f850b518f18902" name="sạch kinh" tags="sk" icon="dongho" code="hsk">
       <content>Hẹn sạch kinh 2-5 ngày không quan hệ tình đục đến xem xét chụp tử cung - vòi trứng</content>
     </snippet>
-    <snippet id="d191ffa3200640048e6260758999687b" name="cắt chỉ" tags="cat" icon="dongho">
+    <snippet id="d191ffa3200640048e6260758999687b" name="cắt chỉ" tags="cat, cắt chỉ" icon="dongho">
       <content>Hẹn cắt chỉ sau phẫu thuật 7 ngày</content>
     </snippet>
   </folder>
@@ -207,7 +217,7 @@ Bệnh nhân ổn định &gt; ra viện</content>
       <content>Kháng sinh + khâu eo cổ tử cung</content>
     </snippet>
   </folder>
-  <folder id="366b13943f31493695ab70f3fd7adc72" name="BA">
+  <folder id="366b13943f31493695ab70f3fd7adc72" name="Bệnh án">
     <snippet id="04bedc803da54bf0b8b103cf3bcd3f5c" name="BA dọa sảy" tags="bads, ds" icon="giayto">
       <content>
       </content>
