@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-15T16:58:37.7015072+07:00" note="publish" publishId="20261115095837701-06832985" publishedAt="2026-11-15T09:58:37.7084718Z" publishedFrom="PC-KAITORKID">
+<QuangGoTat version="1" savedAt="2026-11-15T17:07:00.9367508+07:00" note="publish" publishId="20261115100700935-41D80138" publishedAt="2026-11-15T10:07:00.9447192Z" publishedFrom="PC-KAITORKID">
   <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Thai tự nhiên =&gt; {loai} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="1" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="fb34912c311f447f99b1fcf2f54bf342" name="Hôm nay" tags="nay, ngay, gio" icon="dongho">
@@ -506,10 +506,13 @@ Thu dọn dụng cụ</content>
     </snippet>
   </folder>
   <folder id="3e7b1326e47d49a5928c53117eac15e6" name="Hẹn">
-    <snippet id="b5ec738a18b344288e6b1a92f10ac8ee" name="N2 FET" tags="n2, có kinh" icon="dongho" code="hn2">
+    <snippet id="b5ec738a18b344288e6b1a92f10ac8ee" name="Hẹn N2 FET" tags="n2, có kinh, hn2, hẹn" icon="dongho" code="hn2">
       <content>Hẹn ngày 2 có kinh đến xem xét chuẩn bị niêm mạc chuyển phôi</content>
     </snippet>
-    <snippet id="e4b0ae0b22c845e09545198975b9b00d" name="N2 tháo bóng" tags="n2, tháo bóng" icon="dongho" code="hn2b">
+    <snippet id="d441040ad8cc4bfea2f850b518f18902" name="Hẹn sạch kinh" tags="hẹn, sk, hsk" icon="dongho" code="hsk">
+      <content>Hẹn sạch kinh 2-5 ngày không quan hệ tình dục đến xem xét chụp tử cung - vòi trứng</content>
+    </snippet>
+    <snippet id="e4b0ae0b22c845e09545198975b9b00d" name="Hẹn N2 tháo bóng" tags="hẹn, n2, tháo bóng, hn2b" icon="dongho">
       <content>Hẹn ngày 2 có kinh đến tháo bóng.
 </content>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}{\f1\fnil\fcharset163 Segoe UI;}{\f2\fnil\fcharset0 Segoe UI;}{\f3\fnil\fcharset238 Segoe UI;}}
@@ -519,10 +522,10 @@ Thu dọn dụng cụ</content>
 }
 </rtf>
     </snippet>
-    <snippet id="d441040ad8cc4bfea2f850b518f18902" name="sạch kinh" tags="sk" icon="dongho" code="hsk">
-      <content>Hẹn sạch kinh 2-5 ngày không quan hệ tình dục đến xem xét chụp tử cung - vòi trứng</content>
+    <snippet id="2d92d39915be4ce8b3afa017c1c98169" name="Hẹn 2 tuần tháo bóng" tags="hẹn, h2b, tháo bóng" icon="dongho">
+      <content>Hẹn 2 tuần sau đến tháo bóng.</content>
     </snippet>
-    <snippet id="d191ffa3200640048e6260758999687b" name="cắt chỉ" tags="cat, cắt chỉ" icon="dongho">
+    <snippet id="d191ffa3200640048e6260758999687b" name="Hẹn cắt chỉ" tags="hẹn, cat, cắt chỉ" icon="dongho">
       <content>Hẹn cắt chỉ sau phẫu thuật 7 ngày</content>
     </snippet>
   </folder>
