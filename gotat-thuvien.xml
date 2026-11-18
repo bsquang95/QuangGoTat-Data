@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-11T11:43:00.1051191+07:00" publishId="20261111044300105-2A0B2B3E" publishedAt="2026-11-11T04:43:00.1051191Z" publishedFrom="P106B">
-  <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn">
-    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" updated="2026-11-11T11:42:28.2067143+07:00">
-      <text> 
-
- </text>
+<QuangThuVien version="1" savedAt="2026-11-18T15:10:20.6126300+07:00" publishId="20261118081020612-AEE00663" publishedAt="2026-11-18T08:10:20.6125860Z" publishedFrom="vm" merge="1">
+  <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" ord="0" cu="0" pu="0" du="0" ch="GNUizA6wKazYMQ6fJAiZJA==">
+    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" ord="1024" cu="0" pu="0" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="wuxQQmfvQJicOMxOpntQfA==" updated="2026-11-11T11:42:28.2067143+07:00">
+      <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
 \pard\f0\fs23{\pict{\*\picprop{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn posv}{\sv 1}}
@@ -4374,6 +4372,30 @@ d9
 }
 </rtf>
       <link title="https://bsquang.org/kham-afhn" url="https://bsquang.org/kham-afhn" />
+    </item>
+  </folder>
+  <folder id="fbaaf29dfa8b4cbcbf506de95164bc06" name="Quy trình" ord="1024" cu="639305862116177970" pu="0" du="0" ch="p0y8bf0nR1toIlI5sUYXsA==">
+    <item id="1b3eb1e058a145d4879c04e927e7cc4a" name="Hướng dẫn dùng Thư viện" tags="huong dan" ord="1024" cu="639305862116178660" pu="1" du="0" par="fbaaf29dfa8b4cbcbf506de95164bc06" ch="6ln8LQbjluqf3SnPFF4MMw==" updated="2026-11-18T15:10:11.6178660+07:00">
+      <text>Thư viện lưu kiến thức, quy trình, quy định, hình ảnh… để tra cứu nhanh.
+• + Mục mới / + Thư mục để thêm.
+• Dán ảnh (Ctrl+V) hoặc nút 🖼 để chèn ảnh.
+• 🔗 Thêm link website / Google Drive, nhấp đúp để mở.
+• 🖨 In… để in mục đang xem.</text>
+      <rtf></rtf>
+    </item>
+  </folder>
+  <folder id="d420ae1cdb324af4b3da237a9a7df491" name="lan" own="lan" home="1" by="lan" ord="2048" cu="639305862143914670" pu="0" du="0" ch="GYGBP+uWNmeDm3yGEM3piw==">
+    <item id="e6a365f2b92444029533d3683bd1505a" name="Phác đồ xử trí tiền sản giật" own="lan" by="lan" ord="1024" cu="639305862144158790" pu="1" du="0" par="d420ae1cdb324af4b3da237a9a7df491" ch="KzaaYCqd7pV6l4dXDfjYLQ==" updated="2026-11-18T15:10:14.4142630+07:00">
+      <text>Magie sulfat liều tấn công 4–6 g…</text>
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\deflang1033
+{\fonttbl{\f0\fnil\fcharset0 Inter;}}
+{\*\generator Mono RichTextBox;}\pard\f0\fs22 Magie sulfat li\'1EC1u t\'1EA5n c\'F4ng 4\'20136 g\'2026\par
+}
+</rtf>
+      <hist time="2026-11-18T15:10:14.4142000+07:00" name="Bài viết mới" tags="" by="lan">
+        <text></text>
+        <rtf></rtf>
+      </hist>
     </item>
   </folder>
 </QuangThuVien>
