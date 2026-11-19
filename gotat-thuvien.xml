@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-18T22:04:55.5353014+07:00" publishId="20261118150455534-A41716B5" publishedAt="2026-11-18T15:04:55.5342956Z" publishedFrom="ASUS-KAITORKID" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-19T08:31:51.7175517+07:00" publishId="20261119013151717-653278A0" publishedAt="2026-11-19T01:31:51.7175517Z" publishedFrom="ASUS-KAITORKID" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" ord="1024" cu="639305868084388350" pu="0" du="0" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" ord="1024" cu="639299689482067143" pu="1" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="wuxQQmfvQJicOMxOpntQfA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -15029,9 +15029,22 @@ a05c5f5ecac3ab3dc31ddf866bdb7e0ac8d3f81e391b3937328e4e4f514515e8e5edbadabe8746
 </rtf>
       </hist>
     </item>
-    <item id="5a4e728d225f4dbaa9f0e702d0be44c0" name="Bài viết mới" own="bsquang" by="bsquang" ord="2048" cu="639306110874329426" pu="639306110874359731" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="AEHKl2DFF88UFF/J2tng3g==" updated="2026-11-18T22:04:47.4329426+07:00">
+    <item id="5a4e728d225f4dbaa9f0e702d0be44c0" name="Bài viết mới" own="bsquang" by="bsquang" ord="2048" cu="639306487042395714" pu="639306110874359731" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="hEjiTYl1r+8qx3ej4RPF2w==" updated="2026-11-19T08:31:44.2369406+07:00">
       <text></text>
-      <rtf></rtf>
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
+{\*\generator Riched20 10.0.26100}\viewkind4\uc1 
+\pard\f0\fs23\par
+}
+</rtf>
+      <link title="TĐT Bệnh án ngoại khoa" url="https://docs.google.com/document/d/1fQ91S2WL7owOj8aCAngrQb3TgC4mM9oC/edit?usp=sharing&amp;ouid=114666900945191276975&amp;rtpof=true&amp;sd=true" />
+      <hist time="2026-11-19T08:31:44.2369406+07:00" name="Bài viết mới" tags="" by="bsquang">
+        <text></text>
+        <rtf></rtf>
+      </hist>
+      <hist time="2026-11-18T22:07:42.2531219+07:00" name="Bài viết mới" tags="" by="bsquang">
+        <text></text>
+        <rtf></rtf>
+      </hist>
     </item>
   </folder>
   <folder id="fbaaf29dfa8b4cbcbf506de95164bc06" name="Quy trình" del="1" delAt="2026-11-18T15:39:58.9354492+07:00" delBy="bsquang" ord="1536" cu="639305862116177970" pu="639305868104870820" du="639305879989354492" ch="p0y8bf0nR1toIlI5sUYXsA==">
