@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-20T15:41:38.6449679+07:00" publishId="20261120084138629-9C4D901D" publishedAt="2026-11-20T08:41:38.6293427Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-20T15:42:52.0573589+07:00" publishId="20261120084252057-5D316A4D" publishedAt="2026-11-20T08:42:52.0573589Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" ord="1024" cu="639305868084388350" pu="0" du="0" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" ord="1024" cu="639299689482067143" pu="1" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="wuxQQmfvQJicOMxOpntQfA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -15070,6 +15070,12 @@ a05c5f5ecac3ab3dc31ddf866bdb7e0ac8d3f81e391b3937328e4e4f514515e8e5edbadabe8746
         <text></text>
         <rtf></rtf>
       </hist>
+    </item>
+  </folder>
+  <folder id="b41b5445175740c192014f082644d4d5" name="bsquang" own="bsquang" home="1" by="bsquang" ord="3072" cu="639307609648383961" pu="639307609648383961" du="0" ch="CvF8s5TZ4R3E5uztn6hEOA==">
+    <item id="91d1c47528fa45cb834a9680e7d94a25" name="Bài viết mới" own="bsquang" by="bsquang" ord="1024" cu="639307609648383961" pu="1" du="0" par="b41b5445175740c192014f082644d4d5" ch="AEHKl2DFF88UFF/J2tng3g==" updated="2026-11-20T15:42:44.8383961+07:00">
+      <text></text>
+      <rtf></rtf>
     </item>
   </folder>
 </QuangThuVien>
