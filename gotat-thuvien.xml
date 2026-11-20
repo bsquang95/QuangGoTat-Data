@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-20T16:22:29.9227775+07:00" publishId="20261120092229922-479245E9" publishedAt="2026-11-20T09:22:29.9227775Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-20T16:22:46.6741754+07:00" publishId="20261120092246674-5507BE1A" publishedAt="2026-11-20T09:22:46.6741754Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" ord="1024" cu="639305868084388350" pu="0" du="0" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" ord="1024" cu="639299689482067143" pu="1" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="wuxQQmfvQJicOMxOpntQfA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -15047,16 +15047,15 @@ a05c5f5ecac3ab3dc31ddf866bdb7e0ac8d3f81e391b3937328e4e4f514515e8e5edbadabe8746
       </hist>
     </item>
   </folder>
-  <folder id="c814209b63af45e4a9eff82145461e0c" name="TỜ ĐIỀU TRỊ" own="bsquang" by="bsquang" ord="1280" cu="639307633423766346" pu="639307608917522153" du="0" ch="fjwSJgo7wcZZZeW0LVIOAQ==">
-    <item id="91d1c47528fa45cb834a9680e7d94a25" name="Bài viết mới" own="bsquang" by="bsquang" ord="1024" cu="639307609648383961" pu="639307612898880995" du="0" par="c814209b63af45e4a9eff82145461e0c" ch="AEHKl2DFF88UFF/J2tng3g==" updated="2026-11-20T15:42:44.8383961+07:00">
+  <folder id="c814209b63af45e4a9eff82145461e0c" name="TỜ ĐIỀU TRỊ" own="bsquang" by="bsquang" ord="1280" cu="639307633423766346" pu="639307608917522153" du="0" ch="fjwSJgo7wcZZZeW0LVIOAQ==" />
+  <item id="91d1c47528fa45cb834a9680e7d94a25" name="Bài viết mới" own="bsquang" by="bsquang" ord="1408" cu="639307609648383961" pu="639307633589866514" du="0" ch="AEHKl2DFF88UFF/J2tng3g==" updated="2026-11-20T15:42:44.8383961+07:00">
+    <text></text>
+    <rtf></rtf>
+    <hist time="2026-11-20T15:43:24.5343042+07:00" name="Bài viết mới" tags="" by="bsquang">
       <text></text>
       <rtf></rtf>
-      <hist time="2026-11-20T15:43:24.5343042+07:00" name="Bài viết mới" tags="" by="bsquang">
-        <text></text>
-        <rtf></rtf>
-      </hist>
-    </item>
-  </folder>
+    </hist>
+  </item>
   <folder id="fbaaf29dfa8b4cbcbf506de95164bc06" name="Quy trình" del="1" delAt="2026-11-18T15:39:58.9354492+07:00" delBy="bsquang" ord="1536" cu="639305862116177970" pu="639305868104870820" du="639305879989354492" ch="p0y8bf0nR1toIlI5sUYXsA==">
     <item id="1b3eb1e058a145d4879c04e927e7cc4a" name="Hướng dẫn dùng Thư viện" tags="huong dan" ord="1024" cu="639307307117826109" pu="1" du="0" par="fbaaf29dfa8b4cbcbf506de95164bc06" ch="OIk933mhvsTTxpIt7cFZew==" updated="2026-11-18T15:10:11.6178660+07:00">
       <text>Thư viện lưu kiến thức, quy trình, quy định, hình ảnh… để tra cứu nhanh.
