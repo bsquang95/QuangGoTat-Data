@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuangGoTat version="1" savedAt="2026-11-20T14:53:21.9681543+07:00" note="publish" publishId="20261120075321968-27AC4FBC" publishedAt="2026-11-20T07:53:21.9681543Z" publishedFrom="P210B" libName="Test">
+  <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" smartEnter="1" loaiPopup="1" calcMoSauD="1" calcGiuSauDien="1" calcDiCung="1" calcDup="1" calcEsc="1" calcNho="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrModes="KVCTC (khâu vòng cổ tử cung) = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" ocrCtrlClick="1" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
+  <folder id="6af510b6968d4d30876a2e28abdef5e2" name="Thời gian">
+    <snippet id="7f45ec80cb5a4688bad171a6e3a153db" name="Hôm nay" tags="hôm nay, nay" icon="hen" code="homnay">
+      <content>{ngay}</content>
+    </snippet>
+    <snippet id="31ed9be9c92f41009e4fb2c4f2a7aef8" name="Mai" tags="mai" icon="hen" code="ngaymai">
+      <content>{ngay+1}</content>
+    </snippet>
+    <snippet id="b1aae20958384fed872a22c8c817c9ba" name="Hôm nay (ngày + giờ)" tags="nay, gio, hôm nay" icon="dongho">
+      <content>{ngay}
+08h00</content>
+    </snippet>
+    <snippet id="fd2d8b27bdf24766b6fba55690bbef0b" name="Mai (ngày + giờ)" tags="mai" icon="dongho">
+      <content>{ngay+1}
+08h00</content>
+    </snippet>
+  </folder>
+  <folder id="17e78405add8445d8f8159e45258f4eb" name="Bệnh án">
+    <snippet id="ca8f0c89252c442c83b978bd1a6820ee" name="BA dọa sảy" tags="bads, ds, bệnh án, ba" icon="giayto">
+      <content>
+      </content>
+    </snippet>
+  </folder>
+  <folder id="5d9ddd54c0c34050aa569202e9301248" name="Diễn biến">
+    <snippet id="f8a8b09d4dab437d84deff8fdd510639" name="Diễn biến thai" tags="nxt, nhận xét thai, dbt, diễn biến thai, db, nx" icon="dienbien">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định, không sốt
+Da niêm mạc hồng
+Tim phổi bình thường
+Bụng mềm không chướng
+Âm đạo không ra máu
+Ối còn, Thai máy +</content>
+    </snippet>
+    <snippet id="f7d30af6f829495e8e643203e650ba4e" name="Diễn biến sau PT ko NSOB" tags="nxpt, nhận xét phẫu thuật, pt, db" icon="dienbien">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định, không sốt
+Da niêm mạc hồng
+Tim phổi bình thường
+Bụng mềm không chướng
+Phản ứng thành bụng âm tính
+Nước tiểu trong
+Âm đạo không ra máu
+</content>
+    </snippet>
+    <snippet id="468387bd64fb49f6a032a9411b33c81a" name="Diễn biến sau PT có NSOB" tags="nxns, nhận xét nội soi, db, nx" icon="dienbien">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định, không sốt
+Da niêm mạc hồng
+Tim phổi bình thường
+Bụng mềm không chướng
+Phản ứng thành bụng âm tính
+Âm đạo không ra máu
+Nước tiểu trong
+Vết mổ có ít dịch thấm băng</content>
+    </snippet>
+  </folder>
+  <folder id="d92aae9f21a64500893f46a66d9e3c0c" name="KS">
+    <snippet id="52154963e9c744198f7be96a5d6682ed" name="Metro 500 + Unasyl" tags="ks, kháng sinh" icon="truyen">
+      <content>1. Metronidazole 500 mg x 02 chai
+Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h
+1. Unasyl 1.5 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
+    </snippet>
+    <snippet id="6cdd242c3dc64260bb16eb2a123f0b65" name="Metro 400 + Unasyl" tags="ks, kháng sinh" icon="thuoc">
+      <content>1. Unasyl 1.5 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h
+1. Metronidazole 400 mg x 02 viên
+Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
+    </snippet>
+    <snippet id="de930e351fe6445c909ed10d2496ce57" name="Metronidazole truyền" tags="metro, ks" icon="truyen">
+      <content>1. Metronidazole 500 mg x 02 chai
+Truyền tĩnh mạch chậm 02 chai/ ngày 9h-15h</content>
+    </snippet>
+    <snippet id="96ba7c5c005a4d8caf8df2930d3a3baf" name="Metronidazole uống" tags="metro, ks" icon="thuoc">
+      <content>1. Metronidazole 400 mg x 02 viên
+Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn </content>
+    </snippet>
+    <snippet id="3216028aa01a4c5e866e81b28788abc5" name="Unasyl" tags="una, ks" icon="lotiem">
+      <content>1. Unasyl 1.5 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
+    </snippet>
+    <snippet id="863604bbeb84443cb3c63ab923a851f3" name="Rocephin" tags="r, ro, ks" icon="lotiem">
+      <content>1. Rocephin 1 g x 02 lọ
+Tiêm tĩnh mạch chậm 02 lọ/ ngày 9h-15h</content>
+    </snippet>
+    <snippet id="dd37455e59c44521b615b3a04c123de8" name="Zitromax" tags="z, zi, ks" icon="thuoc">
+      <content>1. Zitromax 500mg x 02 viên
+Uống 02 viên/lần sau ăn </content>
+    </snippet>
+  </folder>
+  <folder id="eba9fd20dee64e039608a15608581f5a" name="Giảm co">
+    <snippet id="2de1790bc0a04a05bc166049c0afde21" name="Truyền No-spa" tags="gc, nospa, truyền no-spa" icon="truyen">
+      <content>NaCl 0.9% x 500ml
+No-spa 40mg x 02 ống
+   Pha với dung dịch NaCl 0.9% truyền tĩnh mạch XL giọt/phút</content>
+    </snippet>
+    <snippet id="c61135da1df34006821473fc740bf83f" name="Nifedipine" tags="gc, nife, nifedipine" icon="thuoc">
+      <content>Nifedipine 10mg x 08 viên
+Ngậm dưới lưỡi 02 viên/lần cách nhau 06 giờ, đo huyết áp trước ngậm &gt; 90/60mmHg</content>
+    </snippet>
+    <snippet id="297ca4e464d54dba8a6a31cf0167f3c4" name="Yspuripax" tags="ysp, yspuripax, ys" icon="thuoc">
+      <content>Yspuripax x 03 viên
+Uống 03 viên/ngày chia 3 lần</content>
+    </snippet>
+    <snippet id="86e806e0c3d8466eb86a9fee11fb7aed" name="Tractocile" tags="trac" icon="tiem">
+      <content>Lọ 1 lấy 0.9ml pha với 10ml Ringer tiêm TMC trong 10 phút, còn lại pha với ringer theo tỉ lệ 1:9 truyền bơm tiêm điện 24ml/h trong 3 giờ đầu, sau đó duy trì truyền 8ml/giờ đến khi hết thuốc</content>
+    </snippet>
+  </folder>
+  <folder id="0ee4e407360d4f0daf4d4da1254bb411" name="Thuốc đặt">
+    <snippet id="b362e64c9e6b40c8934f5f04cbbdf996" name="Cyclogest" tags="cyclo, cyclogest, cy" icon="thuoc">
+      <content>(TT) Cyclogest 400 mg x 01 viên
+Đặt hậu môn 01 viên/lần vào buổi tối</content>
+    </snippet>
+    <snippet id="f900e287e4804e5ebef14c5459f9158d" name="Perfeclly" tags="per, p" icon="thuoc">
+      <content>(TT) Perfeclly 400 mg x 01 viên
+Đặt hậu môn 01 viên/lần vào buổi tối</content>
+    </snippet>
+    <snippet id="78eec3c377044be7941bce473b09ff34" name="Utrogestan" tags="utro, utrogestan, ut" icon="thuoc">
+      <content>(TT) Utrogestan 200mg x 02 viên
+Đặt âm đạo 02 viên/lần vào buổi tối</content>
+    </snippet>
+  </folder>
+  <folder id="ec89fca00a57446b9e0fe8d7f6513216" name="Giảm đau">
+    <snippet id="dc8e2ea552264af58633c5a202fb7f8d" name="Voltarel" tags="Voltarel, vol" icon="thuoc">
+      <content>Voltarel 100 mg x 02 viên
+Đặt hậu môn 01 viên/lần, ngày 2 lần sáng - tối</content>
+    </snippet>
+  </folder>
+  <folder id="d72b6bd9bd064c39b1bafd19902c6592" name="Điều trị dọa sảy">
+    <snippet id="440d6dadb7f642e8ab89d1c92641efff" name="Thai nhỏ dọa sảy (có truyền No-spa)" tags="ds, dọa sảy có nospa, dtds" icon="thuoc">
+      <content>Glucose 5% x 500ml
+No-spa 40mg x 02 ống
+   Truyền tĩnh mạch XL giọt/phút
+Transamin 250mg x 02 ống
+   Tiêm tĩnh mạch chậm 02 ống/lần/ngày 9h
+Progesteron 25mg x 02 ống
+  Tiêm bắp sâu 02 ống/ lần 9h
+1. Zinnat 500mg x 02 viên
+ Uống 02 viên/ngày chia 2 lần sáng - chiều
+(TT) Dusphaton 10 mg x 02 viên
+   Uống 02 viên/ ngày chia sáng - tối
+(TT) Cyclogest 400 mg x 02 viên
+    Đặt âm đạo 02 viên/ ngày chia sáng - tối
+(TT) Valiera x 02 viên
+    Uống 02 viên/ ngày chia sáng - tối
+Aspirin 81 mg
+    Dừng thuốc
+ Theo dõi toàn trạng , đau bụng, ra máu âm đạo
+Cơm, CSIII</content>
+    </snippet>
+    <snippet id="f178904e70704f1e9eec13f0146fff7d" name="Thai nhỏ dọa sảy (ko truyền No-spa)" tags="ds, dọa sảy không nospa, dtds" icon="thuoc">
+      <content>Transamin 250mg x 02 ống
+   Tiêm tĩnh mạch chậm 02 ống/lần 9h
+Progesteron 25mg x 02 ống
+  Tiêm bắp sâu 02 ống/ lần 9h
+1. Zinnat 500mg x 02 viên
+ Uống 01 viên/ lần 9h-15h
+(TT) No-spa 80mg x 02 viên
+   Uống 02 viên/ngày chia 2 lần sáng - tối
+(TT) Dusphaton 10 mg x 02 viên
+   Uống 02 viên/ ngày chia sáng - tối
+(TT) Cyclogest 400 mg x 02 viên
+    Đặt hậu môn 02 viên/ ngày chia sáng - tối
+(TT) Valiera x 02 viên
+    Uống 02 viên/ ngày chia sáng - tối
+Aspirin 81 mg
+    Dừng thuốc
+ Theo dõi toàn trạng , đau bụng, ra máu âm đạo
+Cơm, CSIII</content>
+    </snippet>
+  </folder>
+  <folder id="7df353cfb5b14d698c0c66c7c00ab269" name="Ra viện">
+    <snippet id="0ff1be22681e42c68578970a79f3228a" name="Ra viện thai" tags="rvt, ra viện thai, rv" icon="ravien">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định
+Da niêm mạc hồng
+Tim phổi bình thường
+Không đau bụng
+Âm đạo không ra máu
+Bệnh nhân ổn định &gt; ra viện</content>
+    </snippet>
+    <snippet id="b77fd59398cd489ab1c48908d2313d82" name="Ra viện sau PT ko NSOB" tags="rv, ra viện, pt" icon="ravien">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định
+Da niêm mạc hồng
+Tim phổi bình thường
+Không đau bụng
+Âm đạo không ra máu
+Nước tiểu trong
+Bệnh nhân ổn định &gt; ra viện</content>
+    </snippet>
+    <snippet id="e045d69a75704dbc93376f5ac165a010" name="Ra viện sau PT có NSOB" tags="rvb, nsob, rv, pt" icon="ravien">
+      <content>Bệnh nhân tỉnh, tiếp xúc tốt
+Huyết động ổn định
+Da niêm mạc hồng
+Tim phổi bình thường
+Không đau bụng
+Âm đạo không ra máu
+Nước tiểu trong
+Vết mổ khô
+Bệnh nhân ổn định &gt; ra viện</content>
+    </snippet>
+  </folder>
+  <folder id="e5e23da425e84167a53afb30ce3ee082" name="Tổng kết bệnh án">
+    <snippet id="4c8dda62c7934c22bfdb4c4e64f16fb3" name="Sau" tags="sau" icon="xong">
+      <content>Sau     ngày điều trị, bệnh nhân ổn định &gt; ra viện.</content>
+    </snippet>
+    <snippet id="5b12cfff8c124aec93e4c34829668efb" name="PP điều trị – nội khoa" tags="ppdt, phương pháp điều trị, pp" icon="xong">
+      <content>Kháng sinh, nội tiết, giảm co, cầm máu</content>
+    </snippet>
+    <snippet id="4a131d350071453ab19ab87357e42ec7" name="PP điều trị – khâu eo CTC" tags="pp, ppdt, khâu, ctc" icon="xong">
+      <content>Kháng sinh + khâu eo cổ tử cung</content>
+    </snippet>
+  </folder>
+  <folder id="e23cba5290c14a03b3ee4fbea1270f73" name="Mẫu phẫu thuật - thủ thuật">
+    <folder id="d43de3bcbaba459eba32e6a429352142" name="Phẫu thuật">
+      <snippet id="5af5912d0dd6454f82389a859470d4c2" name="PTNS tách dính buồng tử cung" tags="ptns, pt, ns, phẫu thuật nội soi, tachdinh, dính" icon="mo">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung dính từ thành trước ra thành sau bởi 1 cột cơ dày, không nhìn rõ 2 lỗ vòi tử cung. AFS score
+Nong cổ tử cung đến số 9,5. Dùng dao điện đơn cực cắt dính. Sau cắt dính, buồng tử cung rộng, nhìn rõ hai lỗ vòi tử cung.
+Thì 2: Soi ổ bụng
+Chọc trocart dưới rốn, bơm CO2
+Chọc 02 trocart 2 bên hố chậu.
+Quan sát gan bình thường, không dính.
+Tử cung kích thước bình thường, vòi tử cung hai bên mềm mại, loa vòi tự do, buồng trứng hai bên bình thường, có sẹo phóng noãn bên phải.
+Bơm Xanhmethylen 2 vòi tử cung thông.
+Rửa sạch ổ bụng
+Xả CO2. Rút trocart.
+Bơm gel chống dính buồng tử cung
+Đặt bóng buồng tử cung
+Dùng chu kỳ kinh nhân tạo</content>
+      </snippet>
+      <snippet id="601f5e34f85446dc9008a553ef6023c0" name="PTNS cắt polyp buồng tử cung" tags="ptns, pt, ns, phẫu thuật nội soi, polyp, polype" icon="mo">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung có nhiều polyp ở thành trước và thành sau kích thước 0,7 x 1 cm, nhìn rõ lỗ vòi tử cung phải, không nhìn rõ lỗ vòi tử cung trái. không nhìn rõ 2 lỗ vòi tử cung.
+Nong cổ tử cung đến số 9,5. Dùng dao điện đơn cực cắt polyp. Sau cắt polyp, buồng tử cung rộng, nhìn rõ hai lỗ vòi tử cung.
+Thì 2: Soi ổ bụng
+Chọc trocart dưới rốn, bơm CO2
+Chọc 02 trocart 2 bên hố chậu.
+Quan sát gan bình thường, không dính.
+Tử cung kích thước bình thường, vòi tử cung hai bên mềm mại, loa vòi tự do, buồng trứng hai bên bình thường, có sẹo phóng noãn bên phải.
+Bơm Xanhmethylen 2 vòi tử cung thông.
+Rửa sạch ổ bụng
+Xả CO2. Rút trocart.
+Bơm gel chống dính.
+Dùng chu kỳ kinh nhân tạo</content>
+      </snippet>
+      <snippet id="b6c607092f804c27b87f3e21d5ad0dc2" name="PTNS kẹp cắt vòi tử cung" tags="ptns, pt, ns, phẫu thuật nội soi, catvoi, cắt vòi, ứ dịch vòi" icon="mo">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy ống cổ tử cung bình thường, Buồng tử cung bình thường, nhìn rõ 2 lỗ vòi tử cung
+Thì 2: Soi ổ bụng
+Chọc trocart dưới rốn, bơm CO2
+Chọc 02 trocart 2 bên hố chậu.
+Quan sát gan bình thường, không dính.
+Tử cung kích thước bình thường. Vòi tử cung 2 bên viêm dày, ứ dịch, loa vòi tạo thành túi bịt. Buồng trứng 2 bên bình thường, có sẹo phóng noãn. Tiến hành gỡ dính, cắt 2 vòi tử cung sát sừng.
+Lấy bệnh phẩm gửi giải phẫu bệnh
+Rửa sạch ổ bụng
+Xả CO2, rút trocar.</content>
+      </snippet>
+      <snippet id="956c01d34d0c42febeed3bbe8892ad08" name="PTNS Chửa ngoài tử cung" tags="ptns, pt, ns, phẫu thuật nội soi, cntc, chửa ngoài" icon="mo">
+        <content>Chọc trocar 5 sát ngay dưới rốn vào ổ bụng, bơm CO2.
+Chọc 2 trocar 5 hai bên hố chậu.
+Quan sát gan bình thường không dính, ổ bụng có khoảng 200ml máu loãng, không đông.
+Tử cung kích thước bình thường. Khối chửa đoạn bóng vòi tử cung trái kích thước 2x3 cm đang rỉ máu. Vòi tử cung phải mềm mại, loa vòi tự do. Buồng trứng 2 bên bình thường. Tiến hành cắt vòi tử cung trái sát sừng.
+Lấy bệnh phẩm qua Trocar 10 gửi giải phẫu bệnh.
+Rửa sạch ổ bụng
+Khâu vết mổ.</content>
+      </snippet>
+      <snippet id="2a7030f9bcce4e74911fb448695a97a7" name="PTNS Khuyết sẹo mổ lấy thai" tags="ptns, pt, ns, phẫu thuật nội soi, khuyetseo, sẹo mổ" icon="mo">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung bình thường, nhìn rõ 2 lỗ vòi tử cung.
+Đoạn eo thành trước tử cung có khuyết sẹo mổ lấy thai dài 1,5cm, rộng 3,5 cm, sâu 1cm
+Thì 2: Mổ mở sửa khuyết sẹo mổ lấy thai
+Rạch da đường ngang trên vệ, cắt bỏ sẹo mổ cũ vào ổ bụng
+Bộc lộ tử cung và 2 phần phụ
+Tử cung kích thước bình thường, vòi tử cung hai bên mềm mại, loa vòi tự do, buồng trứng hai bên bình thường, có sẹo phóng noãn bên phải.
+Bơm Xanhmethylen 2 vòi tử cung thông.
+Bóc tách phúc mạc đoạn dưới tử cung bộc lộ sẹo mổ lấy thai cũ
+Cắt lọc sẹo mổ cũ
+Khâu phục hồi cơ tử cung bằng chỉ Monocryl 1.0
+Khâu phủ phúc mạc đoạn dưới tử cung
+Đóng bụng theo các lớp giải phẫu
+Khâu luồn dưới da bằng chỉ Dafilon 2.0</content>
+      </snippet>
+      <snippet id="a28faf6eb5b94a5abad4014c098ababb" name="Nội soi – dị dạng tử cung, cắt vòi trái" tags="didang, dị dạng tử cung, ptns" icon="mo">
+        <content>Thì 1: Soi buồng tử cung
+Đưa đèn soi thấy một cổ tử cung,ống cổ tử cung bình thường, Buồng tử cung hình trụ dẹt,kích thước hẹp hơn bình thường,chỉ quan sát thấy một lỗ vòi tử cung trái,không có lỗ vòi tử cung phải, niêm mạc tử cung viêm mạn tính đỏ sậm,lòng tử cung có nhiều dịch nâu từ lỗ vòi trái chảy ra.
+Thì 2: Soi ổ bụng
+Chọc trocart dưới rốn, bơm CO2
+Chọc 02 trocart 2 bên hố chậu.
+Quan sát gan bình thường, không dính.
+Tử cung trái kích thước nhỏ hơn bình thường. Vòi tử cung bên trái viêm dày, ứ dịch, loa vòi tạo thành túi bịt,dính vào quai đại tràng ngang và buồng trứng trái.
+Tử cung bên phải kích thước 1 x 2 cm,không có cấu trúc cổ tử cung,vòi tử cung phải mềm mại,loa vòi tự do,buồng trứng phải bình thường.
+Hai tử cung dính với nhau bởi một dải cơ mảnh,dẹt,hai buồng tử cung không thông sang nhau.
+Tiến hành gỡ dính, cắt vòi tử cung trái sát sừng.
+Lấy bệnh phẩm gửi giải phẫu bệnh
+Rửa sạch ổ bụng
+Xả CO2, rút trocar.</content>
+      </snippet>
+      <snippet id="bbafd73b191148d88cb1510c6fbcca99" name="Vi phẫu tinh hoàn tìm tinh trùng (micro-TESE)" tags="tese, microtese, tinh hoàn" icon="mo">
+        <content>Bệnh nhân nằm ngửa, sát khuẩn bộ phận sinh dục
+Rạch đường giữa bìu 4cm, tách các lớp da bìu
+Bộc lộ tinh hoàn và thừng tinh 2 bên, quan sát thấy tinh hoàn kích thước khoảng 5-6ml, mềm nhẽo, mào tinh mềm, ống dẫn tinh sờ thấy.
+Tiến hành rạch ngang bao trắng tinh hoàn Trái, quan sát thấy mô tinh hoàn mềm nhẽo dạng thoái hóa nước.
+Đưa kính vi phẫu vào tìm các ống sinh tinh giãn.
+Lấy 04 mẫu mô tinh hoàn chứa các ống sinh tinh giãn đưa labo tìm tinh trùng.
+Tiến hành mở tinh hoàn Phải tương tự bên Trái
+Trên mẫu soi quan sát thấy một vài tinh trùng bất động.
+Gửi 08 mẫu mô tinh hoàn cho Labo hỗ trợ sinh sản tìm tinh trùng làm IVF- ICSI.
+Khâu đóng bao trắng tinh hoàn
+Kiểm tra cầm máu vết mổ, đưa tinh hoàn về vị trí giải phẫu</content>
+      </snippet>
+      <snippet id="cf47964f57304cf7ac10a787111fb137" name="Tạo hình âm đạo" tags="taohinh, tạo hình âm đạo" icon="mo">
+        <content>- Bệnh nhân nằm ngửa, sát khuẩn bộ phận sinh dục
+- Bộc lộ âm đạo bằng van âm đạo
+- Dùng chaput kẹp 2 thành bên âm đạo, dùng dao rạch dọc theo hình tam giác, bóc tách và cắt bỏ niêm mạc thành sau âm đạo
+- Dùng chỉ Vicryl 1.0 khâu 2 mép thành sau âm đạo đã cắt bỏ
+- Kiểm tra không chảy máu
+- Dùng chỉ vicryl 2.0 khâu mũi rời khép 2 mép vùng TSM
+- Đặt sonde tiểu BQ và 1 meche chèn âm đạo
+- Bàn giao rút sonde sau 24h</content>
+      </snippet>
+    </folder>
+    <folder id="3e5069f1e0934e509826c78d59ce0f12" name="Soi buồng tử cung">
+      <snippet id="9915c2f4f99943389e7ef424adf7547f" name="Soi buồng tử cung + sinh thiết CD138/NK" tags="soibtc, soi btc, cd138" icon="manhinh">
+        <content>Bệnh nhân nằm tư thế sản khoa
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung không quan sát thấy tổn thương dính, polyp và vách ngăn
+Niêm mạc đang trong pha tăng sinh, mềm mại, không xơ ,không viêm
+Nhìn rõ hai lỗ vòi tử cung.
+Sinh thiết niêm mạc làm xét nghiệm CD138 + NK tử cung
+Tháo dụng cụ
+Sát khuẩn, làm sạch âm đạo.</content>
+      </snippet>
+      <snippet id="75a11c25b7454ecebdc2a2a9dc1a4aef" name="Soi buồng tử cung cắt polyp" tags="soipolyp, soi btc polyp, cd138" icon="manhinh">
+        <content>Bệnh nhân nằm tư thế sản khoa
+Đưa đèn soi thấy ống cổ tử cung bình thường. Buồng tử cung có 01 polyp kích thước 0.5 x 0,5 cm, mặt sau.
+Niêm mạc đang trong pha tăng sinh, đỏ sậm, mềm mại
+Nong cổ tử cung đến số 9,5. Dùng dao điện đơn cực cắt polyp. Sau cắt polyp, buồng tử cung rộng, nhìn rõ hai lỗ vòi tử cung.
+Sinh thiết niêm mạc làm xét nghiệm CD138 + NK tử cung
+Bơm gel chống dính.
+Dùng chu kỳ kinh nhân tạo
+Sát khuẩn,làm sạch âm đạo.</content>
+      </snippet>
+    </folder>
+    <folder id="043e8da2e2914562af84f84e0b5bdf4e" name="Thủ thuật">
+      <snippet id="942a3045e0d445cd88268f97cc2379ff" name="Hút thai" tags="hutthai, hút thai" icon="khautrang">
+        <content>- Sát khuẩn âm hộ, âm đạo và cổ tử cung
+- Trải săng vô khuẩn
+- Đặt mỏ vịt bộc lộ cổ tử cung
+- Sát khuẩn lại âm đạo cổ tử cung
+- Kẹp cổ tử cung bằng kẹp Pozzi
+- Đo buồng tử cung bằng ống hút số 5
+- Hút thai dưới sự hướng dẫn của siêu âm được nhiều tổ chức thai + rau mủn nát
+- Sau thủ thuật, tử cung co chắc, huyết âm đạo ra ít
+- Tháo dụng cụ</content>
+      </snippet>
+      <snippet id="ecd8c06aae2546299e6570f9450d728c" name="Nạo buồng tử cung (polyp)" tags="nao, nạo btc" icon="khautrang">
+        <content>- Vệ sinh âm hộ, âm đạo bằng Betadin.
+- Đặt mỏ vịt bộc lộ cổ tử cung, sát khuẩn lại âm đạo – cổ tử cung.
+- Kẹp cổ tử cung bằng kẹp pozi.
+- Nong BTC bằng nến nong từ số 5 đến số 8 dưới hướng dẫn siêu âm
+- Nạo polyp buồng tử cung dưới sự hướng dẫn của siêu âm.
+- Sau thủ thuật kiểm tra không chảy máu.
+- Sát khuẩn lại bằng betadin.
+- Lấy bệnh phẩm gửi giải phẫu bệnh.</content>
+      </snippet>
+      <snippet id="9401d9f6868b487e8b6f6d3b8d444127" name="Nong buồng tử cung" tags="nongbtc, nong btc" icon="khautrang">
+        <content>- Sát khuẩn âm hộ, âm đạo và cổ tử cung
+- Trải săng vô khuẩn
+- Đặt mỏ vịt bộc lộ cổ tử cung
+- Sát khuẩn lại âm đạo cổ tử cung
+- Kẹp cổ tử cung bằng kẹp Pozzi
+- Đo buồng tử cung bằng thước đo buồng
+- Nong buồng tử cung từ số 5 đến số 9
+- Sau thủ thuật, tử cung co chắc, huyết âm đạo ra ít
+- Tháo dụng cụ</content>
+      </snippet>
+      <snippet id="f49f8e8dca7a49869d7d27e10bd9d4c9" name="Giảm thai" tags="giamthai, giảm thai" icon="khautrang">
+        <content>- Vệ sinh âm hộ, âm đạo bằng nước muối sinh lý và Betadin.
+- Siêu âm kiểm tra: Buồng tử cung có 02 túi thai, trong đó Túi 1: có 01 thai 7 tuần 6 ngày, tim thai (+); Túi 02: có 02 thai 8 tuần, tim thai (+),2 tim thai sát cạnh nhau
+- Tiến hành giảm 01 thai trong túi có 02 thai dưới hướng dẫn siêu âm đầu dò âm đạo.
+- Siêu âm kiểm tra 02 thai còn lại tim thai bình thường.
+- Sau thủ thuật kiểm tra không chảy máu.
+- Sonde bàng quang kiểm tra nước tiểu vàng trong
+- Sát khuẩn lại bằng betadin.</content>
+      </snippet>
+      <snippet id="ba7914d9c725498eb8e23725f3acd533" name="Chọc ối" tags="chocoi, chọc ối" icon="khautrang">
+        <content>- Sát khuẩn bụng bằng Betadin.
+- Siêu âm kiểm tra: Buồng tử cung có 02 túi thai, trong đó Túi 1 bên phải thai 17 tuần 1 ngày,rau bám mặt trước, tim thai (+) .Túi 02 thai bên trái 17 tuần 1 ngày, tim thai (+), rau bám mặt sau
+- Tiến hành chọc ối 2 buồng ối, hút 6 ml nước ối mỗi buồng dưới hướng dẫn siêu âm đầu dò đường bụng
+- Gửi bệnh phẩm phòng xét nghiệm.
+- Siêu âm kiểm tra 02 thai tim thai bình thường.
+- Sau thủ thuật kiểm tra không chảy máu.
+- Sát khuẩn lại bằng betadine.</content>
+      </snippet>
+      <snippet id="dbc9451252b6446e93e9f12217e14efc" name="Chọc nang tồn dư" tags="chocnang, chọc nang, lạc nội mạc" icon="khautrang">
+        <content>- Vệ sinh âm hộ, âm đạo bằng Betadin.
+- Siêu âm kiểm tra đánh giá lại thấy buồng trứng 2 bên có 2 nang lạc nội mạc kích thước lớn.
+- Tiến hành chọc hút nang dưới hướng dẫn siêu âm đầu dò âm đạo ra nhiều dịch đục đen dạng dịch lạc nội mạc tử cung
+- Siêu âm kiểm tra lại
+- Sau thủ thuật kiểm tra không chảy máu.
+- Sonde bàng quang kiểm tra nước tiểu vàng trong
+- Sát khuẩn lại bằng betadin.</content>
+      </snippet>
+      <snippet id="2b9678677de0495582ede7537cfeb75e" name="Khâu vòng cổ tử cung" tags="khauctc, khâu ctc, khâu eo" icon="khautrang">
+        <content>Sát khuẩn âm hộ, âm đạo – cổ tử cung
+Đặt mỏ vịt bộc lộ cổ tử cung, quan sát thấy cổ tử cung ngắn, kín.
+Sát khuẩn lại cổ tử cung
+Tiến hành khâu vòng cổ tử cung bằng chỉ Mersilene ở các vị trí 12h-3h-6h-9h.
+Thắt chỉ ở vị trí 12h.
+Sau thủ thuật, kiểm tra không chảy máu.
+Sát khuẩn lại âm đạo – cổ tử cung.
+Tháo dụng cụ</content>
+      </snippet>
+      <snippet id="c4a96a49632b4c36ba4e53ec4a3e51d0" name="Đặt vòng nâng cổ tử cung" tags="vongnang, pessary, vòng nâng" icon="khautrang">
+        <content>Sát khuẩn âm hộ, âm đạo – cổ tử cung.
+Đặt mỏ vịt bộc lộ cổ tử cung, quan sát thấy cổ tử cung ngắn, kín.
+Sát khuẩn lại cổ tử cung.
+Tháo mỏ vịt.
+Tiến hành đặt vòng nâng cổ tử cung.
+Sau thủ thuật, kiểm tra không chảy máu.
+Đặt lại mỏ vịt kiểm tra vòng nâng đúng vị trí.
+Tháo dụng cụ.</content>
+      </snippet>
+    </folder>
+    <folder id="6c731eaf2a5941e6929c02e917a672b0" name="Thủ thuật phòng khám">
+      <snippet id="b0ad4555c0ae49109dda7b23f85296ca" name="Đốt lộ tuyến cổ tử cung" tags="lotuyen, đốt lộ tuyến, laser" icon="gangtay">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Mở mỏ vịt bộc lộ âm đạo cổ tử cung, thấy cổ tử cung viêm lộ tuyến độ II
+Đốt lazer cổ tử cung
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="2fd080bba9c84418b9a542c688fbabef" name="Đốt sùi mào gà" tags="suimaoga, sùi mào gà" icon="gangtay">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Kiểm tra âm hộ thấy có nốt sùi ở môi bé bên phải kt 0.5x1 cm
+(Mở mỏ vịt kiểm tra toàn bộ thành âm đạo và cổ tử cung không thấy nốt sùi)
+(Mở mỏ vịt kiểm tra thấy thành phải âm đạo có nốt sùi kt… )
+Gây tê tại chỗ
+Tiến hành dùng dao điện một cực cắt nốt sùi mào gà, đốt chân cầm máu
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="d4b1322b02ae46849094b96caa0f9fa7" name="Xoắn polyp cổ tử cung" tags="polypctc, polyp ctc" icon="gangtay">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Mở mỏ vịt bộc lộ âm đạo cổ tử cung, thấy cổ tử cung có polyp tuyến kt 1x0.5 cm
+Xoắn polyp cổ tử cung
+Đốt chân cầm máu
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="face7f5ac0094babb1dd03940da72d98" name="Tháo dụng cụ tử cung" tags="thaovong, tháo vòng, dctc" icon="gangtay">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Mở mỏ vịt bộc lộ âm đạo cổ tử cung thấy phần dây của dụng cụ tử cung đúng vị trí
+Tháo dụng cụ tử cung
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="47a54187c2dc450490f4caff89c94c45" name="Đặt dụng cụ tử cung" tags="datvong, đặt vòng, dctc" icon="gangtay">
+        <content>Sát khuẩn âm hộ, âm đạo, cổ tử cung
+Trải săng vô khuẩn
+Mở mỏ vịt bộc lộ âm đạo cổ tử cung
+Kẹp pozzi vào cổ tử cung vị trí 12 giờ
+Đặt dụng cụ tử cung
+Cắt dây của dụng cụ tử cung dài còn khoảng 2cm đẩy vào cùng đồ sau
+Sau thủ thuật kiểm tra không chảy máu
+Sát khuẩn lại âm đạo, cổ tử cung
+Tháo dụng cụ.</content>
+      </snippet>
+      <snippet id="56a96b19fac949c9ba8006c5d1de3e13" name="Cấy que tránh thai" tags="cayque, cấy que" icon="gangtay">
+        <content>Xác định vị trí cấy que là điểm nằm ở 1/3 giữa trên đường nối từ mỏm trong khuỷu tay đến đường nách trong cách mỏm khuỷu khoảng 10cm, đánh dấu vị trí cấy que
+Sát khuẩn mặt trong cánh tay trái của bệnh nhân bằng Betadin
+Trải săng có lỗ bộc lộ vùng da mặt trong cánh tay trái
+Gây tê tại chỗ
+Cấy que thai vào lớp dưới da mặt trong cánh tay
+Dùng gạc vô khuẩn băng vết thương
+Cố định que cấy bằng băng chun bản to
+Thu dọn dụng cụ
+Viết phiếu theo dõi que cấy tránh thai cho bệnh nhân
+Tháo băng chun sau 48 giờ</content>
+      </snippet>
+      <snippet id="c9bf58b75d194f259404d1dce32c894d" name="Tháo que tránh thai" tags="thaoque, tháo que" icon="gangtay">
+        <content>Xác định lại vị trí que cấy tránh thai ở mặt trong 1/3 giữa cánh tay bên trái của bệnh nhân
+Sát khuẩn vị trí có que cấy bằng Betadin
+Trải săng có lỗ bộc lộ vùng da mặt trong cánh tay trái
+Gây tê tại chỗ
+Cố định vị trí đầu dưới que cấy bằng 2 ngón cái và ngón trỏ
+Dùng dao phẫu thuật số 11 rạch da một đường 0.3cm tại vị trí đầu dưới que cấy tránh thai
+Dùng mũi dao lẩy nhẹ đầu que cấy để đầu que cấy tránh thai trồi lên mặt da
+Dùng Pank cong không mấu gắp que cấy ra khỏi lớp dưới da của bệnh nhân
+Dùng gạc vô khuẩn băng vết thương
+Thu dọn dụng cụ</content>
+      </snippet>
+    </folder>
+  </folder>
+  <folder id="2141618a85c54c5d9c61c2bf73ee4cfe" name="Điều kinh sau PT">
+    <snippet id="ec8cc937ec364252b5d22b801955b677" name="valiera u2 (sau phẫu thuật)" tags="vali, va2" icon="thuoc">
+      <content>Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn từ ngày {ngay+1} đến ngày {ngay+24}</content>
+    </snippet>
+    <snippet id="a124a774962c41d1a66ab6a5024f2ae1" name="valiera u3 (sau phẫu thuật)" tags="vali, va3" icon="thuoc">
+      <content>Uống  ngày 3 viên, (sáng 1v, trưa 1v, tối 1v) sau ăn từ ngày {ngay+1} đến ngày {ngay+24}</content>
+    </snippet>
+    <snippet id="5ed310229d0e461c9fb9f5ad5b9713bd" name="valiera u4 (sau phẫu thuật)" tags="vali, va4" icon="thuoc">
+      <content>Uống ngày 04 viên, chia 2 lần ( sáng 02 v, tối 02 v ) sau ăn từ ngày {ngay+1} đến ngày {ngay+24}</content>
+    </snippet>
+    <snippet id="39770cb8b2474b00b989c833d49e342e" name="Duphaston (sau phẫu thuật)" tags="du, duphaston" icon="thuoc">
+      <content>Uống 02 viên / ngày, chia 2 lần ( sáng 01 v, tối 01 v ) sau ăn từ ngày {ngay+15} đến ngày {ngay+24}</content>
+    </snippet>
+  </folder>
+  <folder id="762b2e03e0fc4dca8fcf58618fb5301b" name="Hẹn">
+    <snippet id="eb6352a4c79d4efebb0bc29bb2664113" name="Hẹn N2 FET" tags="n2, có kinh, hn2, hẹn" icon="hen" code="hn2">
+      <content>Hẹn ngày 2 có kinh đến xem xét chuẩn bị niêm mạc chuyển phôi</content>
+    </snippet>
+    <snippet id="69872877954742ee9c08e87326f70577" name="Hẹn sạch kinh" tags="hẹn, sk, hsk" icon="hen" code="hsk">
+      <content>Hẹn sạch kinh 2-5 ngày không quan hệ tình dục đến xem xét chụp tử cung - vòi trứng</content>
+    </snippet>
+    <snippet id="3a8c534528c44832b2f4184b4bd7da6a" name="Hẹn N2 tháo bóng" tags="hẹn, n2, tháo bóng, hn2b" icon="hen">
+      <content>Hẹn ngày 2 có kinh đến tháo bóng.
+</content>
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}{\f1\fnil\fcharset163 Segoe UI;}{\f2\fnil\fcharset0 Segoe UI;}{\f3\fnil\fcharset238 Segoe UI;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs23 H\f1\lang1066\u7865?n ng\f2\lang1033\'e0y 2 c\'f3 kinh \f3\'f0\f1\lang1066\u7871?n \f2\lang1033 th\'e1o b\'f3ng.\f0\par
+\par
+}
+</rtf>
+    </snippet>
+    <snippet id="48d7efeeb3b94312b689cd9dcf9769b2" name="Hẹn 2 tuần tháo bóng" tags="hẹn, h2b, tháo bóng" icon="hen">
+      <content>Hẹn 2 tuần sau đến tháo bóng.</content>
+    </snippet>
+    <snippet id="3e57a797426341909ad622550838a984" name="Hẹn cắt chỉ" tags="hẹn, cat, cắt chỉ" icon="hen">
+      <content>Hẹn cắt chỉ sau phẫu thuật 7 ngày</content>
+    </snippet>
+  </folder>
+  <folder id="c79deefbaf844b789da78831c563a42b" name="Quy tắc nhanh" icon="sao">
+    <snippet id="e6460bc2fb9242498849ea6b60d69d6b" name="Tuổi thai" rule="1">
+      <content>{số}w{số}d =&gt; {1} tuần {2} ngày
+{số}t{số}n =&gt; {1} tuần {2} ngày
+{số}ư{số}d =&gt; {1} tuần {2} ngày
+{số}t{số}d =&gt; {1} tuần {2} ngày
+{số}w{số}n =&gt; {1} tuần {2} ngày
+{số}ư{số}n =&gt; {1} tuần {2} ngày
+{số}w =&gt; {1} tuần
+{số}t =&gt; {1} tuần
+{số}ư =&gt; {1} tuần
+</content>
+    </snippet>
+  </folder>
+</QuangGoTat>
