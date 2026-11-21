@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-21T11:28:26.4669524+07:00" publishId="20261121042826466-479245E9" publishedAt="2026-11-21T04:28:26.4669524Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-21T14:50:26.4660017+07:00" publishId="20261121075026466-A47AD4B9" publishedAt="2026-11-21T07:50:26.4660017Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" ord="1024" cu="639305868084388350" pu="0" du="0" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" ord="1024" cu="639308317199979682" pu="1" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="wuxQQmfvQJicOMxOpntQfA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -15470,5 +15470,7 @@ Theo d\'F5i ph\'1EA3n x\'1EA1 g\'E2n x\'1B0\'1A1ng, nh\'1ECBp th\'1EDF, n\'1B0\'
       </hist>
     </item>
   </folder>
-  <folder id="b41b5445175740c192014f082644d4d5" name="bsquang" own="bsquang" home="1" by="bsquang" ord="3072" cu="639307609648383961" pu="639307609648383961" du="0" ch="CvF8s5TZ4R3E5uztn6hEOA==" />
+  <folder id="b41b5445175740c192014f082644d4d5" name="bsquang" own="bsquang" home="1" by="bsquang" ord="3072" cu="639307609648383961" pu="639307609648383961" du="0" ch="CvF8s5TZ4R3E5uztn6hEOA==">
+    <folder id="4751e1f9c11946bf8bf6402b6ed105c4" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" ord="1024" cu="639308442187326055" pu="1" du="0" par="b41b5445175740c192014f082644d4d5" ch="FCnULipK66qMPVQvqOg0Lw==" />
+  </folder>
 </QuangThuVien>
