@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-21T14:51:39.4366461+07:00" publishId="20261121075139436-E06E4081" publishedAt="2026-11-21T07:51:39.4366461Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-21T14:51:50.4994255+07:00" publishId="20261121075150483-9716D81A" publishedAt="2026-11-21T07:51:50.4994255Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" ord="1024" cu="639305868084388350" pu="0" du="0" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" ord="1024" cu="639308317199979682" pu="1" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="wuxQQmfvQJicOMxOpntQfA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -15454,7 +15454,7 @@ Theo d\'F5i ph\'1EA3n x\'1EA1 g\'E2n x\'1B0\'1A1ng, nh\'1ECBp th\'1EDF, n\'1B0\'
     </item>
   </folder>
   <folder id="b41b5445175740c192014f082644d4d5" name="bsquang" own="bsquang" home="1" by="bsquang" ord="3072" cu="639307609648383961" pu="639307609648383961" du="0" ch="CvF8s5TZ4R3E5uztn6hEOA==">
-    <folder id="4751e1f9c11946bf8bf6402b6ed105c4" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" ord="1024" cu="639308442187326055" pu="1" du="0" par="b41b5445175740c192014f082644d4d5" ch="FCnULipK66qMPVQvqOg0Lw==" />
+    <folder id="4751e1f9c11946bf8bf6402b6ed105c4" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" del="1" delAt="2026-11-21T14:51:43.4071757+07:00" delBy="bsquang" ord="1024" cu="639308442187326055" pu="1" du="639308443034071757" par="b41b5445175740c192014f082644d4d5" ch="FCnULipK66qMPVQvqOg0Lw==" />
     <item id="5a4e728d225f4dbaa9f0e702d0be44c0" name="Bài viết mới" by="bsquang" ord="2048" cu="639308442721671346" pu="639308442916264518" du="0" par="b41b5445175740c192014f082644d4d5" ch="CZKepC3WLwBH6tI04p4osQ==" updated="2026-11-19T08:31:44.2369406+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
