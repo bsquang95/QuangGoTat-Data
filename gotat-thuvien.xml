@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-22T10:02:05.2963995+07:00" publishId="20261122030205296-6E3669D3" publishedAt="2026-11-22T03:02:05.2963995Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-22T10:09:39.0130808+07:00" publishId="20261122030939013-CDEF76C8" publishedAt="2026-11-22T03:09:39.0130808Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" ord="1024" cu="639305868084388350" pu="0" du="0" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639299689482067143" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="aeSSjrblibS9YjAoghEFiA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -19403,8 +19403,15 @@ a05c5f5ecac3ab3dc31ddf866bdb7e0ac8d3f81e391b3937328e4e4f514515e8e5edbadabe8746
     </item>
   </folder>
   <folder id="c814209b63af45e4a9eff82145461e0c" name="TỜ ĐIỀU TRỊ" own="bsquang" by="bsquang" ord="1280" cu="639307633423766346" pu="639307608917522153" du="0" ch="fjwSJgo7wcZZZeW0LVIOAQ==">
-    <item id="91d1c47528fa45cb834a9680e7d94a25" name="Bài viết mới" own="bsquang" by="bsquang" ord="1024" cu="639309133252644771" pu="639308320976691480" du="0" par="c814209b63af45e4a9eff82145461e0c" ch="/2tE1TWkuOFqQugvp+enYQ==" updated="2026-11-22T09:56:43.2797426+07:00">
-      <text>NGÀY GIỜ	DIỄN BIẾN BỆNH	Y LỆNH
+    <item id="91d1c47528fa45cb834a9680e7d94a25" name="Bài viết mới" own="bsquang" by="bsquang" ord="1024" cu="639309137710800549" pu="639308320976691480" du="0" par="c814209b63af45e4a9eff82145461e0c" ch="8DwFyQJd8YJxqoEBwhrvzA==" updated="2026-11-22T10:09:31.0767392+07:00">
+      <text></text>
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs23\par
+}
+</rtf>
+      <hist time="2026-11-22T10:09:31.0767392+07:00" name="Bài viết mới" tags="" by="bsquang">
+        <text>NGÀY GIỜ	DIỄN BIẾN BỆNH	Y LỆNH
 23/07
 2026
 08h45
@@ -19454,7 +19461,7 @@ Nhịn ăn uống chờ phẫu thuật
 
 
 </text>
-      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset163 Times New Roman;}{\f2\fnil\fcharset238 Times New Roman;}{\f3\fnil Segoe UI;}}
+        <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset163 Times New Roman;}{\f2\fnil\fcharset238 Times New Roman;}{\f3\fnil Segoe UI;}}
 {\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1\trowd\trgaph115\trleft426\trrh346\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl115\trpaddr115\trpaddfl3\trpaddfr3
 \clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx6531\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx11166 
@@ -19528,6 +19535,7 @@ Misoprostol 200 mcg x 04 vi\'ean \par
 \pard\f3\fs23\lang1033\par
 }
 </rtf>
+      </hist>
       <hist time="2026-11-22T09:56:43.2797426+07:00" name="Bài viết mới" tags="" by="bsquang">
         <text></text>
         <rtf></rtf>
