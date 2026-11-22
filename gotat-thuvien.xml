@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-22T10:56:09.8734430+07:00" publishId="20261122035609873-149E8D7C" publishedAt="2026-11-22T03:56:09.8733150Z" publishedFrom="vm" merge="1">
-  <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="0" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
-    <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639299689482067143" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="Zag9p40M6XZqNPpKEU/j4g==" updated="2026-11-11T11:42:28.2067143+07:00">
+<QuangThuVien version="1" savedAt="2026-11-22T10:58:35.2313998+07:00" publishId="20261122035835231-D747431C" publishedAt="2026-11-22T03:58:35.2313998Z" publishedFrom="P210B" merge="1">
+  <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
+    <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="lDogLkXyqfvV9uw0k/etPw==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
@@ -4372,12 +4372,12 @@ d9
 }
 </rtf>
     </item>
-    <item id="27b5a8c922604da59358ec425b851218p1" name="https://bsquang.org/kham-afhn" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="1E-06" cu="639299689482067143" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="CQwZ4IfoD4duF87/OsY05w==" updated="2026-11-11T11:42:28.2067143+07:00">
+    <item id="27b5a8c922604da59358ec425b851218p1" name="https://bsquang.org/kham-afhn" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="1E-06" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="CQwZ4IfoD4duF87/OsY05w==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
       <rtf></rtf>
       <link title="https://bsquang.org/kham-afhn" url="https://bsquang.org/kham-afhn" />
     </item>
-    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" del="1" delAt="2026-11-22T09:49:55.4461423+07:00" delBy="bsquang" ord="1024" cu="639309165568042080" pu="1" du="639309125954461423" par="1716b3aa0a5546369a689266c97b728b" ch="roMh/1LtzK34ZS7aPNCDeg==" updated="2026-11-11T11:42:28.2067143+07:00">
+    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" del="1" delAt="2026-11-22T09:49:55.4461423+07:00" delBy="bsquang" ord="1024" cu="639309167152145984" pu="1" du="639309125954461423" par="1716b3aa0a5546369a689266c97b728b" ch="f9bnpColYao1bEoHq2pKQA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
@@ -19404,14 +19404,14 @@ a05c5f5ecac3ab3dc31ddf866bdb7e0ac8d3f81e391b3937328e4e4f514515e8e5edbadabe8746
 </rtf>
       </hist>
     </item>
-    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4p1" name="https://bsquang.org/kham-afhn" tags="thalas" del="1" delAt="2026-11-22T09:49:55.4461423+07:00" delBy="bsquang" ord="1024.000001" cu="639309165568042080" pu="1" du="639309125954461423" par="1716b3aa0a5546369a689266c97b728b" ch="4+vkc25IHLALvOIN+rS+VQ==" updated="2026-11-11T11:42:28.2067143+07:00">
+    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4p1" name="https://bsquang.org/kham-afhn" tags="thalas" del="1" delAt="2026-11-22T09:49:55.4461423+07:00" delBy="bsquang" ord="1024.000001" cu="639309167152145984" pu="1" du="639309125954461423" par="1716b3aa0a5546369a689266c97b728b" ch="4+vkc25IHLALvOIN+rS+VQ==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
       <rtf></rtf>
       <link title="https://bsquang.org/kham-afhn" url="https://bsquang.org/kham-afhn" />
     </item>
   </folder>
   <folder id="c814209b63af45e4a9eff82145461e0c" name="TỜ ĐIỀU TRỊ" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T10:09:47.0629559+07:00" delBy="bsquang" ord="1280" cu="639307633423766346" pu="639307608917522153" du="639309137870629559" ch="fjwSJgo7wcZZZeW0LVIOAQ==">
-    <item id="91d1c47528fa45cb834a9680e7d94a25" name="Bài viết mới" own="bsquang" by="bsquang" ord="1024" cu="639309142653653499" pu="639308320976691480" du="0" par="c814209b63af45e4a9eff82145461e0c" ch="8DwFyQJd8YJxqoEBwhrvzA==" updated="2026-11-22T10:09:31.0767392+07:00">
+    <item id="91d1c47528fa45cb834a9680e7d94a25" name="Bài viết mới" own="bsquang" by="bsquang" ord="1024" cu="639309167152145984" pu="639308320976691480" du="0" par="c814209b63af45e4a9eff82145461e0c" ch="Ua1vBlCej+FntW0tg4oRMA==" updated="2026-11-22T10:09:31.0767392+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
@@ -19555,7 +19555,7 @@ Misoprostol 200 mcg x 04 vi\'ean \par
     </item>
   </folder>
   <folder id="fbaaf29dfa8b4cbcbf506de95164bc06" name="Quy trình" del="1" delAt="2026-11-18T15:39:58.9354492+07:00" delBy="bsquang" ord="1536" cu="639305862116177970" pu="639305868104870820" du="639305879989354492" ch="p0y8bf0nR1toIlI5sUYXsA==">
-    <item id="1b3eb1e058a145d4879c04e927e7cc4a" name="Hướng dẫn dùng Thư viện" tags="huong dan" ord="1024" cu="639307307117826109" pu="1" du="0" par="fbaaf29dfa8b4cbcbf506de95164bc06" ch="6ln8LQbjluqf3SnPFF4MMw==" updated="2026-11-18T15:10:11.6178660+07:00">
+    <item id="1b3eb1e058a145d4879c04e927e7cc4a" name="Hướng dẫn dùng Thư viện" tags="huong dan" ord="1024" cu="639307307117826109" pu="1" du="0" par="fbaaf29dfa8b4cbcbf506de95164bc06" ch="OIk933mhvsTTxpIt7cFZew==" updated="2026-11-18T15:10:11.6178660+07:00">
       <text>Thư viện lưu kiến thức, quy trình, quy định, hình ảnh… để tra cứu nhanh.
 • + Mục mới / + Thư mục để thêm.
 • Dán ảnh (Ctrl+V) hoặc nút 🖼 để chèn ảnh.
@@ -19565,7 +19565,7 @@ Misoprostol 200 mcg x 04 vi\'ean \par
     </item>
   </folder>
   <folder id="d420ae1cdb324af4b3da237a9a7df491" name="lan" own="lan" home="1" by="lan" del="1" delAt="2026-11-18T15:40:01.8955739+07:00" delBy="bsquang" ord="2048" cu="639305862143914670" pu="0" du="639305880018955739" ch="GYGBP+uWNmeDm3yGEM3piw==">
-    <item id="e6a365f2b92444029533d3683bd1505a" name="Phác đồ xử trí tiền sản giật" own="lan" by="lan" ord="1024" cu="639307307117826109" pu="1" du="0" par="d420ae1cdb324af4b3da237a9a7df491" ch="KzaaYCqd7pV6l4dXDfjYLQ==" updated="2026-11-18T15:10:14.4142630+07:00">
+    <item id="e6a365f2b92444029533d3683bd1505a" name="Phác đồ xử trí tiền sản giật" own="lan" by="lan" ord="1024" cu="639307307117826109" pu="1" du="0" par="d420ae1cdb324af4b3da237a9a7df491" ch="Yw1mifux0e/7Ymy6DKbggQ==" updated="2026-11-18T15:10:14.4142630+07:00">
       <text>Magie sulfat liều tấn công 4–6 g…</text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\deflang1033
 {\fonttbl{\f0\fnil\fcharset0 Inter;}}
@@ -19969,7 +19969,7 @@ Theo d\'F5i ph\'1EA3n x\'1EA1 g\'E2n x\'1B0\'1A1ng, nh\'1ECBp th\'1EDF, n\'1B0\'
   </folder>
   <folder id="b41b5445175740c192014f082644d4d5" name="bsquang" own="bsquang" home="1" by="bsquang" del="1" delAt="2026-11-22T10:09:50.0154675+07:00" delBy="bsquang" ord="3072" cu="639307609648383961" pu="639307609648383961" du="639309137900154675" ch="CvF8s5TZ4R3E5uztn6hEOA==">
     <folder id="4751e1f9c11946bf8bf6402b6ed105c4" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" del="1" delAt="2026-11-21T14:51:43.4071757+07:00" delBy="bsquang" ord="1024" cu="639308442187326055" pu="1" du="639308443034071757" par="b41b5445175740c192014f082644d4d5" ch="FCnULipK66qMPVQvqOg0Lw==" />
-    <item id="5a4e728d225f4dbaa9f0e702d0be44c0" name="Bài viết mới" by="bsquang" ord="2048" cu="639308442721671346" pu="639308442916264518" du="0" par="b41b5445175740c192014f082644d4d5" ch="hFlKHZU/EOxDtDjexladyA==" updated="2026-11-19T08:31:44.2369406+07:00">
+    <item id="5a4e728d225f4dbaa9f0e702d0be44c0" name="Bài viết mới" by="bsquang" ord="2048" cu="639308442721671346" pu="639308442916264518" du="0" par="b41b5445175740c192014f082644d4d5" ch="CZKepC3WLwBH6tI04p4osQ==" updated="2026-11-19T08:31:44.2369406+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.26100}\viewkind4\uc1 
