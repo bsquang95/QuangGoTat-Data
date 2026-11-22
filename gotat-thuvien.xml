@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-22T11:02:48.6314750+07:00" publishId="20261122040248631-A5403501" publishedAt="2026-11-22T04:02:48.6314750Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-22T11:03:38.3753397+07:00" publishId="20261122040338375-83A69D6B" publishedAt="2026-11-22T04:03:38.3753397Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="lDogLkXyqfvV9uw0k/etPw==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -20024,9 +20024,13 @@ Theo d\'F5i ph\'1EA3n x\'1EA1 g\'E2n x\'1B0\'1A1ng, nh\'1ECBp th\'1EDF, n\'1B0\'
       </hist>
     </item>
     <folder id="ddf69ee3a1a34d9682be92a75ea8c3cc" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" del="1" delAt="2026-11-22T11:02:37.9647855+07:00" delBy="bsquang" ord="2048" cu="639309169531320569" pu="639309169531320569" du="639309169579647855" par="533227e2446b46aa9d32676ebd03557a" ch="FCnULipK66qMPVQvqOg0Lw==" />
-    <item id="6b006b464bf44e2d82e73edbd723db5a" name="Bài viết mới" own="bsquang" priv="1" by="bsquang" ord="3072" cu="639309169602648200" pu="639309169602648200" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="JUEdfAstQAu2ThVR4iR0Bg==" updated="2026-11-22T11:02:40.2648200+07:00">
+    <item id="6b006b464bf44e2d82e73edbd723db5a" name="Bài viết mới" own="bsquang" by="bsquang" ord="3072" cu="639309170114491969" pu="639309169602648200" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="AEHKl2DFF88UFF/J2tng3g==" updated="2026-11-22T11:02:40.2648200+07:00">
       <text></text>
       <rtf></rtf>
+      <hist time="2026-11-22T11:03:02.0480293+07:00" name="Bài viết mới" tags="" by="bsquang">
+        <text></text>
+        <rtf></rtf>
+      </hist>
     </item>
     <item id="3017c538496240a3854d1aa7a67d03d6" name="Bài viết mới" own="bsquang" priv="1" by="bsquang" ord="4096" cu="639309169604149871" pu="639309169604149871" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="JUEdfAstQAu2ThVR4iR0Bg==" updated="2026-11-22T11:02:40.4149871+07:00">
       <text></text>
