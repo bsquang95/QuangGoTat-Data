@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-22T11:24:06.3156628+07:00" note="publish" publishId="20261122042406315-3BAF1319" publishedAt="2026-11-22T04:24:06.3312870Z" publishedFrom="P210B">
+<QuangGoTat version="1" savedAt="2026-11-22T11:50:24.3846429+07:00" note="publish" publishId="20261122045024384-7C2DB3CF" publishedAt="2026-11-22T04:50:24.3846429Z" publishedFrom="P210B">
   <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hotModsTv2="2" hotKeyTv2="0" hotModsCalc2="2" hotKeyCalc2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" smartEnter="1" loaiPopup="1" calcMoSauD="1" calcGiuSauDien="1" calcDiCung="1" calcDup="1" calcEsc="1" calcNho="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrModes="KVCTC (khâu vòng cổ tử cung) = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" ocrCtrlClick="0" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="43bd19d4272d49cdb3508bd5feaa1ec3" name="Hôm nay" tags="hôm nay, nay" icon="hen" code="homnay">
@@ -556,7 +556,7 @@ Thu dọn dụng cụ</content>
     </snippet>
   </folder>
   <folder id="baa92b44f2f94ab398d0ac520863ed69" name="Nháp">
-    <snippet id="0b72f2b053c141d9817beec55c045781" name="Nháp" tags="nhap" win="corner=br&amp;size=full&amp;h=90">
+    <snippet id="0b72f2b053c141d9817beec55c045781" name="Nháp" tags="nhap" win="corner=br">
       <content>
       </content>
       <rtf>{\rtf1\ansi\ansicpg1250\deff0\nouicompat{\fonttbl{\f0\fnil Segoe UI;}}
@@ -616,7 +616,7 @@ Nhịn ăn uống chờ phẫu thuật
 
 
 </content>
-      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset163 Times New Roman;}{\f2\froman\fprq2\fcharset238 Times New Roman CE;}{\f3\fnil Segoe UI;}}
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset163 Times New Roman;}{\f2\froman\fprq2\fcharset238 Times New Roman CE;}{\f3\froman\fprq2\fcharset238 Times New Roman;}{\f4\fnil Segoe UI;}}
 {\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1\trowd\trgaph115\trleft426\trrh346\trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trpaddl115\trpaddr115\trpaddfl3\trpaddfr3
 \clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx6531\clbrdrl\brdrw10\brdrs\brdrcf1\clbrdrt\brdrw10\brdrs\brdrcf1\clbrdrr\brdrw10\brdrs\brdrcf1\clbrdrb\brdrw10\brdrs\brdrcf1 \cellx11166 
@@ -631,7 +631,7 @@ Nhịn ăn uống chờ phẫu thuật
 \par
 \cell 
 \pard\intbl\widctlpar\sl276\slmult1\f1\lang1066 BN n\u7919? 38 tu\u7893?i, KHL2 2022, PARA 2022, \'f0\u7867? th\'fd\u7901?ng 2012+2023, 2 l\'e0n h\'fat thai 5w kh\'f4ng nh\u7899? n\'e3m, CKK 30/5. BN IVF t\u7841?i vi\u7879?n c\'f3 1 ph\'f4i ng\'e0y 5, h\u7911?y chu k\u7923? do ni\'eam m\u7841?c m\u7887?ng, BN mong mu\u7889?n soi BTC th\'e3m d\f0\lang9\'f2 &gt; nh\f1\lang1066\u7853?p vi\u7879?n\par
-\f2\lang9 Ti\f1\lang1066\u7873?\f2\lang9 n s\f1\lang1066\u7917?\f2\lang9 : PTNS t\'e1ch d\'ednh BTC t\f1\lang1066\u7841?\f2\lang9 i s\f1\lang1066\u7843?\f2\lang9 n C 02/2025. 07/2025 PTNS t\'e1ch d\'ednh BTC + NSOB (P) th\'f4ng (T) t\f1\lang1066\u7855?\f2\lang9 c t\f1\lang1066\u7841?\f2\lang9 i BV. 09/2025 soi BTC th\'e3m d\f0\'f2 t\f1\lang1066\u7841?i s\u7843?n C: b\f0\lang1033\'ecnh th\u432?\f1\lang1066\u7901?ng.\f0\lang9\par
+\f2\lang9 Ti\f1\lang1066\u7873?\f2\lang9 n s\f1\lang1066\u7917?\f2\lang9 : PTNS t\'e1ch d\'ednh BTC t\f1\lang1066\u7841?\f2\lang9 i s\f1\lang1066\u7843?\f2\lang9 n C 02/2025. 07/2025 PTNS t\'e1ch d\'ednh BTC + NSOB (P) th\'f4ng (T) t\f1\lang1066\u7855?\f2\lang9 c t\f1\lang1066\u7841?\f2\lang9 i BV. 09/2025 soi BTC th\'e3m d\f0\'f2 t\f1\lang1066\u7841?i s\u7843?n C: b\f0\lang1033\'ecnh th\f3\u432?\f1\lang1066\u7901?ng.\f0\lang9\par
 Kh\'e1m\par
 T\f1\lang1066\u7881?nh, da ni\'eam m\u7841?c h\u7891?ng\par
 M\u7841?ch 70 l/p\par
@@ -687,7 +687,7 @@ Misoprostol 200 mcg x 04 vi\'ean \par
 \par
 \par
 \cell\row 
-\pard\f3\fs23\lang1033\par
+\pard\f4\fs23\lang1033\par
 }
 </rtf>
     </snippet>
