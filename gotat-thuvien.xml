@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-22T09:49:03.5462099+07:00" publishId="20261122024903546-A039D183" publishedAt="2026-11-22T02:49:03.5462099Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-22T09:49:38.6292563+07:00" publishId="20261122024938629-72DFEF13" publishedAt="2026-11-22T02:49:38.6292563Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" ord="1024" cu="639305868084388350" pu="0" du="0" ch="GNUizA6wKazYMQ6fJAiZJA==">
-    <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" ord="0" cu="639299689482067143" pu="639309125355125764" du="0" par="1716b3aa0a5546369a689266c97b728b" ch="aeSSjrblibS9YjAoghEFiA==" updated="2026-11-11T11:42:28.2067143+07:00">
+    <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639299689482067143" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="aeSSjrblibS9YjAoghEFiA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
