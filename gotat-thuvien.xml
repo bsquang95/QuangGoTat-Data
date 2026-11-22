@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-22T10:54:42.7805380+07:00" publishId="20261122035442779-149E8D7C" publishedAt="2026-11-22T03:54:42.7799580Z" publishedFrom="vm" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-22T10:55:26.0202430+07:00" publishId="20261122035526020-149E8D7C" publishedAt="2026-11-22T03:55:26.0200700Z" publishedFrom="vm" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="0" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639299689482067143" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="Zag9p40M6XZqNPpKEU/j4g==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -4377,7 +4377,7 @@ d9
       <rtf></rtf>
       <link title="https://bsquang.org/kham-afhn" url="https://bsquang.org/kham-afhn" />
     </item>
-    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" del="1" delAt="2026-11-22T09:49:55.4461423+07:00" delBy="bsquang" ord="1024" cu="639309164694311790" pu="1" du="639309125954461423" par="1716b3aa0a5546369a689266c97b728b" ch="roMh/1LtzK34ZS7aPNCDeg==" updated="2026-11-11T11:42:28.2067143+07:00">
+    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4" name="Thalassemia" tags="thalas" del="1" delAt="2026-11-22T09:49:55.4461423+07:00" delBy="bsquang" ord="1024" cu="639309165130086640" pu="1" du="639309125954461423" par="1716b3aa0a5546369a689266c97b728b" ch="roMh/1LtzK34ZS7aPNCDeg==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
@@ -19404,7 +19404,7 @@ a05c5f5ecac3ab3dc31ddf866bdb7e0ac8d3f81e391b3937328e4e4f514515e8e5edbadabe8746
 </rtf>
       </hist>
     </item>
-    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4p1" name="https://bsquang.org/kham-afhn" tags="thalas" del="1" delAt="2026-11-22T09:49:55.4461423+07:00" delBy="bsquang" ord="1024.000001" cu="639309164694311790" pu="1" du="639309125954461423" par="1716b3aa0a5546369a689266c97b728b" ch="4+vkc25IHLALvOIN+rS+VQ==" updated="2026-11-11T11:42:28.2067143+07:00">
+    <item id="ad8e806cd0cd42a19f7b9b46f4ae1ed4p1" name="https://bsquang.org/kham-afhn" tags="thalas" del="1" delAt="2026-11-22T09:49:55.4461423+07:00" delBy="bsquang" ord="1024.000001" cu="639309165130086640" pu="1" du="639309125954461423" par="1716b3aa0a5546369a689266c97b728b" ch="4+vkc25IHLALvOIN+rS+VQ==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
       <rtf></rtf>
       <link title="https://bsquang.org/kham-afhn" url="https://bsquang.org/kham-afhn" />
