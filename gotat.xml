@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-21T16:11:50.2662943+07:00" note="publish" publishId="20261121091150266-FB349E81" publishedAt="2026-11-21T09:11:50.2818585Z" publishedFrom="P210B">
-  <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hotModsTv2="2" hotKeyTv2="0" hotModsCalc2="2" hotKeyCalc2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" smartEnter="1" loaiPopup="1" calcMoSauD="1" calcGiuSauDien="1" calcDiCung="1" calcDup="1" calcEsc="1" calcNho="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrModes="KVCTC (khâu vòng cổ tử cung) = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" ocrCtrlClick="1" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
+<QuangGoTat version="1" savedAt="2026-11-22T10:01:31.8142678+07:00" note="publish" publishId="20261122030131814-867ED0C1" publishedAt="2026-11-22T03:01:31.8142678Z" publishedFrom="P210B">
+  <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hotModsTv2="2" hotKeyTv2="0" hotModsCalc2="2" hotKeyCalc2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" smartEnter="1" loaiPopup="1" calcMoSauD="1" calcGiuSauDien="1" calcDiCung="1" calcDup="1" calcEsc="1" calcNho="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrModes="KVCTC (khâu vòng cổ tử cung) = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" ocrCtrlClick="0" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="43bd19d4272d49cdb3508bd5feaa1ec3" name="Hôm nay" tags="hôm nay, nay" icon="hen" code="homnay">
       <content>{ngay}</content>
@@ -556,8 +556,9 @@ Thu dọn dụng cụ</content>
     </snippet>
   </folder>
   <folder id="baa92b44f2f94ab398d0ac520863ed69" name="Nháp">
-    <snippet id="0b72f2b053c141d9817beec55c045781" name="Nháp" tags="nhap" win="corner=br&amp;size=third&amp;h=100">
-      <content>BN nữ 38 tuổi, KHL2 2022, PARA 2022, đẻ thường 2012+2023, 2 làn hút thai 5w không nhớ năm, CKK 30/5. BN IVF tại viện có 1 phôi ngày 5, hủy chu kỳ do niêm mạc mỏng, BN mong muốn soi BTC thăm dò &gt; nhập viện
+    <snippet id="0b72f2b053c141d9817beec55c045781" name="Nháp" tags="nhap" win="corner=br&amp;size=full&amp;h=100">
+      <content> NGÀY GIỜ	DIỄN BIẾN BỆNH	Y LỆNH
+	BN nữ 38 tuổi, KHL2 2022, PARA 2022, đẻ thường 2012+2023, 2 làn hút thai 5w không nhớ năm, CKK 30/5. BN IVF tại viện có 1 phôi ngày 5, hủy chu kỳ do niêm mạc mỏng, BN mong muốn soi BTC thăm dò &gt; nhập viện
 Tiền sử: PTNS tách dính BTC tại sản C 02/2025. 07/2025 PTNS tách dính BTC + NSOB (P) thông (T) tắc tại BV. 09/2025 soi BTC thăm dò tại sản C: bình thường.
 Khám
 Tỉnh, da niêm mạc hồng
@@ -570,23 +571,83 @@ Tử cung kích thước bình thường
 Cổ tử cung không viêm
 Siêu âm: niêm mạc 7.8mm
 Chẩn đoán: Thăm dò BTC trước chuyển phôi
-Chỉ định: PT soi BTC thăm </content>
-      <rtf>{\rtf1\ansi\ansicpg1250\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset163 Segoe UI;}{\f2\fnil\fcharset238 Segoe UI;}{\f3\fnil Segoe UI;}}
-{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
-\pard\f0\fs23\lang1033 BN n\f1\lang1066\u7919? 38 tu\u7893?i, KHL2 2022, PARA 2022, \f2\'f0\f1\u7867? th\f2\u432?\f1\u7901?ng 2012+2023, 2 l\f0\lang1033\'e0n h\'fat thai 5w kh\'f4ng nh\f1\lang1066\u7899? n\f2\'e3m, CKK 30/5. BN IVF t\f1\u7841?i vi\u7879?n c\f0\lang1033\'f3 1 ph\'f4i ng\'e0y 5, h\f1\lang1066\u7911?y chu k\u7923? do ni\f0\lang1033\'eam m\f1\lang1066\u7841?c m\u7887?ng, BN mong mu\u7889?n soi BTC th\f2\'e3m d\f0\lang1033\'f2 &gt; nh\f1\lang1066\u7853?p vi\u7879?n\par
-Ti\u7873?n s\u7917?: PTNS t\f0\lang1033\'e1ch d\'ednh BTC t\f1\lang1066\u7841?i s\u7843?n C 02/2025. 07/2025 PTNS t\f0\lang1033\'e1ch d\'ednh BTC + NSOB (P) th\'f4ng (T) t\f1\lang1066\u7855?c t\u7841?i BV. 09/2025 soi BTC th\f2\'e3m d\f0\lang1033\'f2 t\f1\lang1066\u7841?i s\u7843?n C: b\f0\lang1033\'ecnh th\f2\u432?\f1\lang1066\u7901?ng.\par
-Kh\f0\lang1033\'e1m\par
-T\f1\lang1066\u7881?nh, da ni\f0\lang1033\'eam m\f1\lang1066\u7841?c h\u7891?ng\par
+Chỉ định: PT soi BTC thăm dò	BN nhập viện từ hôm trước:
+
+Misoprostol 200 mcg x 04 viên 
+Ngậm dưới lưỡi 02 viên + đặt âm đạo 02 viên lúc 4h30 ngày 24/07/2026
+Golistin x 02 tuýp
+Thụt hậu môn lúc 21h ngày 23/07/2026 và 5h ngày 24/07/2026
+Nhịn ăn từ 19h  23/07/2026 chờ phẫu thuật.
+
+
+BN nhập viện trong ngày phẫu t:
+
+
+Misoprostol 200mcg   x  04 viên
+Ngậm dưỡi lưỡi 02 viên và đặt âm đạo 02 viên lúc 10h
+Fleet    x    01 tuýp
+   Thụt hậu môn trước mổ
+Nhịn ăn uống chờ pthuật
+		
+		
+
+</content>
+      <rtf>{\rtf1\ansi\ansicpg1250\deff0\nouicompat{\fonttbl{\f0\fnil Segoe UI;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\froman\fprq2\fcharset163 Times New Roman;}{\f3\froman\fprq2\fcharset238 Times New Roman CE;}}
+{\colortbl ;\red0\green0\blue0;\red255\green0\blue0;\red0\green255\blue255;\red191\green203\blue203;}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1\trowd\trgaph100\trpaddl100\trpaddr100\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx1585\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx7310\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx12570 
+\pard\intbl\f0\fs23\lang1033  \b\f1\fs24\lang9 NG\'c0Y GI\f2\lang1066\u7900?\b0\f0\fs23\lang1033\cell\b\f1\fs24\lang9 DI\f2\lang1066\u7876?N BI\u7870?N B\u7878?NH\b0\f0\fs23\lang1033\cell\b\f1\fs24\lang9 Y L\f2\lang1066\u7878?NH\b0\f0\fs23\lang1033\cell\row\trowd\trgaph100\trpaddl100\trpaddr100\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx1585\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx7310\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx12570 
+\pard\intbl\cell 
+\pard\intbl\widctlpar\sl276\slmult1\v\f2\fs24\lang1066\u-8176?\v0 BN n\u7919? 38 tu\u7893?i, KHL2 2022, PARA 2022, \'f0\u7867? th\'fd\u7901?ng 2012+2023, 2 l\'e0n h\'fat thai 5w kh\'f4ng nh\u7899? n\'e3m, CKK 30/5. BN IVF t\u7841?i vi\u7879?n c\'f3 1 ph\'f4i ng\'e0y 5, h\u7911?y chu k\u7923? do ni\'eam m\u7841?c m\u7887?ng, BN mong mu\u7889?n soi BTC th\'e3m d\f1\lang9\'f2 &gt; nh\f2\lang1066\u7853?p vi\u7879?n\par
+\f3\lang9 Ti\f2\lang1066\u7873?\f3\lang9 n s\f2\lang1066\u7917?\f3\lang9 : PTNS t\'e1ch d\'ednh BTC t\f2\lang1066\u7841?\f3\lang9 i s\f2\lang1066\u7843?\f3\lang9 n C 02/2025. 07/2025 PTNS t\'e1ch d\'ednh BTC + NSOB (P) th\'f4ng (T) t\f2\lang1066\u7855?\f3\lang9 c t\f2\lang1066\u7841?\f3\lang9 i BV. 09/2025 soi BTC th\'e3m d\f1\'f2 t\f2\lang1066\u7841?i s\u7843?n C: b\u236?nh th\'fd\u7901?ng.\f1\lang9\par
+Kh\'e1m\par
+T\f2\lang1066\u7881?nh, da ni\'eam m\u7841?c h\u7891?ng\par
 M\u7841?ch 70 l/p\par
 HA 110/70 mmHg\par
-Tim \f2\'f0\f1\u7873?u, ph\u7893?i kh\f0\lang1033\'f4ng rale\par
-B\f1\lang1066\u7909?ng m\u7873?m kh\f0\lang1033\'f4ng ch\f2\u432?\f1\lang1066\u7899?ng\par
-T\u7917? cung k\f0\lang1033\'edch th\f2\u432?\f1\lang1066\u7899?c b\f0\lang1033\'ecnh th\f2\u432?\f1\lang1066\u7901?ng\par
-\f0\lang1033\'c2m \f2\'f0\f1\lang1066\u7841?o kh\f0\lang1033\'f4ng ra m\'e1u\par
-C\f1\lang1066\u7893? t\u7917? cung kh\f0\lang1033\'f4ng vi\'eam\par
-Si\'eau \'e2m: ni\'eam m\f1\lang1066\u7841?c 7.8mm\par
-Ch\u7849?n \f2\'f0o\f0\lang1033\'e1n: Th\f2\'e3m d\f0\'f2 BTC tr\f2\u432?\f1\lang1066\u7899?c chuy\u7875?n ph\f0\lang1033\'f4i\par
-Ch\f1\lang1066\u7881? \f2\'f0\f1\u7883?nh: PT soi BTC th\f2\'e3m \f3\lang1033\par
+\f3\lang9 Tim \'f0\f2\lang1066\u7873?\f3\lang9 u, ph\f2\lang1066\u7893?\f3\lang9 i kh\'f4ng rale\f1\par
+\f2\lang1066 B\u7909?ng m\u7873?m kh\'f4ng ch\'fd\u7899?ng\f1\lang9\par
+\f2\lang1066 T\u7917? cung k\'edch th\'fd\u7899?c b\f1\lang9\'ecnh th\f2\lang1066\'fd\u7901?ng\f1\lang9\par
+\f3\'c2m \'f0\f2\lang1066\u7841?\f3\lang9 o kh\'f4ng ra m\'e1u\f1\par
+C\f2\lang1066\u7893? t\u7917? cung kh\'f4ng vi\'eam\par
+Si\'eau \'e2m: ni\'eam m\u7841?c 7.8mm\par
+
+\pard\intbl\nowidctlpar\ri243\sl276\slmult1\qj\f3\lang9 Ch\f2\lang1066\u7849?\f3\lang9 n \'f0o\'e1n: \cf1\fs26 Th\'e3m d\f1\'f2 BTC tr\f2\lang1066\'fd\u7899?c chuy\u7875?n ph\'f4i\f1\lang9\par
+
+\pard\intbl\widctlpar\sl276\slmult1\cf0\f3\fs24 Ch\f2\lang1066\u7881?\f3\lang9  \'f0\f2\lang1066\u7883?\f3\lang9 nh: PT soi BTC th\'e3m d\f1\'f2\v\u-8175?\v0\f0\fs23\lang1033\cell 
+\pard\intbl\widctlpar\cf2\b\f2\fs24\lang1066 BN nh\u7853?p vi\u7879?n t\u7915? h\'f4m tr\'fd\u7899?c:\f1\lang9\par
+\cf0\b0\par
+\v\u-8176?\v0 Misoprostol 200 mcg x 04 vi\'ean \par
+
+\pard\intbl\widctlpar\li720\f2\lang1066 Ng\u7853?m d\'fd\u7899?i l\'fd\u7905?i 02 vi\'ean + \'f0\u7863?t \'e2m \'f0\u7841?o 02 vi\'ean l\'fac 4h30 ng\'e0y 24/07/2026\f1\lang9\par
+
+\pard\intbl\widctlpar Golistin x 02 tu\'fdp\par
+
+\pard\intbl\widctlpar\li720 Th\f2\lang1066\u7909?t h\u7853?u m\'f4n l\'fac 21h ng\'e0y 23/07/2026 v\'e0 5h ng\'e0y 24/07/2026\par
+
+\pard\intbl\widctlpar\f3\lang9 Nh\f2\lang1066\u7883?\f3\lang9 n \'e3n t\f2\lang1066\u7915?\f3\lang9  19h  23/07/2026 ch\f2\lang1066\u7901?\f3\lang9  ph\f2\lang1066\u7851?\f3\lang9 u thu\f2\lang1066\u7853?\f3\lang9 t.\v\u-8175?\v0\f1\par
+\par
+
+\pard\intbl\widctlpar\sl360\slmult1\fs26\par
+
+\pard\intbl\widctlpar\cf2\b\fs24 BN nh\f2\lang1066\u7853?p vi\u7879?n trong ng\'e0y ph\u7851?u t:\par
+\par
+\par
+\cf0\b0\v\f1\lang9\u-8176?\v0 Misoprostol 200mcg   x  04 vi\'ean\par
+
+\pard\intbl\widctlpar\li720\f2\lang1066 Ng\u7853?m d\'fd\u7905?i l\'fd\u7905?i 02 vi\'ean v\'e0 \'f0\u7863?t \'e2m \'f0\u7841?o 02 vi\'ean l\'fac 10h\f1\lang9\par
+
+\pard\intbl\widctlpar Fleet    x    01 tu\'fdp\par
+
+\pard\intbl\widctlpar\li720\f2\lang1066    Th\u7909?t h\u7853?u m\'f4n tr\'fd\u7899?c m\u7893?\f1\lang9\par
+
+\pard\intbl\widctlpar\f3 Nh\f2\lang1066\u7883?\f3\lang9 n \'e3n u\f2\lang1066\u7889?\f3\lang9 ng ch\f2\lang1066\u7901?\f3\lang9  pthu\f2\lang1066\u7853?\f3\lang9 t\v\u-8175?\v0\f0\fs23\lang1033\cell\row\trowd\trgaph100\trpaddl100\trpaddr100\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx1585\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx7310\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx12570 
+\pard\intbl\cell\cell\cell\row\trowd\trgaph100\trpaddl100\trpaddr100\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx1585\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx7310\clbrdrl\brdrw10\brdrs\brdrcf4\clbrdrt\brdrw10\brdrs\brdrcf4\clbrdrr\brdrw10\brdrs\brdrcf4\clbrdrb\brdrw10\brdrs\brdrcf4 \cellx12570 
+\pard\intbl\cell\cell\cell\row 
+\pard\par
+\par
 }
 </rtf>
     </snippet>
