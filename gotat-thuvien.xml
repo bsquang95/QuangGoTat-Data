@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-22T10:09:59.2148858+07:00" publishId="20261122030959214-5B6DC683" publishedAt="2026-11-22T03:09:59.2148858Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-22T10:10:19.0659060+07:00" publishId="20261122031019065-5A088F92" publishedAt="2026-11-22T03:10:19.0659060Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639299689482067143" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="aeSSjrblibS9YjAoghEFiA==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -19980,4 +19980,10 @@ Theo d\'F5i ph\'1EA3n x\'1EA1 g\'E2n x\'1B0\'1A1ng, nh\'1ECBp th\'1EDF, n\'1B0\'
     </item>
   </folder>
   <folder id="2b57685cab384ec2ae29d519220a59e4" name="TƯ VẤN" own="bsquang" priv="1" by="bsquang" ord="4096" cu="639309137984123836" pu="639309137923659559" du="0" ch="uHA8IGgJkC4oWr5c+miTPw==" />
+  <folder id="6c2e858982fd4bf69170f576a0c0659e" name="bsquang" own="bsquang" home="1" by="bsquang" ord="5120" cu="639309138107214153" pu="639309138107214153" du="0" ch="CvF8s5TZ4R3E5uztn6hEOA==">
+    <item id="739d0654b3794ecd9534d41a1b8f5b62" name="Bài viết mới" own="bsquang" priv="1" by="bsquang" ord="1024" cu="639309138107214153" pu="1" du="0" par="6c2e858982fd4bf69170f576a0c0659e" ch="JUEdfAstQAu2ThVR4iR0Bg==" updated="2026-11-22T10:10:10.7214153+07:00">
+      <text></text>
+      <rtf></rtf>
+    </item>
+  </folder>
 </QuangThuVien>
