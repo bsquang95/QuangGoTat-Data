@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-23T11:06:19.2331153+07:00" note="publish" publishId="20261123040619233-46E0F18C" publishedAt="2026-11-23T04:06:19.2487362Z" publishedFrom="P501A-1">
+<QuangGoTat version="1" savedAt="2026-11-23T15:30:51.6920224+07:00" note="publish" publishId="20261123083051692-1F4B3FE0" publishedAt="2026-11-23T08:30:51.6920224Z" publishedFrom="P501A-1">
   <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hotModsTv2="2" hotKeyTv2="0" hotModsCalc2="2" hotKeyCalc2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" smartEnter="1" loaiPopup="1" calcMoSauD="1" calcGiuSauDien="1" calcDiCung="1" calcDup="1" calcEsc="1" calcNho="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrModes="KVCTC (khâu vòng cổ tử cung) = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" ocrCtrlClick="0" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="43bd19d4272d49cdb3508bd5feaa1ec3" name="Hôm nay" tags="hôm nay, nay" icon="hen" code="homnay">
@@ -541,7 +541,7 @@ Thu dọn dụng cụ</content>
       <content>Hẹn cắt chỉ sau phẫu thuật 7 ngày</content>
     </snippet>
   </folder>
-  <folder id="6f8cd97c7ab84563b71b38bf8cf61a0f" name="Gõ tắt nhanh">
+  <folder id="6f8cd97c7ab84563b71b38bf8cf61a0f" name="Gõ tắt nhanh" icon="sao">
     <snippet id="bc86fa4bf63943d1938dcdcc0eb9aafd" name="u10" code="u10">
       <content>Uống ngày 1 viên sau ăn trong 1 tuần rồi dừng thuốc</content>
     </snippet>
