@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <QuangTaiKhoan>
-  <acc name="bsquang" pass="p7mMlMQK8nQjNQ+fHSmCdd1JHK8=" updated="20261122023524396" kick="20261120075010227" pin="wWacOUZ8dvZfMO6O/iqzWrjcyqAKosBv7FYeZUTWR0g=" stars="" pins="" markat="20261120071724737" bmbar="0">
+  <acc name="bsquang" pass="p7mMlMQK8nQjNQ+fHSmCdd1JHK8=" updated="20261124080641154" kick="20261124080641154" pin="wWacOUZ8dvZfMO6O/iqzWrjcyqAKosBv7FYeZUTWR0g=" stars="" pins="" markat="20261120071724737" bmbar="0">
     <s hotMods="2" hotKey="71" hotMods2="2" hotKey2="32" hotModsOcr="8" hotKeyOcr="67" hotModsOcr2="2" hotKeyOcr2="0" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotKeyMenu="81" hkScheme="4" ocrKeyV="3" calcLast="0" calcEmbryo="5" ocrLang="vie" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrCtrlClick="0" inlineTrig="1" startupTip="1" findContentPopup="0" ocrModes="KVCTC = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" findContentManager="0" activeLib="main" autoExp="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Thai tự nhiên =&gt; {loai} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" />
   </acc>
   <acc name="lan" pass="gL3lY9KitqiBPFBg2PWWTFqmmrs=" updated="20261118150900074" deleted="1" />
