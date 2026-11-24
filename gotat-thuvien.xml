@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-24T14:21:09.9826234+07:00" publishId="20261124072109982-55E66CF9" publishedAt="2026-11-24T07:21:09.9826234Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-24T14:21:50.4230540+07:00" publishId="20261124072150423-E8EE2878" publishedAt="2026-11-24T07:21:50.4230540Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="lDogLkXyqfvV9uw0k/etPw==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -20487,7 +20487,7 @@ c031441800700c1106001c43840100c7106100c031441800700c1106001c43840100c7106100c0
         <rtf></rtf>
       </hist>
     </item>
-    <item id="5a2ed11a20fe4a6db427fd58d763475a" name="Bài viết mới" own="bsquang" priv="1" by="bsquang" ord="6144" cu="639311016615984834" pu="639311016327375793" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="VBegrjwD7XOpEZy6gIeX/w==" updated="2026-11-24T14:21:01.8787072+07:00">
+    <item id="5a2ed11a20fe4a6db427fd58d763475a" name="TĐT BỆNH ÁN NGOẠI KHOA 2026" tags="ba, bệnh án, tđt, tờ điều trị, phẫu thuật, pt" own="bsquang" priv="1" by="bsquang" ord="6144" cu="639311017025408650" pu="639311016327375793" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="2+SjL+TMpf5SxN5R1a8wVg==" updated="2026-11-24T14:21:42.5408650+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
@@ -20495,6 +20495,14 @@ c031441800700c1106001c43840100c7106100c031441800700c1106001c43840100c7106100c0
 }
 </rtf>
       <link title="TĐT BỆNH ÁN NGOẠI KHOA 2026" url="https://docs.google.com/document/d/1fQ91S2WL7owOj8aCAngrQb3TgC4mM9oC/edit?usp=drive_link&amp;ouid=106142704489747714382&amp;rtpof=true&amp;sd=true" by="bsquang" />
+      <hist time="2026-11-24T14:21:42.5408650+07:00" name="Bài viết mới" tags="" by="bsquang">
+        <text></text>
+        <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs23\par
+}
+</rtf>
+      </hist>
       <hist time="2026-11-24T14:21:01.5984834+07:00" name="Bài viết mới" tags="" by="bsquang">
         <text></text>
         <rtf></rtf>
