@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-25T10:35:19.1141127+07:00" note="publish" publishId="20261125033519114-51C84766" publishedAt="2026-11-25T03:35:19.1297470Z" publishedFrom="P210B">
+<QuangGoTat version="1" savedAt="2026-11-25T11:49:53.2681314+07:00" note="publish" publishId="20261125044953268-5821CFA4" publishedAt="2026-11-25T04:49:53.2746914Z" publishedFrom="P210B">
   <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hotModsTv2="2" hotKeyTv2="0" hotModsCalc2="2" hotKeyCalc2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" autoGa="1" autoGaSet="0" autoGaDef="1" smartEnter="1" loaiPopup="1" calcMoSauD="1" calcGiuSauDien="1" calcDiCung="1" calcDup="1" calcEsc="1" calcNho="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrModes="KVCTC (khâu vòng cổ tử cung) = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" ocrCtrlClick="0" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="43bd19d4272d49cdb3508bd5feaa1ec3" name="Hôm nay" tags="hôm nay, nay" icon="hen" code="homnay">
@@ -18,7 +18,7 @@
     </snippet>
   </folder>
   <folder id="43993c724ee2437599f00308cf9487c6" name="BỆNH ÁN">
-    <snippet id="b5ee775bcd894cd992d747b3aa7e1c7e" name="TĐT bệnh án dọa sảy" tags="bệnh án, ba, tđt, tờ điều trị, ds, dọa sảy" link="qp://thuvien/f705b06f90e24932a5be1c2a31128fec?mode=simple&amp;pos=center&amp;size=full&amp;h=100#p2" win="corner=br">
+    <snippet id="b5ee775bcd894cd992d747b3aa7e1c7e" name="TĐT bệnh án dọa sảy" tags="bệnh án, ba, tđt, tờ điều trị, ds, dọa sảy" link="https://docs.google.com/document/d/11-0FF_mHUjDWeroeRhoP-KePtLviHeNx/edit?usp=drive_link&amp;ouid=106142704489747714382&amp;rtpof=true&amp;sd=true" win="corner=br&amp;size=full&amp;h=100" linkMode="simple">
       <content>TĐT bệnh án dọa sảy
 Thời
  gian	DIỄN BIẾN BỆNH	CHỈ ĐỊNH
@@ -81,11 +81,11 @@ B\u7879?nh nh\'e2n t\u7881?nh, ti\u7871?p x\'fac t\u7889?t\par
 \f6\lang9 M\f5\lang1066\u7841?\f6\lang9 ch: 68 l\f5\lang1066\u7847?\f6\lang9 n/ ph\'fat , Nhi\f5\lang1066\u7879?\f6\lang9 t \'f0\f5\lang1066\u7897?\f6\lang9  36.4 \'f0\f5\lang1066\u7897?\f6\lang9  C \f4\par
 Huy\f5\lang1066\u7871?t \'e1p: 112/73 mmHg\par
 \f6\lang9 Tim nh\f5\lang1066\u7883?\f6\lang9 p \'f0\f5\lang1066\u7873?\f6\lang9 u. \f4\par
-Ph\f5\lang1066\u7893?i th\'f4ng kh\'ed 2 b\'ean b\f4\lang1033\'ecnh th\u432?\f5\lang1066\u7901?ng. \f4\lang9\par
+Ph\f5\lang1066\u7893?i th\'f4ng kh\'ed 2 b\'ean b\f4\lang1033\'ecnh th\f8\u432?\f5\lang1066\u7901?ng. \f4\lang9\par
 \f5\lang1066 B\u7909?ng m\u7873?m, kh\'f4ng ch\'fd\u7899?ng\f4\lang9\par
 \f6 Kh\'f4ng \'f0i\f5\lang1066\u7875?\f6\lang9 m \'f0au khu tr\'fa\f4\par
 Ph\f5\lang1066\u7843?n \u7913?ng th\'e0nh b\u7909?ng (-)\par
-\'c2m h\u7897? b\f4\lang1033\'ecnh th\u432?\f5\lang1066\u7901?ng \f4\lang9\par
+\'c2m h\u7897? b\f4\lang1033\'ecnh th\f8\u432?\f5\lang1066\u7901?ng \f4\lang9\par
 \f5\lang1066\'c2m \'f0\u7841?o c\'f3 \'edt m\'e1u \'f0\u7887? th\u7851?m s\u7889? l\'fd\u7907?ng \'edt\f4\lang9\par
 \f5\lang1066 T\u7917? cung to t\'fd\'f5ng \'f0\'fd\'f5ng tu\u7893?i thai\f4\lang9\par
 Si\'eau \'e2m: CRL 10.9mm, tim thai 142 l/p; d\f5\lang1066\u7883?ch c\u7841?nh t\'fai thai 6.1mm\par
