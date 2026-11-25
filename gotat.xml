@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-25T10:30:37.9006985+07:00" note="publish" publishId="20261125033037900-D80167E2" publishedAt="2026-11-25T03:30:37.9006985Z" publishedFrom="P210B">
+<QuangGoTat version="1" savedAt="2026-11-25T10:35:19.1141127+07:00" note="publish" publishId="20261125033519114-51C84766" publishedAt="2026-11-25T03:35:19.1297470Z" publishedFrom="P210B">
   <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hotModsTv2="2" hotKeyTv2="0" hotModsCalc2="2" hotKeyCalc2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" autoGa="1" autoGaSet="0" autoGaDef="1" smartEnter="1" loaiPopup="1" calcMoSauD="1" calcGiuSauDien="1" calcDiCung="1" calcDup="1" calcEsc="1" calcNho="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrModes="KVCTC (khâu vòng cổ tử cung) = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" ocrCtrlClick="0" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="43bd19d4272d49cdb3508bd5feaa1ec3" name="Hôm nay" tags="hôm nay, nay" icon="hen" code="homnay">
@@ -18,18 +18,546 @@
     </snippet>
   </folder>
   <folder id="43993c724ee2437599f00308cf9487c6" name="BỆNH ÁN">
-    <snippet id="e577c8082dd04431a58ea56d66b818a1" name="Bệnh án dọa sảy" tags="ba, bệnh án, ds, dọa sảy" link="https://docs.google.com/document/d/11-0FF_mHUjDWeroeRhoP-KePtLviHeNx/edit?usp=sharing&amp;ouid=106142704489747714382&amp;rtpof=true&amp;sd=true">
-      <content>
-      </content>
-      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
+    <snippet id="b5ee775bcd894cd992d747b3aa7e1c7e" name="TĐT bệnh án dọa sảy" tags="bệnh án, ba, tđt, tờ điều trị, ds, dọa sảy" link="qp://thuvien/f705b06f90e24932a5be1c2a31128fec?mode=simple&amp;pos=center&amp;size=full&amp;h=100#p2" win="corner=br">
+      <content>TĐT bệnh án dọa sảy
+Thời
+ gian	DIỄN BIẾN BỆNH	CHỈ ĐỊNH
+27/04
+2025	Bệnh nhân nữ 29  tuổi, PARA 1021 (mổ đẻ 2021, GEU 2 lần đã ptns cắt 2 vòi tử cung, BN nay có thai IVF tính đến nay 6 tuần 6 ngày, ra máu âm đạo nhiều đỏ thẫm từ 20h 🡪 Vào viện
+Tiền sử: Khỏe mạnh
+Khám:
+Bệnh nhân tỉnh, tiếp xúc tốt
+Da niêm mạc hồng
+Mạch: 68 lần/ phút , Nhiệt độ 36.4 độ C 
+Huyết áp: 112/73 mmHg
+Tim nhịp đều. 
+Phổi thông khí 2 bên bình thường. 
+Bụng mềm, không chướng
+Không điểm đau khu trú
+Phản ứng thành bụng (-)
+Âm hộ bình thường 
+Âm đạo có ít máu đỏ thẫm số lượng ít
+Tử cung to tương đương tuổi thai
+Siêu âm: CRL 10.9mm, tim thai 142 l/p; dịch cạnh túi thai 6.1mm
+Chẩn đoán: Thai 6 tuần 6 ngày – dọa sảy
+
+
+
+	Glucose 5% 500ml x 01 chai
+Nospa 40mg/2ml x 02 ống
+Truyền tĩnh mạch XL g/p
+Transamin 250mg x 02 ống
+Tiêm tĩnh mạch 02 ống/lần
+Progesterone 25mg x 02 ống
+Tiêm mông 02 ống/lần
+1. Zinnat 500mg x 02 viên
+Uống 02 viên/ngày chia 2 lần
+Cơm CSIII
+
+
+    
+
+Thời gian	Diễn biến bệnh	Chỉ định
+		
+
+</content>
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset238 Times New Roman;}{\f2\fnil\fcharset163 Times New Roman;}{\f3\fswiss\fprq2\fcharset0 Arial;}{\f4\froman\fprq2\fcharset0 Times New Roman;}{\f5\froman\fprq2\fcharset163 Times New Roman;}{\f6\froman\fprq2\fcharset238 Times New Roman CE;}{\f7\fnil\fcharset1 Segoe UI Symbol;}{\f8\froman\fprq2\fcharset238 Times New Roman;}{\f9\fnil Segoe UI;}}
+{\colortbl ;\red229\green57\blue53;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
-\pard\f0\fs23\par
+\pard\nowidctlpar\sl276\slmult1\cf1\b\f0\fs24\lang9 T\f1\'d0T b\f2\lang1066\u7879?nh \f0\lang1033\'e1n d\f2\lang1066\u7885?a s\u7843?y\cf2\b0\f3\fs22\lang9\par
+\trowd\trgaph108\trleft450\trrh692\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clvertalc\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1546\clvertalc\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6480\clvertalc\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10800 
+\pard\intbl\nowidctlpar\ri254\sb12\sl216\slmult1\qc\cf0\b\f4\fs26 Th\f5\lang1066\u7901?i\par
+ gian\cf2\b0\f4\lang9\cell\cf0\b DI\f5\lang1066\u7876?N BI\u7870?N B\u7878?NH\cf2\b0\f4\lang9\cell\cf0\b\f6 CH\f5\lang1066\u7880?\f6\lang9  \'d0\f5\lang1066\u7882?\f6\lang9 NH\cf2\b0\f4\cell\row\trowd\trgaph108\trleft450\trrh9800\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1546\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6480\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10800 
+\pard\intbl\nowidctlpar\ri-195\sb12\sl216\slmult1\qj 27/04\par
+2025\cell 
+\pard\intbl\widctlpar\sl276\slmult1\qj\tqr\tx10348\tqr\tx10710\cf0 B\f5\lang1066\u7879?\f4\lang9 nh nh\'e2n n\f5\lang1066\u7919?\f4\lang9  29  tu\f5\lang1066\u7893?\f4\lang9 i, PARA 1021 (m\f5\lang1066\u7893?\f6\lang9  \'f0\f5\lang1066\u7867?\f4\lang9  2021, GEU 2 l\f5\lang1066\u7847?\f6\lang9 n \'f0\f4\'e3 ptns c\f5\lang1066\u7855?\f4\lang9 t 2 v\'f2i t\f5\lang1066\u7917?\f6\lang9  cung, BN nay c\'f3 thai IVF t\'ednh \'f0\f5\lang1066\u7871?\f4\lang9 n nay 6 tu\f5\lang1066\u7847?n 6 ng\'e0y, ra m\'e1u \'e2m \'f0\u7841?\f4\lang9 o nhi\f5\lang1066\u7873?\f6\lang9 u \'f0\f5\lang1066\u7887?\f4\lang9  th\f5\lang1066\u7851?\f4\lang9 m t\f5\lang1066\u7915?\f4\lang9  20h \f7\u-10178?\u-9110?\f4  V\'e0o vi\f5\lang1066\u7879?n\par
+Ti\u7873?n s\u7917?: Kh\u7887?e m\u7841?nh\par
+Kh\'e1m:\par
+B\u7879?nh nh\'e2n t\u7881?nh, ti\u7871?p x\'fac t\u7889?t\par
+
+\pard\intbl\widctlpar\sl276\slmult1\qj\f4\lang9 Da ni\'eam m\f5\lang1066\u7841?c h\u7891?ng\par
+\f6\lang9 M\f5\lang1066\u7841?\f6\lang9 ch: 68 l\f5\lang1066\u7847?\f6\lang9 n/ ph\'fat , Nhi\f5\lang1066\u7879?\f6\lang9 t \'f0\f5\lang1066\u7897?\f6\lang9  36.4 \'f0\f5\lang1066\u7897?\f6\lang9  C \f4\par
+Huy\f5\lang1066\u7871?t \'e1p: 112/73 mmHg\par
+\f6\lang9 Tim nh\f5\lang1066\u7883?\f6\lang9 p \'f0\f5\lang1066\u7873?\f6\lang9 u. \f4\par
+Ph\f5\lang1066\u7893?i th\'f4ng kh\'ed 2 b\'ean b\f4\lang1033\'ecnh th\u432?\f5\lang1066\u7901?ng. \f4\lang9\par
+\f5\lang1066 B\u7909?ng m\u7873?m, kh\'f4ng ch\'fd\u7899?ng\f4\lang9\par
+\f6 Kh\'f4ng \'f0i\f5\lang1066\u7875?\f6\lang9 m \'f0au khu tr\'fa\f4\par
+Ph\f5\lang1066\u7843?n \u7913?ng th\'e0nh b\u7909?ng (-)\par
+\'c2m h\u7897? b\f4\lang1033\'ecnh th\u432?\f5\lang1066\u7901?ng \f4\lang9\par
+\f5\lang1066\'c2m \'f0\u7841?o c\'f3 \'edt m\'e1u \'f0\u7887? th\u7851?m s\u7889? l\'fd\u7907?ng \'edt\f4\lang9\par
+\f5\lang1066 T\u7917? cung to t\'fd\'f5ng \'f0\'fd\'f5ng tu\u7893?i thai\f4\lang9\par
+Si\'eau \'e2m: CRL 10.9mm, tim thai 142 l/p; d\f5\lang1066\u7883?ch c\u7841?nh t\'fai thai 6.1mm\par
+Ch\u7849?n \'f0o\'e1n: Thai 6 tu\u7847?n 6 ng\'e0y \endash  d\u7885?a s\u7843?y\f4\lang9\par
+\par
+\par
+\par
+
+\pard\intbl\nowidctlpar\ri254\sb12\sl216\slmult1\qj\cf2\cell 
+\pard\intbl\widctlpar\sl276\slmult1\qj\cf0 Glucose 5% 500ml x 01 chai\par
+Nospa 40mg/2ml x 02 \f5\lang1066\u7889?ng\par
+Truy\u7873?n t\f8\u297?nh m\f5\u7841?ch XL g/p\par
+Transamin 250mg x 02 \u7889?ng\par
+Ti\'eam t\f8\u297?nh m\f5\u7841?ch 02 \u7889?ng/l\u7847?n\par
+Progesterone 25mg x 02 \u7889?ng\par
+Ti\'eam m\'f4ng 02 \u7889?ng/l\u7847?n\par
+1. Zinnat 500mg x 02 vi\'ean\par
+U\u7889?ng 02 vi\'ean/ng\'e0y chia 2 l\u7847?n\par
+C\'f5m CSIII\f4\lang9\par
+\par
+\par
+
+\pard\intbl\nowidctlpar\ri254\sb12\sl216\slmult1\qj\f6     \cf2\f4\fs20\cell\row 
+\pard\nowidctlpar\fi720\li140\ri254\sb12\sl216\slmult1\qj\par
+\trowd\trgaph115\trleft5\trrh585\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl115\trpaddr115\trpaddfl3\trpaddfr3
+\clvertalc\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1090\clvertalc\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6035\clvertalc\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10440 
+\pard\intbl\widctlpar\qc\cf0\b\fs26 Th\f5\lang1066\u7901?i gian\cell Di\u7877?n bi\u7871?n b\u7879?nh\cell\f6\lang9 Ch\f5\lang1066\u7881?\f6\lang9  \'f0\f5\lang1066\u7883?\f6\lang9 nh\f4\cell\row\trowd\trgaph115\trleft5\trrh13070\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl115\trpaddr115\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1090\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6035\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10440 
+\pard\intbl\widctlpar\b0\cell\cell 
+\pard\intbl\widctlpar\qj\b\cell\row 
+\pard\widctlpar\sa160\sl252\slmult1\b0\par
+
+\pard\f9\fs23\lang1033\par
 }
 </rtf>
     </snippet>
-    <snippet id="b5ee775bcd894cd992d747b3aa7e1c7e" name="TĐT bệnh án dọa sảy" tags="bệnh án, ba, tđt, tờ điều trị, ds, dọa sảy">
-      <content>
-      </content>
+    <snippet id="2c99f866512049199b4daa453b8214e4" name="TĐT bệnh án ngoại khoa" tags="ba, bệnh án, tđt, tờ điều trị, ngoại khoa, phẫu thuật, pt" link="qp://thuvien/5a2ed11a20fe4a6db427fd58d763475a?mode=simple&amp;pos=center&amp;size=full&amp;h=100#p2" win="corner=br">
+      <content>TĐT bệnh án ngoại khoa
+NGÀY GIỜ	DIỄN BIẾN BỆNH	Y LỆNH
+23/07
+2026
+08h45
+
+
+	BN nữ 38 tuổi, KHL2 2022, PARA 2022, đẻ thường 2012+2023, 2 làn hút thai 5w không nhớ năm, CKK 30/5. BN IVF tại viện có 1 phôi ngày 5, hủy chu kỳ do niêm mạc mỏng, BN mong muốn soi BTC thăm dò &gt; nhập viện
+Tiền sử: PTNS tách dính BTC tại sản C 02/2025. 07/2025 PTNS tách dính BTC + NSOB (P) thông (T) tắc tại BV. 09/2025 soi BTC thăm dò tại sản C: bình thường.
+Khám
+Tỉnh, da niêm mạc hồng
+Mạch 70 l/p
+HA 110/70 mmHg
+Tim đều, phổi không rale
+Bụng mềm không chướng
+Tử cung kích thước bình thường
+Âm đạo không ra máu
+Cổ tử cung không viêm
+Siêu âm: niêm mạc 7.8mm
+Chẩn đoán: Thăm dò BTC trước chuyển phôi
+Chỉ định: PT soi BTC thăm dò
+	BN nhập viện từ hôm trước:
+
+Misoprostol 200 mcg x 04 viên 
+Ngậm dưới lưỡi 02 viên + đặt âm đạo 02 viên lúc 4h30 ngày 24/07/2026
+Golistin x 02 tuýp
+Thụt hậu môn lúc 21h ngày 23/07/2026 và 5h ngày 24/07/2026
+Nhịn ăn từ 19h  23/07/2026 chờ phẫu thuật.
+
+
+BN nhập viện trong ngày phẫu thuật:
+
+
+Misoprostol 200mcg   x  04 viên
+Ngậm dưỡi lưỡi 02 viên và đặt âm đạo 02 viên lúc 10h
+Fleet    x    01 tuýp
+   Thụt hậu môn trước mổ
+Nhịn ăn uống chờ phẫu thuật
+
+
+
+
+
+
+
+               
+
+
+
+
+
+
+TỜ ĐIỀU TRỊ 2 (BS PT hoặc BS Khu điều trị)
+Thời gian	Diễn biến bệnh	Chỉ định
+04/03
+2026
+(trước mổ 1h)	Bệnh nhân tỉnh, tiếp xúc tốt
+Mạch: 71 lần/ phút, huyết áp:107/70  mmHg
+Tim, phổi bình thường
+Bụng mềm
+Ra ít dịch hồng âm đạo
+
+	Natri clorid 0,9%        x       500ml
+Truyền tĩnh mạch XL giọt / phút
+1. Unasyl 1.5g   x    02 lọ
+Tiêm tĩnh mạch chậm trong + sau mổ 6h
+Chuyển phòng mổ
+
+
+
+TỜ ĐIỀU TRỊ 3 (BS GMHS)
+
+(+45-50 phút so với giờ kết thúc PT)	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+TỜ ĐIỀU TRỊ 4 (BS KHU ĐIỀU TRỊ)
+
+Nếu mổ sáng
+(+ 15 phút so với nhận xét của bs GMHS)	BN về khu điều trị
+Tỉnh táo, tiếp xúc được
+Mạch, nhiệt độ ổn định.
+Tim, phổi bình thường
+SpO2: 99 %
+Tại chỗ:
+Bụng đau ít, không chướng
+Âm đạo không ra máu	Natri clorid 0,9%          x   500ml
+Glucose 5 %                 x   1000ml 
+Truyền TM LX giọt/ phút
+Paracetamol 1g x 01 lọ
+Truyền tĩnh mạch XL giọt/ phút
+1-Metronidazol 400 mg x   02 viên
+Uống 01   viên / lần 14h-20h
+Rotunda 30 mg x 02 viên
+Uống 02 viên / lần lúc 22 giờ
+Alphachymotrypsine x 06  viên
+Uống 3 viên/ lần 14h-20h
+Theo dõi toàn trạng, ra máu âm đạo, vết mổ, sonde tiểu rút lúc     16        giờ
+CSC II - cháo
+
+Nếu mổ chiều
+(+ 15 phút so với nhận xét của bs gây mê)	BN về khu điều trị
+Tỉnh táo, tiếp xúc được
+Mạch, nhiệt độ ổn định.
+Tim, phổi bình thường
+SpO2: 99 %
+Tại chỗ:
+Bụng đau ít, không chướng
+Âm đạo không ra máu	Natri clorid 0,9%          x   500ml
+Glucose 5 %                 x   1000ml 
+Truyền TM LX giọt/ phút
+Paracetamol 1g x 01 lọ
+Truyền tĩnh mạch XL giọt/ phút
+1-Metronidazol 400 mg x   01 viên
+Uống 01   viên / lần 20h
+Rotunda 30 mg x 02 viên
+Uống 02 viên / lần lúc 22 giờ
+Alphachymotrypsine x 03  viên
+Uống 3 viên/ lần 20h 
+Theo dõi toàn trạng, ra máu âm đạo, vết mổ, sonde tiểu rút lúc     20        giờ
+CSC II - cháo
+
+
+
+
+
+
+
+
+
+
+TỜ ĐIỀU TRỊ 5 (Sau mổ ngày 2 - BS khu điều trị)
+		Ra viện chiều:
+
+2. Unasyl 1.5g x 02 lọ
+Tiêm TMC 01 lọ/lần 9h-15h
+2. Metronidazol 400 mg x 02 viên
+Uống 02 viên/ngày chia 2 lần 9h-15h
+Alpha Choay x 06 viên
+Uống 06 viên/ngày chia 2 lần sáng - chiều
+CSC III - cơm
+
+Ra viện sáng (không NSOB):
+
+2. Unasyl 1.5g x 01 lọ
+Tiêm TMC 01 lọ/lần 9h
+2. Metronidazol 400 mg x 01 viên
+Uống 01 viên/lần 9h
+Alpha Choay x 03 viên
+Uống 03 viên/lần 9h
+CSC III - cơm
+
+
+
+
+
+
+
+
+
+
+
+
+</content>
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset238 Times New Roman;}{\f2\fnil\fcharset163 Times New Roman;}{\f3\froman\fprq2\fcharset0 Times New Roman;}{\f4\froman\fprq2\fcharset163 Times New Roman;}{\f5\froman\fprq2\fcharset238 Times New Roman CE;}{\f6\froman\fprq2\fcharset238 Times New Roman;}{\f7\fswiss\fcharset238 Arial;}{\f8\fnil Segoe UI;}}
+{\colortbl ;\red229\green57\blue53;\red0\green0\blue0;\red255\green0\blue0;\red0\green0\blue255;\red255\green153\blue0;\red0\green255\blue255;\red252\green229\blue205;}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\nowidctlpar\ri243\sl276\slmult1\qj\cf1\b\f0\fs26\lang9 T\f1\'d0\f0 T b\f2\lang1066\u7879?nh \'e1n ngo\u7841?i khoa\cf2\b0\f3\fs20\lang9\par
+\trowd\trgaph115\trleft426\trrh346\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl115\trpaddr115\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6531\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx11166 
+\pard\intbl\widctlpar\cf0\b\fs24 NG\'c0Y GI\f4\lang1066\u7900?\cell 
+\pard\intbl\widctlpar\qc\f3\lang9 DI\f4\lang1066\u7876?N BI\u7870?N B\u7878?NH\cell Y L\u7878?NH\cell\row\trowd\trgaph115\trleft426\trrh10259\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl115\trpaddr115\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1985\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6531\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx11166 
+\pard\intbl\widctlpar\qc\f3\lang9 23/07\par
+2026\par
+08h45\par
+
+\pard\intbl\widctlpar\b0\par
+\par
+\cell 
+\pard\intbl\widctlpar\sl276\slmult1\f4\lang1066 BN n\u7919? 38 tu\u7893?i, KHL2 2022, PARA 2022, \'f0\u7867? th\'fd\u7901?ng 2012+2023, 2 l\'e0n h\'fat thai 5w kh\'f4ng nh\u7899? n\'e3m, CKK 30/5. BN IVF t\u7841?i vi\u7879?n c\'f3 1 ph\'f4i ng\'e0y 5, h\u7911?y chu k\u7923? do ni\'eam m\u7841?c m\u7887?ng, BN mong mu\u7889?n soi BTC th\'e3m d\f3\lang9\'f2 &gt; nh\f4\lang1066\u7853?p vi\u7879?n\par
+\f5\lang9 Ti\f4\lang1066\u7873?\f5\lang9 n s\f4\lang1066\u7917?\f5\lang9 : PTNS t\'e1ch d\'ednh BTC t\f4\lang1066\u7841?\f5\lang9 i s\f4\lang1066\u7843?\f5\lang9 n C 02/2025. 07/2025 PTNS t\'e1ch d\'ednh BTC + NSOB (P) th\'f4ng (T) t\f4\lang1066\u7855?\f5\lang9 c t\f4\lang1066\u7841?\f5\lang9 i BV. 09/2025 soi BTC th\'e3m d\f3\'f2 t\f4\lang1066\u7841?i s\u7843?n C: b\u236?nh th\'fd\u7901?ng.\f3\lang9\par
+Kh\'e1m\par
+T\f4\lang1066\u7881?nh, da ni\'eam m\u7841?c h\u7891?ng\par
+M\u7841?ch 70 l/p\par
+HA 110/70 mmHg\par
+\f5\lang9 Tim \'f0\f4\lang1066\u7873?\f5\lang9 u, ph\f4\lang1066\u7893?\f5\lang9 i kh\'f4ng rale\f3\par
+\f4\lang1066 B\u7909?ng m\u7873?m kh\'f4ng ch\'fd\u7899?ng\f3\lang9\par
+\f4\lang1066 T\u7917? cung k\'edch th\'fd\u7899?c b\f3\lang9\'ecnh th\f4\lang1066\'fd\u7901?ng\f3\lang9\par
+\f5\'c2m \'f0\f4\lang1066\u7841?\f5\lang9 o kh\'f4ng ra m\'e1u\f3\par
+C\f4\lang1066\u7893? t\u7917? cung kh\'f4ng vi\'eam\par
+Si\'eau \'e2m: ni\'eam m\u7841?c 7.8mm\par
+
+\pard\intbl\nowidctlpar\ri243\sl276\slmult1\qj\f5\lang9 Ch\f4\lang1066\u7849?\f5\lang9 n \'f0o\'e1n: \cf2\fs26 Th\'e3m d\f3\'f2 BTC tr\f4\lang1066\'fd\u7899?c chuy\u7875?n ph\'f4i\f3\lang9\par
+
+\pard\intbl\widctlpar\sl276\slmult1\cf0\f5\fs24 Ch\f4\lang1066\u7881?\f5\lang9  \'f0\f4\lang1066\u7883?\f5\lang9 nh: PT soi BTC th\'e3m d\f3\'f2\par
+
+\pard\intbl\widctlpar\cell\cf3\b\f4\lang1066 BN nh\u7853?p vi\u7879?n t\u7915? h\'f4m tr\'fd\u7899?c:\f3\lang9\par
+\cf0\b0\par
+Misoprostol 200 mcg x 04 vi\'ean \par
+
+\pard\intbl\widctlpar\li720\f4\lang1066 Ng\u7853?m d\'fd\u7899?i l\'fd\u7905?i 02 vi\'ean + \'f0\u7863?t \'e2m \'f0\u7841?o 02 vi\'ean l\'fac 4h30 ng\'e0y 24/07/2026\f3\lang9\par
+
+\pard\intbl\widctlpar Golistin x 02 tu\'fdp\par
+
+\pard\intbl\widctlpar\li720 Th\f4\lang1066\u7909?t h\u7853?u m\'f4n l\'fac 21h ng\'e0y 23/07/2026 v\'e0 5h ng\'e0y 24/07/2026\par
+
+\pard\intbl\widctlpar\f5\lang9 Nh\f4\lang1066\u7883?\f5\lang9 n \'e3n t\f4\lang1066\u7915?\f5\lang9  19h  23/07/2026 ch\f4\lang1066\u7901?\f5\lang9  ph\f4\lang1066\u7851?\f5\lang9 u thu\f4\lang1066\u7853?\f5\lang9 t.\f3\par
+\par
+
+\pard\intbl\widctlpar\sl360\slmult1\fs26\par
+
+\pard\intbl\widctlpar\cf3\b\fs24 BN nh\f4\lang1066\u7853?p vi\u7879?n trong ng\'e0y ph\u7851?u thu\u7853?t:\par
+\par
+\par
+\cf0\b0\f3\lang9 Misoprostol 200mcg   x  04 vi\'ean\par
+
+\pard\intbl\widctlpar\li720\f4\lang1066 Ng\u7853?m d\'fd\u7905?i l\'fd\u7905?i 02 vi\'ean v\'e0 \'f0\u7863?t \'e2m \'f0\u7841?o 02 vi\'ean l\'fac 10h\f3\lang9\par
+
+\pard\intbl\widctlpar Fleet    x    01 tu\'fdp\par
+
+\pard\intbl\widctlpar\li720\f4\lang1066    Th\u7909?t h\u7853?u m\'f4n tr\'fd\u7899?c m\u7893?\f3\lang9\par
+
+\pard\intbl\widctlpar\f5 Nh\f4\lang1066\u7883?\f5\lang9 n \'e3n u\f4\lang1066\u7889?\f5\lang9 ng ch\f4\lang1066\u7901?\f5\lang9  ph\f4\lang1066\u7851?\f5\lang9 u thu\f4\lang1066\u7853?\f5\lang9 t\f3\fs26\par
+
+\pard\intbl\widctlpar\sl360\slmult1\par
+\par
+\fs24\par
+\par
+\par
+\par
+\par
+\cf2\fs26                \cf0\fs24\par
+\par
+\par
+\par
+\cell\row 
+\pard\nowidctlpar\li360\ri243\sl336\slmult1\cf2\fs20\par
+
+\pard\nowidctlpar\li140\ri254\sb12\sl216\slmult1\par
+\trowd\trgaph10\trleft5\trrh742\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clcbpat5\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\nowidctlpar\li220\sb58\qc\cf0\b\f5\fs26 T\f4\lang1066\u7900?\f5\lang9  \'d0I\f4\lang1066\u7872?\f5\lang9 U TR\f4\lang1066\u7882?\f5\lang9  2 (BS PT ho\f4\lang1066\u7863?\f5\lang9 c BS Khu \'f0i\f4\lang1066\u7873?\f5\lang9 u tr\f4\lang1066\u7883?\f5\lang9 )\f3\cell\row\trowd\trgaph10\trleft5\trrh742\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1880\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6530\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\nowidctlpar\li220\sb58 Th\f4\lang1066\u7901?i gian\b0\f3\lang9\cell 
+\pard\intbl\nowidctlpar\li1795\ri1485\sb58\b Di\f4\lang1066\u7877?n bi\u7871?n b\u7879?nh\b0\f3\lang9\cell 
+\pard\intbl\nowidctlpar\li1308\ri1302\sb58\b\f5 Ch\f4\lang1066\u7881?\f5\lang9  \'f0\f4\lang1066\u7883?\f5\lang9 nh\b0\f3\cell\row\trowd\trgaph10\trleft5\trrh2730\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1880\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6530\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\widctlpar\qc\b 04/03\par
+2026\par
+\cf4\f4\lang1066 (tr\'fd\u7899?c m\u7893? 1h)\f3\lang9\cell 
+\pard\intbl\widctlpar\cf0\b0 B\f4\lang1066\u7879?nh nh\'e2n t\u7881?nh, ti\u7871?p x\'fac t\u7889?t\par
+M\u7841?ch: 71 l\u7847?n/ ph\'fat, huy\u7871?t \'e1p:107/70  mmHg\par
+Tim, ph\u7893?i b\u236?nh th\'fd\u7901?ng\f3\lang9\par
+B\f4\lang1066\u7909?ng m\u7873?m\par
+\f5\lang9 Ra \'edt d\f4\lang1066\u7883?\f5\lang9 ch h\f4\lang1066\u7891?\f5\lang9 ng \'e2m \'f0\f4\lang1066\u7841?\f5\lang9 o\f3\par
+\par
+
+\pard\intbl\nowidctlpar\cell 
+\pard\intbl\widctlpar\qj Natri clorid 0,9%        x       500ml\par
+Truy\f4\lang1066\u7873?n t\f6\u297?nh m\f4\u7841?ch XL gi\u7885?t / ph\'fat\par
+1. Unasyl 1.5g   x    02 l\u7885?\par
+Ti\'eam t\f6\u297?nh m\f4\u7841?ch ch\u7853?m trong + sau m\u7893? 6h\par
+Chuy\u7875?n ph\u242?ng m\u7893?\par
+\par
+
+\pard\intbl\widctlpar\sl360\slmult1\f3\lang9\par
+
+\pard\intbl\widctlpar\tx1290\cell\row\trowd\trgaph10\trleft5\trrh260\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clcbpat5\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\nowidctlpar\li220\sb58\qc\b\f5 T\f4\lang1066\u7900?\f5\lang9  \'d0I\f4\lang1066\u7872?\f5\lang9 U TR\f4\lang1066\u7882?\f5\lang9  3 (BS GMHS)\f3\par
+\cell\row\trowd\trgaph10\trleft5\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1880\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6530\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\widctlpar\qc\cf4 (+45-50 ph\'fat so v\f4\lang1066\u7899?i gi\u7901? k\u7871?t th\'fac PT)\cell 
+\pard\intbl\widctlpar\qj\cf0\b0\f3\lang9\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\cell\cf3\b\cell\row\trowd\trgaph10\trleft5\trrh260\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clcbpat5\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\nowidctlpar\li220\sb58\qc\cf0\f5 T\f4\lang1066\u7900?\f5\lang9  \'d0I\f4\lang1066\u7872?\f5\lang9 U TR\f4\lang1066\u7882?\f5\lang9  4 (BS KHU \'d0I\f4\lang1066\u7872?\f5\lang9 U TR\f4\lang1066\u7882?\f5\lang9 )\f3\par
+\cell\row\trowd\trgaph10\trleft5\trrh260\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clcbpat7\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\widctlpar\qc\cf3 N\f4\lang1066\u7871?u m\u7893? s\'e1ng\cf0\f3\lang9\cell\row\trowd\trgaph10\trleft5\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1880\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6530\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\widctlpar\qc\cf4 (+ 15 ph\'fat so v\f4\lang1066\u7899?i nh\u7853?n x\'e9t c\u7911?a bs GMHS)\cell 
+\pard\intbl\widctlpar\cf0\b0\f5\lang9 BN v\f4\lang1066\u7873?\f5\lang9  khu \'f0i\f4\lang1066\u7873?\f5\lang9 u tr\f4\lang1066\u7883?\f3\lang9\par
+\f4\lang1066 T\u7881?nh t\'e1o, ti\u7871?p x\'fac \'f0\'fd\u7907?c\f3\lang9\par
+\f5 M\f4\lang1066\u7841?\f5\lang9 ch, nhi\f4\lang1066\u7879?\f5\lang9 t \'f0\f4\lang1066\u7897?\f5\lang9  \f4\lang1066\u7893?\f5\lang9 n \'f0\f4\lang1066\u7883?\f5\lang9 nh.\f3\par
+Tim, ph\f4\lang1066\u7893?i b\u236?nh th\'fd\u7901?ng\f3\lang9\par
+SpO2: 99 %\par
+T\f4\lang1066\u7841?i ch\u7895?:\par
+B\u7909?ng \'f0au \'edt, kh\'f4ng ch\'fd\u7899?ng\f3\lang9\par
+\f5\'c2m \'f0\f4\lang1066\u7841?\f5\lang9 o kh\'f4ng ra m\'e1u\f3\cell 
+\pard\intbl\widctlpar\qj Natri clorid 0,9%          x   500ml\par
+Glucose 5 %                 x   1000ml \par
+Truy\f4\lang1066\u7873?n TM LX gi\u7885?t/ ph\'fat\par
+Paracetamol 1g x 01 l\u7885?\par
+Truy\u7873?n t\f6\u297?nh m\f4\u7841?ch XL gi\u7885?t/ ph\'fat\par
+1-Metronidazol 400 mg x   02 vi\'ean\par
+U\u7889?ng 01   vi\'ean / l\u7847?n 14h-20h\par
+Rotunda 30 mg x 02 vi\'ean\par
+U\u7889?ng 02 vi\'ean / l\u7847?n l\'fac 22 gi\u7901?\par
+Alphachymotrypsine x 06  vi\'ean\par
+U\u7889?ng 3 vi\'ean/ l\u7847?n 14h-20h\par
+Theo d\u245?i to\'e0n tr\u7841?ng, ra m\'e1u \'e2m \f7\lang9\'f0\f4\lang1066\u7841?\f5\lang9 o, v\f4\lang1066\u7871?\f5\lang9 t m\f4\lang1066\u7893?\f5\lang9 , sonde ti\f4\lang1066\u7875?\f5\lang9 u r\'fat l\'fac     16        gi\f4\lang1066\u7901?\f3\lang9\par
+CSC II - ch\'e1o\par
+\cell\row\trowd\trgaph10\trleft5\trrh358\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clcbpat7\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\widctlpar\qc\cf3\b N\f4\lang1066\u7871?u m\u7893? chi\u7873?u\cf0\f3\lang9\cell\row\trowd\trgaph10\trleft5\trrh3560\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1880\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6530\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\widctlpar\qc\cf4 (+ 15 ph\'fat so v\f4\lang1066\u7899?i nh\u7853?n x\'e9t c\u7911?a bs g\'e2y m\'ea)\cf0\f3\lang9\cell 
+\pard\intbl\widctlpar\b0\f5 BN v\f4\lang1066\u7873?\f5\lang9  khu \'f0i\f4\lang1066\u7873?\f5\lang9 u tr\f4\lang1066\u7883?\f3\lang9\par
+\f4\lang1066 T\u7881?nh t\'e1o, ti\u7871?p x\'fac \'f0\'fd\u7907?c\f3\lang9\par
+\f5 M\f4\lang1066\u7841?\f5\lang9 ch, nhi\f4\lang1066\u7879?\f5\lang9 t \'f0\f4\lang1066\u7897?\f5\lang9  \f4\lang1066\u7893?\f5\lang9 n \'f0\f4\lang1066\u7883?\f5\lang9 nh.\f3\par
+Tim, ph\f4\lang1066\u7893?i b\u236?nh th\'fd\u7901?ng\f3\lang9\par
+SpO2: 99 %\par
+T\f4\lang1066\u7841?i ch\u7895?:\par
+B\u7909?ng \'f0au \'edt, kh\'f4ng ch\'fd\u7899?ng\f3\lang9\par
+\f5\'c2m \'f0\f4\lang1066\u7841?\f5\lang9 o kh\'f4ng ra m\'e1u\f3\cell 
+\pard\intbl\widctlpar\qj Natri clorid 0,9%          x   500ml\par
+Glucose 5 %                 x   1000ml \par
+Truy\f4\lang1066\u7873?n TM LX gi\u7885?t/ ph\'fat\par
+Paracetamol 1g x 01 l\u7885?\par
+Truy\u7873?n t\f6\u297?nh m\f4\u7841?ch XL gi\u7885?t/ ph\'fat\par
+1-Metronidazol 400 mg x   01 vi\'ean\par
+U\u7889?ng 01   vi\'ean / l\u7847?n 20h\par
+Rotunda 30 mg x 02 vi\'ean\par
+U\u7889?ng 02 vi\'ean / l\u7847?n l\'fac 22 gi\u7901?\par
+Alphachymotrypsine x 03  vi\'ean\par
+U\u7889?ng 3 vi\'ean/ l\u7847?n 20h \par
+Theo d\u245?i to\'e0n tr\u7841?ng, ra m\'e1u \'e2m \f7\lang9\'f0\f4\lang1066\u7841?\f5\lang9 o, v\f4\lang1066\u7871?\f5\lang9 t m\f4\lang1066\u7893?\f5\lang9 , sonde ti\f4\lang1066\u7875?\f5\lang9 u r\'fat l\'fac     20        gi\f4\lang1066\u7901?\f3\lang9\par
+CSC II - ch\'e1o\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\cell\row\trowd\trgaph10\trleft5\trrh870\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clcbpat5\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\widctlpar\qc\b\f4\lang1066 T\u7900? \'d0I\u7872?U TR\u7882? 5 (Sau m\u7893? ng\'e0y 2 - BS khu \'f0i\u7873?u tr\u7883?)\f3\lang9\cell\row\trowd\trgaph10\trleft5\trrh3560\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
+\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx1880\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx6530\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
+\pard\intbl\widctlpar\qc\cf4\cell 
+\pard\intbl\widctlpar\cf0\b0\cell 
+\pard\intbl\widctlpar\sl360\slmult1\cf3\b Ra vi\f4\lang1066\u7879?n chi\u7873?u:\par
+\b0\f3\lang9\par
+\cf0 2. Unasyl 1.5g x 02 l\f4\lang1066\u7885?\par
+Ti\'eam TMC 01 l\u7885?/l\u7847?n 9h-15h\par
+2. Metronidazol 400 mg x 02 vi\'ean\par
+U\u7889?ng 02 vi\'ean/ng\'e0y chia 2 l\u7847?n 9h-15h\par
+Alpha Choay x 06 vi\'ean\par
+U\u7889?ng 06 vi\'ean/ng\'e0y chia 2 l\u7847?n s\'e1ng - chi\u7873?u\par
+CSC III - c\'f5m\f3\lang9\par
+\fs24\par
+\cf3\b\fs26 Ra vi\f4\lang1066\u7879?n s\'e1ng (kh\'f4ng NSOB):\par
+\b0\f3\lang9\par
+\cf0 2. Unasyl 1.5g x 01 l\f4\lang1066\u7885?\par
+Ti\'eam TMC 01 l\u7885?/l\u7847?n 9h\par
+2. Metronidazol 400 mg x 01 vi\'ean\par
+U\u7889?ng 01 vi\'ean/l\u7847?n 9h\par
+Alpha Choay x 03 vi\'ean\par
+U\u7889?ng 03 vi\'ean/l\u7847?n 9h\par
+CSC III - c\'f5m\cf3\f3\lang9\par
+\cf0\fs24\par
+
+\pard\intbl\widctlpar\qj\fs26\cell\row 
+\pard\widctlpar\sa160\sl252\slmult1\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+
+\pard\f8\fs23\lang1033\par
+}
+</rtf>
     </snippet>
   </folder>
   <folder id="366b13943f31493695ab70f3fd7adc72" name="Nhập viện">
