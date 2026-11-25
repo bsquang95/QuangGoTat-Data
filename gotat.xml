@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<QuangGoTat version="1" savedAt="2026-11-25T11:49:53.2681314+07:00" note="publish" publishId="20261125044953268-5821CFA4" publishedAt="2026-11-25T04:49:53.2746914Z" publishedFrom="P210B">
+<QuangGoTat version="1" savedAt="2026-11-25T14:23:06.4775139+07:00" note="publish" publishId="20261125072306477-C797C54E" publishedAt="2026-11-25T07:23:06.4874861Z" publishedFrom="P210B">
   <settings hotMods="2" hotKey="71" hotMods2="2" hotKey2="0" hotModsOcr="2" hotKeyOcr="32" hotModsTv="2" hotKeyTv="84" hotModsCalc="2" hotKeyCalc="77" hotModsMenu="2" hotModsOcr2="2" hotKeyOcr2="0" hotModsTv2="2" hotKeyTv2="0" hotModsCalc2="2" hotKeyCalc2="0" hkScheme="0" autoExp="1" fixCtrl="1" autoPats="{số}w{số}d =&gt; {1} tuần {2} ngày || {số}w =&gt; {1} tuần" fillSteps="Tuổi thai =&gt; {tuan2}{|}{ngay} || Ngày chuyển phôi =&gt; {cp_d}{|}{cp_m}{|}{cp_y} || Dự kiến sinh =&gt; {dks_d}{|}{dks_m}{|}{dks_y}" fillAuto="1" smartD="1" autoGa="1" autoGaSet="0" autoGaDef="1" smartEnter="1" loaiPopup="1" calcMoSauD="1" calcGiuSauDien="1" calcDiCung="1" calcDup="1" calcEsc="1" calcNho="1" phimChung="" hotKeyMenu="81" calcLast="0" calcEmbryo="5" ocrJoin="0" ocrAutoCopy="1" ocrFix="1" ocrModes="KVCTC (khâu vòng cổ tử cung) = WBC|Bạch cầu; NEUT%|Tỷ lệ % BC trung tính; RBC|Hồng cầu; PLT|Tiểu cầu; CRP|CRP hs|hs-CRP" ocrCtrlClick="0" inlineTrig="1" startupTip="1" findContentPopup="0" findContentManager="0" ocrKeyV="3" />
   <folder id="e044ede9adf149b59e4ae1b41bfba24f" name="Thời gian">
     <snippet id="43bd19d4272d49cdb3508bd5feaa1ec3" name="Hôm nay" tags="hôm nay, nay" icon="hen" code="homnay">
@@ -330,7 +330,7 @@ CSC III - cơm
 \par
 \cell 
 \pard\intbl\widctlpar\sl276\slmult1\f4\lang1066 BN n\u7919? 38 tu\u7893?i, KHL2 2022, PARA 2022, \'f0\u7867? th\'fd\u7901?ng 2012+2023, 2 l\'e0n h\'fat thai 5w kh\'f4ng nh\u7899? n\'e3m, CKK 30/5. BN IVF t\u7841?i vi\u7879?n c\'f3 1 ph\'f4i ng\'e0y 5, h\u7911?y chu k\u7923? do ni\'eam m\u7841?c m\u7887?ng, BN mong mu\u7889?n soi BTC th\'e3m d\f3\lang9\'f2 &gt; nh\f4\lang1066\u7853?p vi\u7879?n\par
-\f5\lang9 Ti\f4\lang1066\u7873?\f5\lang9 n s\f4\lang1066\u7917?\f5\lang9 : PTNS t\'e1ch d\'ednh BTC t\f4\lang1066\u7841?\f5\lang9 i s\f4\lang1066\u7843?\f5\lang9 n C 02/2025. 07/2025 PTNS t\'e1ch d\'ednh BTC + NSOB (P) th\'f4ng (T) t\f4\lang1066\u7855?\f5\lang9 c t\f4\lang1066\u7841?\f5\lang9 i BV. 09/2025 soi BTC th\'e3m d\f3\'f2 t\f4\lang1066\u7841?i s\u7843?n C: b\u236?nh th\'fd\u7901?ng.\f3\lang9\par
+\f5\lang9 Ti\f4\lang1066\u7873?\f5\lang9 n s\f4\lang1066\u7917?\f5\lang9 : PTNS t\'e1ch d\'ednh BTC t\f4\lang1066\u7841?\f5\lang9 i s\f4\lang1066\u7843?\f5\lang9 n C 02/2025. 07/2025 PTNS t\'e1ch d\'ednh BTC + NSOB (P) th\'f4ng (T) t\f4\lang1066\u7855?\f5\lang9 c t\f4\lang1066\u7841?\f5\lang9 i BV. 09/2025 soi BTC th\'e3m d\f3\'f2 t\f4\lang1066\u7841?i s\u7843?n C: b\f3\lang1033\'ecnh th\u432?\f4\lang1066\u7901?ng.\f3\lang9\par
 Kh\'e1m\par
 T\f4\lang1066\u7881?nh, da ni\'eam m\u7841?c h\u7891?ng\par
 M\u7841?ch 70 l/p\par
@@ -402,7 +402,7 @@ Misoprostol 200 mcg x 04 vi\'ean \par
 \cf4\f4\lang1066 (tr\'fd\u7899?c m\u7893? 1h)\f3\lang9\cell 
 \pard\intbl\widctlpar\cf0\b0 B\f4\lang1066\u7879?nh nh\'e2n t\u7881?nh, ti\u7871?p x\'fac t\u7889?t\par
 M\u7841?ch: 71 l\u7847?n/ ph\'fat, huy\u7871?t \'e1p:107/70  mmHg\par
-Tim, ph\u7893?i b\u236?nh th\'fd\u7901?ng\f3\lang9\par
+Tim, ph\u7893?i b\f3\lang1033\'ecnh th\u432?\f4\lang1066\u7901?ng\f3\lang9\par
 B\f4\lang1066\u7909?ng m\u7873?m\par
 \f5\lang9 Ra \'edt d\f4\lang1066\u7883?\f5\lang9 ch h\f4\lang1066\u7891?\f5\lang9 ng \'e2m \'f0\f4\lang1066\u7841?\f5\lang9 o\f3\par
 \par
@@ -412,7 +412,7 @@ B\f4\lang1066\u7909?ng m\u7873?m\par
 Truy\f4\lang1066\u7873?n t\f6\u297?nh m\f4\u7841?ch XL gi\u7885?t / ph\'fat\par
 1. Unasyl 1.5g   x    02 l\u7885?\par
 Ti\'eam t\f6\u297?nh m\f4\u7841?ch ch\u7853?m trong + sau m\u7893? 6h\par
-Chuy\u7875?n ph\u242?ng m\u7893?\par
+Chuy\u7875?n ph\f3\lang1033\'f2ng m\f4\lang1066\u7893?\par
 \par
 
 \pard\intbl\widctlpar\sl360\slmult1\f3\lang9\par
@@ -463,7 +463,7 @@ Chuy\u7875?n ph\u242?ng m\u7893?\par
 \pard\intbl\widctlpar\cf0\b0\f5\lang9 BN v\f4\lang1066\u7873?\f5\lang9  khu \'f0i\f4\lang1066\u7873?\f5\lang9 u tr\f4\lang1066\u7883?\f3\lang9\par
 \f4\lang1066 T\u7881?nh t\'e1o, ti\u7871?p x\'fac \'f0\'fd\u7907?c\f3\lang9\par
 \f5 M\f4\lang1066\u7841?\f5\lang9 ch, nhi\f4\lang1066\u7879?\f5\lang9 t \'f0\f4\lang1066\u7897?\f5\lang9  \f4\lang1066\u7893?\f5\lang9 n \'f0\f4\lang1066\u7883?\f5\lang9 nh.\f3\par
-Tim, ph\f4\lang1066\u7893?i b\u236?nh th\'fd\u7901?ng\f3\lang9\par
+Tim, ph\f4\lang1066\u7893?i b\f3\lang1033\'ecnh th\u432?\f4\lang1066\u7901?ng\f3\lang9\par
 SpO2: 99 %\par
 T\f4\lang1066\u7841?i ch\u7895?:\par
 B\u7909?ng \'f0au \'edt, kh\'f4ng ch\'fd\u7899?ng\f3\lang9\par
@@ -479,7 +479,7 @@ Rotunda 30 mg x 02 vi\'ean\par
 U\u7889?ng 02 vi\'ean / l\u7847?n l\'fac 22 gi\u7901?\par
 Alphachymotrypsine x 06  vi\'ean\par
 U\u7889?ng 3 vi\'ean/ l\u7847?n 14h-20h\par
-Theo d\u245?i to\'e0n tr\u7841?ng, ra m\'e1u \'e2m \f7\lang9\'f0\f4\lang1066\u7841?\f5\lang9 o, v\f4\lang1066\u7871?\f5\lang9 t m\f4\lang1066\u7893?\f5\lang9 , sonde ti\f4\lang1066\u7875?\f5\lang9 u r\'fat l\'fac     16        gi\f4\lang1066\u7901?\f3\lang9\par
+Theo d\f3\lang1033\'f5i to\'e0n tr\f4\lang1066\u7841?ng, ra m\'e1u \'e2m \f7\lang9\'f0\f4\lang1066\u7841?\f5\lang9 o, v\f4\lang1066\u7871?\f5\lang9 t m\f4\lang1066\u7893?\f5\lang9 , sonde ti\f4\lang1066\u7875?\f5\lang9 u r\'fat l\'fac     16        gi\f4\lang1066\u7901?\f3\lang9\par
 CSC II - ch\'e1o\par
 \cell\row\trowd\trgaph10\trleft5\trrh358\trbrdrl\brdrs\brdrw10\brdrcf2 \trbrdrt\brdrs\brdrw10\brdrcf2 \trbrdrr\brdrs\brdrw10\brdrcf2 \trbrdrb\brdrs\brdrw10\brdrcf2 \trpaddl10\trpaddr10\trpaddfl3\trpaddfr3
 \clcbpat7\clbrdrl\brdrw10\brdrs\brdrcf2\clbrdrt\brdrw10\brdrs\brdrcf2\clbrdrr\brdrw10\brdrs\brdrcf2\clbrdrb\brdrw10\brdrs\brdrcf2 \cellx10550 
@@ -489,7 +489,7 @@ CSC II - ch\'e1o\par
 \pard\intbl\widctlpar\b0\f5 BN v\f4\lang1066\u7873?\f5\lang9  khu \'f0i\f4\lang1066\u7873?\f5\lang9 u tr\f4\lang1066\u7883?\f3\lang9\par
 \f4\lang1066 T\u7881?nh t\'e1o, ti\u7871?p x\'fac \'f0\'fd\u7907?c\f3\lang9\par
 \f5 M\f4\lang1066\u7841?\f5\lang9 ch, nhi\f4\lang1066\u7879?\f5\lang9 t \'f0\f4\lang1066\u7897?\f5\lang9  \f4\lang1066\u7893?\f5\lang9 n \'f0\f4\lang1066\u7883?\f5\lang9 nh.\f3\par
-Tim, ph\f4\lang1066\u7893?i b\u236?nh th\'fd\u7901?ng\f3\lang9\par
+Tim, ph\f4\lang1066\u7893?i b\f3\lang1033\'ecnh th\u432?\f4\lang1066\u7901?ng\f3\lang9\par
 SpO2: 99 %\par
 T\f4\lang1066\u7841?i ch\u7895?:\par
 B\u7909?ng \'f0au \'edt, kh\'f4ng ch\'fd\u7899?ng\f3\lang9\par
@@ -505,7 +505,7 @@ Rotunda 30 mg x 02 vi\'ean\par
 U\u7889?ng 02 vi\'ean / l\u7847?n l\'fac 22 gi\u7901?\par
 Alphachymotrypsine x 03  vi\'ean\par
 U\u7889?ng 3 vi\'ean/ l\u7847?n 20h \par
-Theo d\u245?i to\'e0n tr\u7841?ng, ra m\'e1u \'e2m \f7\lang9\'f0\f4\lang1066\u7841?\f5\lang9 o, v\f4\lang1066\u7871?\f5\lang9 t m\f4\lang1066\u7893?\f5\lang9 , sonde ti\f4\lang1066\u7875?\f5\lang9 u r\'fat l\'fac     20        gi\f4\lang1066\u7901?\f3\lang9\par
+Theo d\f3\lang1033\'f5i to\'e0n tr\f4\lang1066\u7841?ng, ra m\'e1u \'e2m \f7\lang9\'f0\f4\lang1066\u7841?\f5\lang9 o, v\f4\lang1066\u7871?\f5\lang9 t m\f4\lang1066\u7893?\f5\lang9 , sonde ti\f4\lang1066\u7875?\f5\lang9 u r\'fat l\'fac     20        gi\f4\lang1066\u7901?\f3\lang9\par
 CSC II - ch\'e1o\par
 \par
 \par
