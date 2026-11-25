@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-25T16:09:20.1223403+07:00" publishId="20261125090920121-4424FDCA" publishedAt="2026-11-25T09:09:20.1213433Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-25T20:08:21.1425121+07:00" publishId="20261125130821142-7779FE62" publishedAt="2026-11-25T13:08:21.1425121Z" publishedFrom="ASUS-KAITORKID" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="lDogLkXyqfvV9uw0k/etPw==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -19969,7 +19969,7 @@ Theo d\'F5i ph\'1EA3n x\'1EA1 g\'E2n x\'1B0\'1A1ng, nh\'1ECBp th\'1EDF, n\'1B0\'
   </folder>
   <folder id="b41b5445175740c192014f082644d4d5" name="bsquang" own="bsquang" home="1" by="bsquang" del="1" delAt="2026-11-22T10:09:50.0154675+07:00" delBy="bsquang" ord="3072" cu="639307609648383961" pu="639307609648383961" du="639309137900154675" ch="CvF8s5TZ4R3E5uztn6hEOA==">
     <folder id="4751e1f9c11946bf8bf6402b6ed105c4" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" del="1" delAt="2026-11-21T14:51:43.4071757+07:00" delBy="bsquang" ord="1024" cu="639308442187326055" pu="1" du="639308443034071757" par="b41b5445175740c192014f082644d4d5" ch="FCnULipK66qMPVQvqOg0Lw==" />
-    <item id="5a4e728d225f4dbaa9f0e702d0be44c0" name="Bài viết mới" by="bsquang" ord="2048" cu="639308442721671346" pu="639308442916264518" du="0" par="b41b5445175740c192014f082644d4d5" ch="CZKepC3WLwBH6tI04p4osQ==" updated="2026-11-19T08:31:44.2369406+07:00">
+    <item id="5a4e728d225f4dbaa9f0e702d0be44c0" name="Bài viết mới" own="bsquang" by="bsquang" ord="2048" cu="639312089010804196" pu="639308442916264518" du="0" par="b41b5445175740c192014f082644d4d5" ch="j14u/0Qibk2ECZD1fDK0Bw==" updated="2026-11-19T08:31:44.2369406+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.26100}\viewkind4\uc1 
@@ -24486,14 +24486,14 @@ a28a00ffd9
         <rtf></rtf>
       </hist>
     </item>
-    <item id="aeeafc38bb8042018158945e1cbeea71" name="Khám AF" tags="khám, tư vấn" own="bsquang" by="bsquang" ord="3072" cu="639311716651859003" pu="639311716489983983" du="0" par="2b57685cab384ec2ae29d519220a59e4" ch="8pIme4JaxFEAXiFxTHVCvg==" updated="2026-11-25T09:47:45.1808005+07:00">
+    <item id="aeeafc38bb8042018158945e1cbeea71" name="Khám AF" tags="khám, tư vấn" own="bsquang" by="bsquang" ord="3072" cu="639311716651859003" pu="639311716489983983" du="0" par="2b57685cab384ec2ae29d519220a59e4" ch="ao7oDDCJhFPdQnPpNC5f3g==" updated="2026-11-25T09:47:45.1808005+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
 \pard\f0\fs23\par
 }
 </rtf>
-      <link title="KHÁM AFHANOI" url="https://bsquang.org/kham-afhn" by="bsquang" />
+      <link title="KHÁM AFHANOI" url="https://bsquang.org/kham-afhn" />
       <hist time="2026-11-25T09:47:45.1808005+07:00" name="KHÁM AFHANOI" tags="khám, tư vấn" by="bsquang">
         <text></text>
         <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
@@ -24560,7 +24560,7 @@ a28a00ffd9
       </hist>
     </item>
     <folder id="ddf69ee3a1a34d9682be92a75ea8c3cc" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" del="1" delAt="2026-11-22T11:02:37.9647855+07:00" delBy="bsquang" ord="2048" cu="639309169531320569" pu="639309169531320569" du="639309169579647855" par="533227e2446b46aa9d32676ebd03557a" ch="FCnULipK66qMPVQvqOg0Lw==" />
-    <item id="6b006b464bf44e2d82e73edbd723db5a" name="TĐT BỆNH ÁN NGOẠI KHOA" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T11:42:40.4651590+07:00" delBy="bsquang" ord="3072" cu="639309190881161513" pu="639309169602648200" du="639309193604651590" par="533227e2446b46aa9d32676ebd03557a" ch="p9s73RmM/sqPECxE2UDguQ==" updated="2026-11-22T11:05:55.7153798+07:00" p0go="https://docs.google.com/document/d/1fQ91S2WL7owOj8aCAngrQb3TgC4mM9oC/edit">
+    <item id="6b006b464bf44e2d82e73edbd723db5a" name="TĐT BỆNH ÁN NGOẠI KHOA" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T11:42:40.4651590+07:00" delBy="bsquang" ord="3072" cu="639309190881161513" pu="639309169602648200" du="639309193604651590" par="533227e2446b46aa9d32676ebd03557a" ch="m2b57Lq8/kZMJ3RuMycg2g==" updated="2026-11-22T11:05:55.7153798+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
@@ -25021,14 +25021,14 @@ c031441800700c1106001c43840100c7106100c031441800700c1106001c43840100c7106100c0
         <rtf></rtf>
       </hist>
     </item>
-    <item id="5a2ed11a20fe4a6db427fd58d763475a" name="TĐT BỆNH ÁN NGOẠI KHOA 2026" tags="ba, bệnh án, tđt, tờ điều trị, phẫu thuật, pt" own="bsquang" by="bsquang" ord="6144" cu="639311630700106686" pu="639311016327375793" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="LV9gXKTB2gGBMTlm2qx4Pg==" updated="2026-11-24T14:21:42.5408650+07:00">
+    <item id="5a2ed11a20fe4a6db427fd58d763475a" name="TĐT BỆNH ÁN NGOẠI KHOA 2026" tags="ba, bệnh án, tđt, tờ điều trị, phẫu thuật, pt" own="bsquang" by="bsquang" ord="6144" cu="639311630700106686" pu="639311016327375793" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="YLS/o4t/lQuq50lHc3CEzw==" updated="2026-11-24T14:21:42.5408650+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
 \pard\f0\fs23\par
 }
 </rtf>
-      <link title="TĐT BỆNH ÁN NGOẠI KHOA 2026" url="https://docs.google.com/document/d/1fQ91S2WL7owOj8aCAngrQb3TgC4mM9oC/edit?usp=drive_link&amp;ouid=106142704489747714382&amp;rtpof=true&amp;sd=true" by="bsquang" />
+      <link title="TĐT BỆNH ÁN NGOẠI KHOA 2026" url="https://docs.google.com/document/d/1fQ91S2WL7owOj8aCAngrQb3TgC4mM9oC/edit?usp=drive_link&amp;ouid=106142704489747714382&amp;rtpof=true&amp;sd=true" />
       <hist time="2026-11-24T14:21:42.5408650+07:00" name="Bài viết mới" tags="" by="bsquang">
         <text></text>
         <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
@@ -25043,14 +25043,14 @@ c031441800700c1106001c43840100c7106100c031441800700c1106001c43840100c7106100c0
       </hist>
     </item>
     <folder id="d99f7f23b50b4ca3851fc7ac04e27c69" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" del="1" delAt="2026-11-25T10:13:26.5180812+07:00" delBy="bsquang" ord="7168" cu="639311731979240960" pu="639311731979327317" du="639311732065180812" par="533227e2446b46aa9d32676ebd03557a" ch="FCnULipK66qMPVQvqOg0Lw==" />
-    <item id="f705b06f90e24932a5be1c2a31128fec" name="TĐT Bệnh án dọa sảy" tags="bệnh án, ba, dọa sảy, ds" own="bsquang" by="bsquang" ord="8192" cu="639311945601057543" pu="639311733224979998" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="IWQVJ0YyUpRbd/ePCwNpzA==" updated="2026-11-25T10:16:13.6470957+07:00">
+    <item id="f705b06f90e24932a5be1c2a31128fec" name="TĐT Bệnh án dọa sảy" tags="bệnh án, ba, dọa sảy, ds" own="bsquang" by="bsquang" ord="8192" cu="639311945601057543" pu="639311733224979998" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="/p2pTRRLnCMQkfLIXbeJ8A==" updated="2026-11-25T10:16:13.6470957+07:00">
       <text></text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
 \pard\f0\fs23\par
 }
 </rtf>
-      <link title="TĐT Bệnh án dọa sảy" url="https://docs.google.com/document/d/11-0FF_mHUjDWeroeRhoP-KePtLviHeNx/edit?usp=sharing&amp;ouid=106142704489747714382&amp;rtpof=true&amp;sd=true" by="bsquang" />
+      <link title="TĐT Bệnh án dọa sảy" url="https://docs.google.com/document/d/11-0FF_mHUjDWeroeRhoP-KePtLviHeNx/edit?usp=sharing&amp;ouid=106142704489747714382&amp;rtpof=true&amp;sd=true" />
       <hist time="2026-11-25T10:15:33.4824846+07:00" name="Bài viết mới" tags="" by="bsquang">
         <text></text>
         <rtf></rtf>
@@ -25058,7 +25058,7 @@ c031441800700c1106001c43840100c7106100c031441800700c1106001c43840100c7106100c0
     </item>
   </folder>
   <folder id="tv-dong-gop" name="Thư viện đóng góp" ord="7168" cu="639311009125815166" pu="639311009125815166" du="0" ch="nymxypgzI3nJDGwm88+uiA==">
-    <item id="e2364bd6ee074d198d4eb7ae14b56e6f" name="Bài viết mới" own="bsquang" lt="739d0654b3794ecd9534d41a1b8f5b62" by="bsquang" del="1" delAt="2026-11-24T14:08:59.8929740+07:00" delBy="bsquang" ord="1024" cu="639311009125815166" pu="1" du="639311009398929740" par="tv-dong-gop" ch="6MdprX51o6Ey/PPphrhb8A==" updated="2026-11-24T14:08:32.5815166+07:00">
+    <item id="e2364bd6ee074d198d4eb7ae14b56e6f" name="Bài viết mới" own="bsquang" by="bsquang" del="1" delAt="2026-11-24T14:08:59.8929740+07:00" delBy="bsquang" ord="1024" cu="639311009125815166" pu="1" du="639311009398929740" par="tv-dong-gop" ch="AEHKl2DFF88UFF/J2tng3g==" updated="2026-11-24T14:08:32.5815166+07:00">
       <text></text>
       <rtf></rtf>
     </item>
