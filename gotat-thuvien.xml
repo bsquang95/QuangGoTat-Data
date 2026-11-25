@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-25T09:06:05.9952668+07:00" publishId="20261125020605995-B5FAEF39" publishedAt="2026-11-25T02:06:05.9952668Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-25T09:06:20.0004804+07:00" publishId="20261125020620000-FAD94311" publishedAt="2026-11-25T02:06:20.0004804Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="lDogLkXyqfvV9uw0k/etPw==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -19988,9 +19988,18 @@ Theo d\'F5i ph\'1EA3n x\'1EA1 g\'E2n x\'1B0\'1A1ng, nh\'1ECBp th\'1EDF, n\'1B0\'
     </item>
   </folder>
   <folder id="2b57685cab384ec2ae29d519220a59e4" name="PHIẾU TƯ VẤN" own="bsquang" priv="1" by="bsquang" ord="4096" cu="639311009523786062" pu="639309137923659559" du="0" ch="SVgUTSSnzHO7KOXyoPgEpg==">
-    <item id="aeeafc38bb8042018158945e1cbeea71" name="Bài viết mới" own="bsquang" priv="1" by="bsquang" ord="1024" cu="639311691549808887" pu="1" du="0" par="2b57685cab384ec2ae29d519220a59e4" ch="JUEdfAstQAu2ThVR4iR0Bg==" updated="2026-11-25T09:05:54.9808887+07:00">
+    <item id="aeeafc38bb8042018158945e1cbeea71" name="Bài viết mới" own="bsquang" priv="1" by="bsquang" ord="1024" cu="639311691703316968" pu="1" du="0" par="2b57685cab384ec2ae29d519220a59e4" ch="2J21gHJPx7qwrYKMPjxvJw==" updated="2026-11-25T09:06:10.3989246+07:00">
       <text></text>
-      <rtf></rtf>
+      <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs23\par
+}
+</rtf>
+      <link title="KHÁM AFHANOI" url="https://bsquang.org/kham-afhn" by="bsquang" />
+      <hist time="2026-11-25T09:06:10.3316968+07:00" name="Bài viết mới" tags="" by="bsquang">
+        <text></text>
+        <rtf></rtf>
+      </hist>
     </item>
   </folder>
   <folder id="6c2e858982fd4bf69170f576a0c0659e" name="bsquang" own="bsquang" home="1" by="bsquang" ord="5120" cu="639309138107214153" pu="639309138107214153" du="0" ch="CvF8s5TZ4R3E5uztn6hEOA==">
