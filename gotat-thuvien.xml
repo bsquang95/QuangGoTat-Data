@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-25T10:13:35.4504062+07:00" publishId="20261125031335450-138303C5" publishedAt="2026-11-25T03:13:35.4504062Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-25T10:15:30.7837654+07:00" publishId="20261125031530783-85D31441" publishedAt="2026-11-25T03:15:30.7837654Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="lDogLkXyqfvV9uw0k/etPw==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -25048,6 +25048,10 @@ c031441800700c1106001c43840100c7106100c031441800700c1106001c43840100c7106100c0
       </hist>
     </item>
     <folder id="d99f7f23b50b4ca3851fc7ac04e27c69" name="Thư mục mới" own="bsquang" priv="1" by="bsquang" del="1" delAt="2026-11-25T10:13:26.5180812+07:00" delBy="bsquang" ord="7168" cu="639311731979240960" pu="639311731979327317" du="639311732065180812" par="533227e2446b46aa9d32676ebd03557a" ch="FCnULipK66qMPVQvqOg0Lw==" />
+    <item id="f705b06f90e24932a5be1c2a31128fec" name="Bài viết mới" own="bsquang" priv="1" by="bsquang" ord="8192" cu="639311733224979998" pu="639311733224979998" du="0" par="533227e2446b46aa9d32676ebd03557a" ch="JUEdfAstQAu2ThVR4iR0Bg==" updated="2026-11-25T10:15:22.4979998+07:00">
+      <text></text>
+      <rtf></rtf>
+    </item>
   </folder>
   <folder id="tv-dong-gop" name="Thư viện đóng góp" ord="7168" cu="639311009125815166" pu="639311009125815166" du="0" ch="nymxypgzI3nJDGwm88+uiA==">
     <item id="e2364bd6ee074d198d4eb7ae14b56e6f" name="Bài viết mới" own="bsquang" lt="739d0654b3794ecd9534d41a1b8f5b62" by="bsquang" del="1" delAt="2026-11-24T14:08:59.8929740+07:00" delBy="bsquang" ord="1024" cu="639311009125815166" pu="1" du="639311009398929740" par="tv-dong-gop" ch="6MdprX51o6Ey/PPphrhb8A==" updated="2026-11-24T14:08:32.5815166+07:00">
