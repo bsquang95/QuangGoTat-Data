@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-25T10:00:55.4167560+07:00" publishId="20261125030055416-3FA5EE6C" publishedAt="2026-11-25T03:00:55.4167560Z" publishedFrom="P210B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-25T10:01:08.1314779+07:00" publishId="20261125030108131-9490BDA9" publishedAt="2026-11-25T03:01:08.1314779Z" publishedFrom="P210B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="lDogLkXyqfvV9uw0k/etPw==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -19988,14 +19988,14 @@ Theo d\'F5i ph\'1EA3n x\'1EA1 g\'E2n x\'1B0\'1A1ng, nh\'1ECBp th\'1EDF, n\'1B0\'
     </item>
   </folder>
   <folder id="2b57685cab384ec2ae29d519220a59e4" name="PHIẾU TƯ VẤN" own="bsquang" by="bsquang" ord="4096" cu="639311693497299272" pu="639309137923659559" du="0" ch="FdeJtZ1PYR1s/h/xFGGpYw==">
-    <item id="00d6084974dc48a0913025aa36577d7b" name="Thalassemia" own="bsquang" priv="1" by="bsquang" ord="2048" cu="639311724445832305" pu="639311716462323820" du="0" par="2b57685cab384ec2ae29d519220a59e4" ch="omAOTNZENUXZiouPmcSC6g==" updated="2026-11-25T10:00:44.5832305+07:00">
+    <item id="00d6084974dc48a0913025aa36577d7b" name="Thalassemia" own="bsquang" priv="1" by="bsquang" ord="2048" cu="639311724594833043" pu="639311716462323820" du="0" par="2b57685cab384ec2ae29d519220a59e4" ch="kWqX14j8eS0m36wBqg9sEA==" updated="2026-11-25T10:00:59.4833043+07:00">
       <text> 
 
  
 </text>
       <rtf>{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil Segoe UI;}}
 {\*\generator Riched20 10.0.19041}\viewkind4\uc1 
-\pard\f0\fs23{\pict{\*\picprop{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn posv}{\sv 1}}
+\pard\qc\f0\fs23{\pict{\*\picprop{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn posv}{\sv 1}}
 }\jpegblip\picw16007\pich8924\picwgoal9075\pichgoal5059 
 ffd8ffe000104a46494600010101006000600000ffdb0043000604050505040605050507060607
 090f0a09080809130d0e0b0f1613171716131515181b231e181a211a15151e291f212425272827
@@ -21343,8 +21343,10 @@ a5a298c4a28a298c4a29692a804a28a5a6312929692980514514c62514b455009494b494c61451
 45318945145300a4a5a4a6014514550c4a28a29805252d253189451455005252d14c62514514c6
 2514b494c0292968a631b452d25501ffd9
 }\par
-\par
-{\pict{\*\picprop{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn posv}{\sv 1}}
+
+\pard\par
+
+\pard\qc{\pict{\*\picprop{\sp{\sn wzDescription}{\sv Image}}{\sp{\sn posv}{\sv 1}}
 }\jpegblip\picw16007\pich8936\picwgoal9075\pichgoal5066 
 ffd8ffe000104a46494600010101006000600000ffdb0043000604050505040605050507060607
 090f0a09080809130d0e0b0f1613171716131515181b231e181a211a15151e291f212425272827
@@ -23102,7 +23104,8 @@ b494c02928a298c28a292980514515401494514c61451453189494b494c028a28aa1894b494530
 451494c028a28aa18525145318514525300a28a298c2928a2a8028a29298c29296929805145154
 3128a28a630a4a5a4a60145145301292969298cfffd9
 }\par
-\par
+
+\pard\par
 }
 </rtf>
       <hist time="2026-11-25T09:59:19.2531353+07:00" name="Thalassemia" tags="" by="bsquang">
