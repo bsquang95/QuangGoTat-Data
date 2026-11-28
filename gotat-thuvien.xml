@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<QuangThuVien version="1" savedAt="2026-11-26T07:31:32.4077686+07:00" publishId="20261126003132407-1E0B5A3B" publishedAt="2026-11-26T00:31:32.4077686Z" publishedFrom="P105B" merge="1">
+<QuangThuVien version="1" savedAt="2026-11-28T14:38:14.0905791+07:00" publishId="20261128073814090-4D019AF4" publishedAt="2026-11-28T07:38:14.0905791Z" publishedFrom="P105B" merge="1">
   <folder id="1716b3aa0a5546369a689266c97b728b" name="Tư vấn" del="1" delAt="2026-11-22T10:09:44.2886921+07:00" delBy="bsquang" ord="1024" cu="639305868084388350" pu="0" du="639309137842886921" ch="GNUizA6wKazYMQ6fJAiZJA==">
     <item id="27b5a8c922604da59358ec425b851218" name="Thalassemia (bản sao)" tags="thalas" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T09:49:36.5461676+07:00" delBy="bsquang" ord="0" cu="639309167152145984" pu="639309125355125764" du="639309125765461676" par="1716b3aa0a5546369a689266c97b728b" ch="lDogLkXyqfvV9uw0k/etPw==" updated="2026-11-11T11:42:28.2067143+07:00">
       <text></text>
@@ -19408,6 +19408,16 @@ a05c5f5ecac3ab3dc31ddf866bdb7e0ac8d3f81e391b3937328e4e4f514515e8e5edbadabe8746
       <text></text>
       <rtf></rtf>
       <link title="https://bsquang.org/kham-afhn" url="https://bsquang.org/kham-afhn" />
+    </item>
+  </folder>
+  <folder id="60688aa8ff39425fb8b7703cba1ebca8" name="Quy trình" ord="1152" cu="639314482912824319" pu="639314482940008454" du="0" ch="p0y8bf0nR1toIlI5sUYXsA==">
+    <item id="e1c99403d8134112958e70426b0c1371" name="Hướng dẫn dùng Thư viện" tags="huong dan" ord="1024" cu="639314482912824319" pu="1" du="0" par="60688aa8ff39425fb8b7703cba1ebca8" ch="6ln8LQbjluqf3SnPFF4MMw==" updated="2026-11-28T14:38:11.2824319+07:00">
+      <text>Thư viện lưu kiến thức, quy trình, quy định, hình ảnh… để tra cứu nhanh.
+• + Mục mới / + Thư mục để thêm.
+• Dán ảnh (Ctrl+V) hoặc nút 🖼 để chèn ảnh.
+• 🔗 Thêm link website / Google Drive, nhấp đúp để mở.
+• 🖨 In… để in mục đang xem.</text>
+      <rtf></rtf>
     </item>
   </folder>
   <folder id="c814209b63af45e4a9eff82145461e0c" name="TỜ ĐIỀU TRỊ" own="bsquang" by="bsquang" del="1" delAt="2026-11-22T10:09:47.0629559+07:00" delBy="bsquang" ord="1280" cu="639307633423766346" pu="639307608917522153" du="639309137870629559" ch="fjwSJgo7wcZZZeW0LVIOAQ==">
